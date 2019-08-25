@@ -13,9 +13,7 @@ googleAnalytics = ""
   style = "default"
   description = "Describe your website"
   copyright = "&copy;2019 Caroline S. Lebar"
-  sidebarAbout = [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
-  ]
+  sidebarAbout = []
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -41,7 +39,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Portfolio"
   url = "portfolio/"
   home = true
 
