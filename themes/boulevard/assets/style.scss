@@ -6,33 +6,57 @@ $two-col-max-width: 11in;
 
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
 
+// https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/
+// It's 100% correct; how can you argue with that?
+@mixin for-phone-only {
+  @media (max-width: 599px) { @content; }
+}
+@mixin for-tablet-portrait-up {
+  @media (min-width: 600px) { @content; }
+}
+@mixin for-tablet-portrait-only {
+  @media (min-width: 600px) and (max-width: 899px) { @content; }
+}
+@mixin for-tablet-landscape-up {
+  @media (min-width: 900px) { @content; }
+}
+@mixin for-tablet-landscape-only {
+  @media (min-width: 900px) and (max-width: 1199px) { @content; }
+}
+@mixin for-desktop-up {
+  @media (min-width: 1200px) { @content; }
+}
+@mixin for-desktop-only {
+  @media (min-width: 1200px) and (max-width: 1799px) { @content; }
+}
+@mixin for-big-desktop-up {
+  @media (min-width: 1800px) { @content; }
+}
+
 body {
   font-family: Raleway;
-  @media (max-width: $one-col-max-width) {
+  @include for-phone-only {
     padding-left: 0.5em;
     padding-right: 0.5em;
   }
-  @media (min-width: $one-col-max-width + 1px) {
-    padding-left: $page-lr-margin;
-    padding-right: $page-lr-margin;
+  @include for-tablet-portrait-only {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  @include for-tablet-landscape-up {
+    padding-left: 5em;
+    padding-right: 5em;
   }
 }
 
 #header {
-  @media (max-width: $one-col-max-width) {
-    .title {
-      display: block;
-    }
+  @include for-phone-only {
+    margin-bottom: 1.5em;
     .nav {
-      display: block;
-      padding-bottom: 2em;
-
-      li:first-child {
-        padding-left: 0em;
-      }
+      margin-top: .5em;
     }
   }
-  @media (min-width: $one-col-max-width + 1px) {
+  @include for-tablet-portrait-up {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -40,25 +64,27 @@ body {
 
     margin-top: $header-vert-margin;
     margin-bottom: $header-vert-margin;
-
-    .nav {
-      display: inline;
-      li {
-      }
-    }
   }
 
   .title {
-    font-size: 2em;
+    @include for-phone-only {
+      font-size: 8vw;
+    }
+    @include for-tablet-portrait-up {
+      font-size: 2em;
+    }
     padding-right: 1em;
     padding-bottom: .2em;
     white-space: nowrap;
   }
   .nav {
-    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
     font-size: 1em;
     white-space: nowrap;
     padding-left: 0;
+    display: inline-block;
     li {
       padding-left: 1em;
       display: inline;
@@ -82,22 +108,22 @@ body {
   display: grid;
   column-gap: $grid-margin;
 
-  @media (max-width: $one-col-max-width) {
+  @include for-phone-only {
     row-gap: $grid-margin / 2;
   }
-  @media (min-width: $one-col-max-width + 1px) {
+  @include for-tablet-portrait-up {
     row-gap: $grid-margin;
   }
 
   /* I'm sure there's a nicer way to do this in SASS. */
   /* TODO: Put a max width on the one-image size; we don't want to stretch the thumbnails. */
-  @media (max-width: $one-col-max-width) { 
+  @include for-phone-only {
     grid-template-columns: repeat(1, 1fr);
   }
-  @media (min-width: $one-col-max-width + 1px) and (max-width: $two-col-max-width) { 
+  @include for-tablet-portrait-only {
     grid-template-columns: repeat(2, 1fr);
   }
-  @media (min-width: $two-col-max-width + 1px) { 
+  @include for-tablet-landscape-up {
     grid-template-columns: repeat(3, 1fr);
   }
 
