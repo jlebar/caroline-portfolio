@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div id="portfolio">
+  {{ range .Data.Pages }}
+    <div class="item">
+      <a href="{{ .Permalink }}" alt="{{ .Title }}">
+        <img src="{{.Params.image | absURL}}" alt="{{ .Title }}" class="portfolio-item-image">
+      </a>
+      <div class=title>{{ .Title }}</div>
+    </div>
+  {{ end }}
+</div>
+
+{{ end }}

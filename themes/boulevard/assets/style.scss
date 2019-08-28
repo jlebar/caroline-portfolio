@@ -1,0 +1,93 @@
+$one-col-max-width: 6in;
+$two-col-max-width: 10in;
+$grid-margin: 1em;
+$header-vert-margin: 5em;
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+body {
+  font-family: Raleway;
+  @media (min-width: $one-col-max-width + 1px) { 
+    padding-left: 3em;
+    padding-right: 3em;
+}
+}
+
+#header {
+  @media (max-width: $one-col-max-width) {
+    .title {
+      display: block;
+      padding-bottom: .2em;
+    }
+  }
+  @media (min-width: $one-col-max-width + 1px) { 
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+    margin-top: $header-vert-margin;
+    margin-bottom: $header-vert-margin;
+
+    .nav {
+      li {
+        padding-left: 1em;
+      }
+    }
+  }
+
+  .title {
+    font-size: 2em;
+  }
+  .nav {
+    margin: 0;
+    font-size: 1em;
+    display: inline;
+    padding-left: 0;
+    li {
+      display: inline;
+      .current {
+        font-weight: 700;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+#portfolio {
+  display: grid;
+  column-gap: $grid-margin;
+  row-gap: $grid-margin;
+
+  /* I'm sure there's a nicer way to do this in SASS. */
+  /* TODO: Put a max width on the one-image size; we don't want to stretch the thumbnails. */
+  @media (max-width: $one-col-max-width) { 
+    grid-template-columns: repeat(1, 1fr);
+  }
+  @media (min-width: $one-col-max-width + 1px) and (max-width: $two-col-max-width) { 
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (min-width: $two-col-max-width + 1px) { 
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .item {
+    img {
+      width: 100%; /* Fit within container */
+      transition-property: filter;
+      transition-duration: 0.2s;
+      filter: grayscale(70%);
+    }
+    img:hover {
+      filter: grayscale(0%);
+    }
+    .title {
+      width: 100%;
+      text-align: center;
+    }
+  }
+}

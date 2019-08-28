@@ -1,6 +1,6 @@
 baseurl = "https://example.org/"
 title = "Caroline S. Lebar, AIA"
-theme = "creative-portfolio"
+theme = "boulevard"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -8,12 +8,8 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
-  style = "violet"
   description = "Describe your website"
   copyright = "&copy;2019 Caroline S. Lebar"
-  sidebarAbout = []
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual

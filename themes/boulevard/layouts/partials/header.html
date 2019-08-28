@@ -1,0 +1,16 @@
+<div id=header>
+  <span class=title>{{ .Site.Title }}</span>
+  <ul class=nav>
+    {{ $currentPage := . }}
+    {{ $currentURL := absURL $.URL }}
+    {{ range .Site.Params.navlinks }}
+      <li>
+        {{ if (eq $currentURL (absURL .url)) }}
+          <span class=current>{{ .name }}</span> 
+        {{ else }}
+          <a href="{{ absURL .url }}">{{ .name }}</a>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</div>
