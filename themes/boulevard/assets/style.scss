@@ -22,7 +22,6 @@ body {
   @media (max-width: $one-col-max-width) {
     .title {
       display: block;
-      padding-bottom: .2em;
     }
     .nav {
       display: block;
@@ -35,6 +34,7 @@ body {
   }
   @media (min-width: $one-col-max-width + 1px) {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: baseline;
 
@@ -50,10 +50,14 @@ body {
 
   .title {
     font-size: 2em;
+    padding-right: 1em;
+    padding-bottom: .2em;
+    white-space: nowrap;
   }
   .nav {
     margin: 0;
     font-size: 1em;
+    white-space: nowrap;
     padding-left: 0;
     li {
       padding-left: 1em;
@@ -67,6 +71,9 @@ body {
       a:hover {
         text-decoration: underline;
       }
+    }
+    li:first-child {
+      padding-left: 0em;
     }
   }
 }
