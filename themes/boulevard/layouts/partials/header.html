@@ -1,8 +1,7 @@
 <div id=header>
   <span class=title>{{ .Site.Title }}</span>
   <ul class=nav>
-    {{ $currentPage := . }}
-    {{ $currentURL := absURL $.URL }}
+    {{ $currentURL := absURL .URL }}
     {{ range .Site.Params.navlinks }}
       <li>
         {{ if (eq $currentURL (absURL .url)) }}

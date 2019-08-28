@@ -1,16 +1,21 @@
-$one-col-max-width: 6in;
-$two-col-max-width: 10in;
-$grid-margin: 1em;
+$grid-margin: 3em;
+$page-lr-margin: 1in;
 $header-vert-margin: 5em;
+$one-col-max-width: 6in;
+$two-col-max-width: 11in;
 
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
 
 body {
   font-family: Raleway;
-  @media (min-width: $one-col-max-width + 1px) { 
-    padding-left: 3em;
-    padding-right: 3em;
-}
+  @media (max-width: $one-col-max-width) {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+  @media (min-width: $one-col-max-width + 1px) {
+    padding-left: $page-lr-margin;
+    padding-right: $page-lr-margin;
+  }
 }
 
 #header {
@@ -19,8 +24,16 @@ body {
       display: block;
       padding-bottom: .2em;
     }
+    .nav {
+      display: block;
+      padding-bottom: 2em;
+
+      li:first-child {
+        padding-left: 0em;
+      }
+    }
   }
-  @media (min-width: $one-col-max-width + 1px) { 
+  @media (min-width: $one-col-max-width + 1px) {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -29,8 +42,8 @@ body {
     margin-bottom: $header-vert-margin;
 
     .nav {
+      display: inline;
       li {
-        padding-left: 1em;
       }
     }
   }
@@ -41,9 +54,9 @@ body {
   .nav {
     margin: 0;
     font-size: 1em;
-    display: inline;
     padding-left: 0;
     li {
+      padding-left: 1em;
       display: inline;
       .current {
         font-weight: 700;
@@ -61,7 +74,13 @@ body {
 #portfolio {
   display: grid;
   column-gap: $grid-margin;
-  row-gap: $grid-margin;
+
+  @media (max-width: $one-col-max-width) {
+    row-gap: $grid-margin / 2;
+  }
+  @media (min-width: $one-col-max-width + 1px) {
+    row-gap: $grid-margin;
+  }
 
   /* I'm sure there's a nicer way to do this in SASS. */
   /* TODO: Put a max width on the one-image size; we don't want to stretch the thumbnails. */
@@ -78,12 +97,11 @@ body {
   .item {
     img {
       width: 100%; /* Fit within container */
-      transition-property: filter;
+      transition-property: opacity;
       transition-duration: 0.2s;
-      filter: grayscale(70%);
     }
     img:hover {
-      filter: grayscale(0%);
+      opacity: 0.7;
     }
     .title {
       width: 100%;
