@@ -8,7 +8,6 @@ weight = 1
 +++
 
 Stanford University
-<!--more-->
 
 Role: Project Architect  
 Site: Stanford, CA  

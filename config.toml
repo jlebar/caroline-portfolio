@@ -1,4 +1,4 @@
-baseurl = "http://jlebar.com/caroline-staging"
+baseURL = "http://jlebar.com/caroline-staging"
 title = "Caroline S. Lebar, AIA"
 theme = "boulevard"
 languageCode = "en-us"
@@ -6,6 +6,9 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+
+RelativeURLs=true
+CanonifyURLs=true
 
 [params]
   description = "Describe your website"
