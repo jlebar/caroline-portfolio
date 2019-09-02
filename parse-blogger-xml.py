@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import re
 import html
 import sys
 import xml
@@ -11,6 +12,12 @@ NS = {
 }
 
 def XmlToMarkdown(x):
+  # Remove starting <div dir="ltr" style="text-align: left;" trbidi="on"> and closing </div>.
+  BLOGGER_START = '<div dir="ltr" style="text-align: left;" trbidi="on">'
+  BLOGGER_END = '</div>'
+  x = re.sub('^%s(.*)%s$' % (re.escape(BLOGGER_START), re.escape(BLOGGER_END)),
+             r'\1', x, re.MULTILINE)
+
   x = x.replace('<br /><br />', '\n\n')
   x = x.replace('<br />', '\n\n')
   x = html.unescape(x)
