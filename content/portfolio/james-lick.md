@@ -7,17 +7,16 @@ showonlyimage = true
 weight = 1
 +++
 
+{{% article img="/img/portfolio/jl-1.jpg" %}}
 East Side Union High School District
-<!--more-->
 
 Role: Project Architect  
 Site: San Jose, CA  
 Completed: 2019  
 Project Size: 12,000 SF, new construction and major renovation  
 
-The Building 900 - Student Center renovation for James Lick High School included demolition of existing structures, the careful adaptation of the existing cafeteria and kitchen, and addition of a new library.  The resulting center creates a new heart for student activities on campus, including dining, studying, counseling, and administration.  A new outdoor courtyard with custom shade trellis marks the center of campus and invites students to gather, learn, and socialize in an environment that fosters community pride.
-
-![This is me](/img/portfolio/jl-1.jpg)
+The Building 900 -- Student Center renovation for James Lick High School included demolition of existing structures, the careful adaptation of the existing cafeteria and kitchen, and addition of a new library.  The resulting center creates a new heart for student activities on campus, including dining, studying, counseling, and administration.  A new outdoor courtyard with custom shade trellis marks the center of campus and invites students to gather, learn, and socialize in an environment that fosters community pride.
+{{% /article %}}
 
 ![This is me](/img/portfolio/jl-2.jpg)
 

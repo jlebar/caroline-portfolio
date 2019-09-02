@@ -1,3 +1,4 @@
+$content-max-width: 1000px;
 $grid-margin: 3em;
 $page-lr-margin: 1in;
 $header-vert-margin: 5em;
@@ -33,6 +34,13 @@ $two-col-max-width: 11in;
   @media (min-width: 1800px) { @content; }
 }
 
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
 body {
   font-family: Raleway;
   @include for-phone-only {
@@ -62,7 +70,7 @@ body {
     justify-content: space-between;
     align-items: baseline;
 
-    margin-top: $header-vert-margin;
+    padding-top: $header-vert-margin;
     margin-bottom: $header-vert-margin;
   }
 
@@ -90,12 +98,6 @@ body {
       display: inline;
       .current {
         font-weight: 700;
-      }
-      a {
-        text-decoration: none;
-      }
-      a:hover {
-        text-decoration: underline;
       }
     }
     li:first-child {
@@ -144,8 +146,43 @@ body {
 }
 
 #content {
-  width: auto;
+  max-width: $content-max-width;
   img {
     max-width: 100%;
   }
+}
+
+article {
+  display: grid;
+
+  @include for-phone-only {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  @include for-tablet-portrait-only {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  @include for-tablet-landscape-up {
+    grid-template-columns: 10em 1fr 2fr;
+
+    .text {
+      margin-right: 3em;
+      p:first-child {
+        margin-top: 0;
+      }
+      grid-area: span 1 / span 2;
+    }
+  }
+
+  .text {
+    hyphens: auto;
+    text-justify: inner-character;
+    text-align: justify;
+  }
+}
+
+#footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 1em;
 }
