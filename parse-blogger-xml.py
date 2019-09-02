@@ -45,7 +45,7 @@ for entry in root.findall('atom:entry', NS):
   isdraft = False
   control = entry.find('app:control', NS)
   if control is not None:
-    draft = entry.find('app:draft', NS)
+    draft = control.find('app:draft', NS)
     if draft is not None and draft.text == 'yes':
       isdraft = True
 
@@ -58,6 +58,6 @@ for entry in root.findall('atom:entry', NS):
     print('title = "%s"' % title.text, file=f)
     print('tags = %s' % tags, file=f)
     if isdraft:
-      print('draft = True')
+      print('draft = True', file=f)
     print('+++', file=f)
     print(XmlToMarkdown(content.text), file=f)
