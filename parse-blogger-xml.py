@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import os
 import re
 import html
 import sys
@@ -14,8 +15,28 @@ NS = {
 
 def XmlToMarkdown(x):
   soup = BeautifulSoup(html.unescape(x), 'html.parser')
+
+  # Get rid of all divs.
   for d in soup.find_all('div'):
     d.unwrap()
+
+  # Find links which only contain an image.  Replace these with just the image
+  # itself, which we get from the link URL.
+  #
+  # <a href="http://.../IMG_5337.JPG"><img src="http://.../IMG_5337.JPG"></a>
+  for a in soup.find_all('a'):
+    if len(a.contents) == 1 and a.contents[0].name == 'img':
+      img = a.contents[0]
+      if img['src'] and a['href'] and \
+         os.path.basename(img['src']) == os.path.basename(a['href']):
+        a.replace_with(BeautifulSoup('<img src="%s">' % a['href'], 'html.parser'))
+
+  # Replace <i>foo</i> with *foo*.
+  #for i in soup.find_all('i'):
+  #  i.insert_before('*')
+  #  i.insert_after('*')
+  #  i.unwrap()
+
   x = soup.decode(formatter=None)
 
   x = x.replace('<br/><br/>', '\n\n')
