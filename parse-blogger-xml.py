@@ -6,6 +6,7 @@ import html
 import sys
 import xml
 from xml.etree import ElementTree as et
+import bs4
 from bs4 import BeautifulSoup
 
 NS = {
@@ -43,6 +44,14 @@ def XmlToMarkdown(x):
     b.insert_after('**')
     b.unwrap()
 
+  # Replace <a href=...>foo</a> with markdown-style links.
+  for a in soup.find_all('a'):
+    if len(a.contents) == 1 and type(a.contents[0]) == bs4.element.NavigableString:
+      a.replace_with('[%s](%s)' % (a.contents[0], a['href']))
+    else:
+      print('Unable to munge link to markdown: ' + str(a))
+      if len(a.contents) >= 1:
+        print(type(a.contents[0]))
 
   x = soup.decode(formatter=None)
 
