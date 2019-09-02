@@ -32,10 +32,17 @@ def XmlToMarkdown(x):
         a.replace_with(BeautifulSoup('<img src="%s">' % a['href'], 'html.parser'))
 
   # Replace <i>foo</i> with *foo*.
-  #for i in soup.find_all('i'):
-  #  i.insert_before('*')
-  #  i.insert_after('*')
-  #  i.unwrap()
+  for i in soup.find_all('i'):
+    i.insert_before('*')
+    i.insert_after('*')
+    i.unwrap()
+
+  # Replace <b>foo</b> with **foo**.
+  for b in soup.find_all('b'):
+    b.insert_before('**')
+    b.insert_after('**')
+    b.unwrap()
+
 
   x = soup.decode(formatter=None)
 
