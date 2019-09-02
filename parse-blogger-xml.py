@@ -65,6 +65,8 @@ def XmlToMarkdown(x):
 
   x = x.replace('<br/><br/>', '\n\n')
   x = x.replace('<br/>', '\n\n')
+  x = re.sub('\n\n\n*', '\n\n', x)
+  x = x.strip()
   return x
 
 
