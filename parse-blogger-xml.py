@@ -5,6 +5,7 @@ import html
 import sys
 import xml
 from xml.etree import ElementTree as et
+from bs4 import BeautifulSoup
 
 NS = {
   'atom': 'http://www.w3.org/2005/Atom',
@@ -12,15 +13,13 @@ NS = {
 }
 
 def XmlToMarkdown(x):
-  # Remove starting <div dir="ltr" style="text-align: left;" trbidi="on"> and closing </div>.
-  BLOGGER_START = '<div dir="ltr" style="text-align: left;" trbidi="on">'
-  BLOGGER_END = '</div>'
-  x = re.sub('^%s(.*)%s$' % (re.escape(BLOGGER_START), re.escape(BLOGGER_END)),
-             r'\1', x, re.MULTILINE)
+  soup = BeautifulSoup(html.unescape(x), 'html.parser')
+  for d in soup.find_all('div'):
+    d.unwrap()
+  x = soup.decode(formatter=None)
 
-  x = x.replace('<br /><br />', '\n\n')
-  x = x.replace('<br />', '\n\n')
-  x = html.unescape(x)
+  x = x.replace('<br/><br/>', '\n\n')
+  x = x.replace('<br/>', '\n\n')
   return x
 
 
