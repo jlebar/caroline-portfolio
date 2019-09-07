@@ -4,7 +4,7 @@ title = "Arts Renaissance on Campus"
 tags = []
 draft = true
 +++
-Wish this had been going on while I was at Duke.  Over the last 10 years, much has been happening at the two campuses I know best.
+Wish this had been going on while I was at Duke.  Over the last 10 years, much has been happening at the two campuses I know best.
 
 Stanford Arts District - Frost - d.school - Anderson Collection - etc
 

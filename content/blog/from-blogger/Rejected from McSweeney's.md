@@ -3,7 +3,7 @@ date = "2013-10-20T20:17:00.001-07:00"
 title = "Rejected from McSweeney's"
 tags = ['sports', "mcsweeney's", 'list']
 +++
-<u>Worst Sports Team Names*</u>
+<u>Worst Sports Team Names&ast;</u>
 
 San Francisco Fog
 
@@ -41,8 +41,8 @@ West Point [Light Brigadiers](http://en.wikipedia.org/wiki/Charge_of_the_Light_B
 
 Silicon Valley Studs
 
-And last but not least - the Toronto Maple Leafs.  (Yes, I know that's a real team.)
+And last but not least - the Toronto Maple Leafs.  (Yes, I know that's a real team.)
 
-**Not actually rejected from [McSweeney's](http://www.mcsweeneys.net/tendency).  Yet.*
+*&ast;Not actually rejected from [McSweeney's](http://www.mcsweeneys.net/tendency).  Yet.*
 
 *Written in collaboration with jlebar.*

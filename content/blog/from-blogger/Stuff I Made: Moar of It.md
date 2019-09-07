@@ -5,7 +5,7 @@ tags = ['ornaments', '#nerdythirty', 'Christmas', 'stuff I made', 'Harry Potter'
 +++
 Yes, friends, it's time once again for me to show off some stuff I made, having accumulated enough stuff to constitute a post.
 
-I have been thinking about doing this for literally years.  Why didn't I do it sooner?  Who knows.  Here they are now:
+I have been thinking about doing this for literally years.  Why didn't I do it sooner?  Who knows.  Here they are now:
 
 <img src="https://1.bp.blogspot.com/-Gzn07NoAwks/Wq9StFrzCnI/AAAAAAAASts/UMprjXFcyjEUmt2eAO2ItCFK5W4IoJ99QCKgBGAs/s1600/IMG_20180318_182617.jpg"/>
 
@@ -13,17 +13,17 @@ I have been thinking about doing this for literally years.  Why didn't I do it 
 
 <img src="https://1.bp.blogspot.com/-VTle1Z0BArU/Wq9StO3DkqI/AAAAAAAASts/6jfEx6QWd-ggDA8EffXDPml5Hk0aMSXXQCKgBGAs/s1600/IMG_20180318_182449.jpg"/>
 
-These are super easy Harry Potter-inspired wands, via [this tutorial](http://www.instructables.com/id/Make-an-awesome-Harry-Potter-wand-from-a-sheet-of-/).  Next up I need to make a wand holster, via [this tutorial,](http://www.epbot.com/2015/06/diy-wand-holster-for-wizarding-world.html) to make it easier to carry the wand around!  (If you're super ambitious and want to make a wand that lights up, try [this tutorial instead](http://www.epbot.com/2014/07/diy-light-up-wand-tutorial-for-harry.html).)
+These are super easy Harry Potter-inspired wands, via [this tutorial](http://www.instructables.com/id/Make-an-awesome-Harry-Potter-wand-from-a-sheet-of-/).  Next up I need to make a wand holster, via [this tutorial,](http://www.epbot.com/2015/06/diy-wand-holster-for-wizarding-world.html) to make it easier to carry the wand around!  (If you're super ambitious and want to make a wand that lights up, try [this tutorial instead](http://www.epbot.com/2014/07/diy-light-up-wand-tutorial-for-harry.html).)
 
 To ensure you don't think that everything I make turns out well, I present to you, unfinished & abandoned Christmas ornaments of 2017:
 
 <img src="https://4.bp.blogspot.com/-4giz_Q7yMwo/Wq9U8EvnT_I/AAAAAAAASuI/H2oI-YBQD84aArJ1lsUC8RmxHcJUyLiIQCKgBGAs/s1600/IMG_20171214_220034.jpg"/>
 
-The laser cutter melted the edges so they were sticky and gross; the engraving was impossible to read; I couldn't figure out the paint job.  Sorry folks.  You'll have to wait til next year for ornaments.  But I did manage to cut out a bunch of squares of cardboard that may yet become something, someday!
+The laser cutter melted the edges so they were sticky and gross; the engraving was impossible to read; I couldn't figure out the paint job.  Sorry folks.  You'll have to wait til next year for ornaments.  But I did manage to cut out a bunch of squares of cardboard that may yet become something, someday!
 
-In case you didn't know, every year I also design the t-shirts and pins for the Odyssey of the Mind - Silicon Valley Regional Tournament.  These are shirts for judges, and pins for anyone to purchase.  I post these typically on my Tumblr, so [go check it out there](https://notbuiltinaday.tumblr.com/).
+In case you didn't know, every year I also design the t-shirts and pins for the Odyssey of the Mind - Silicon Valley Regional Tournament.  These are shirts for judges, and pins for anyone to purchase.  I post these typically on my Tumblr, so [go check it out there](https://notbuiltinaday.tumblr.com/).
 
-Let me see, what else did I make recently?  Oh yes, these buildings (Frost Amphitheater - though they are as yet incomplete):
+Let me see, what else did I make recently?  Oh yes, these buildings (Frost Amphitheater - though they are as yet incomplete):
 
 <img src="https://1.bp.blogspot.com/-FxkWS_J8TXY/Wq9Rcf44ihI/AAAAAAAAStY/_GutnHhwjGcg6sSSfzrHVpAxfuiWA7UfACKgBGAs/s1600/IMG_20180226_154038.jpg"/>
 
@@ -43,4 +43,4 @@ Also this one (James Lick HS - Student Center, also incomplete), although I did 
 
 <img src="https://1.bp.blogspot.com/-JrsmY0wJlyQ/Wq9SVPujf3I/AAAAAAAASto/TGnoZJE55j8ZQVJR7jVMZw2VtnqsAqpiQCKgBGAs/s1600/IMG_20180314_105637.jpg"/>
 
-I think that concludes this post of Stuff I Made!  Join me next time, when hopefully I will have made something slightly more finished (for the buildings) or interesting (for my personal projects).  If you enjoyed this stuff, let me know, so I will be encouraged to make moar!
+I think that concludes this post of Stuff I Made!  Join me next time, when hopefully I will have made something slightly more finished (for the buildings) or interesting (for my personal projects).  If you enjoyed this stuff, let me know, so I will be encouraged to make moar!

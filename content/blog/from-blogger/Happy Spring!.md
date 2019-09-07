@@ -13,4 +13,4 @@ Blooming!<img src="http://1.bp.blogspot.com/-NHiXQ2dgMYA/T6dvJGfBchI/AAAAAAAAAms
 
 <img src="http://4.bp.blogspot.com/-tmZJUQ7wU94/T6dvJuqa3UI/AAAAAAAAAm8/cMWLv6TCdXU/s1600/IMG_7016.JPG"/>This is the first time I've seen this plant in bloom, and it's really cute - the flowers are fuzzy!
 
-*Happy Spring!  Regular posts will return shortly - finals are almost over.*
+*Happy Spring!  Regular posts will return shortly - finals are almost over.*

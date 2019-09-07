@@ -3,9 +3,9 @@ date = "2013-03-18T07:30:00.002-07:00"
 title = "Kinne Trip: Japan!"
 tags = ['Japan', 'Kyoto', 'temple', 'street fair', 'Buddhist', 'Kinne']
 +++
-This spring, all my fellow third-year GSAPPers and I have the privilege of traveling as part of our studio, thanks to the William Kinne travel grant provided by the school.  My studio is traveling to Tokyo, Japan!  The trip traditionally takes place the week before spring break, allowing students to extend their stay in the visited location through their break; my trip is taking place during spring break, this week, so instead we were excused from studio last week and allowed to head out a week early.  Justin came with me, making this our first international vacation together.  We've been having quite an interesting time so far!  I'll try to break up the trip into a few posts.  We started the trip in Kyoto, the old capital of Japan, and home to most of the important sites from Japanese (architectural) history.  After four days there we went to Tokyo, where we are now, and will remain for the rest of the trip.
+This spring, all my fellow third-year GSAPPers and I have the privilege of traveling as part of our studio, thanks to the William Kinne travel grant provided by the school.  My studio is traveling to Tokyo, Japan!  The trip traditionally takes place the week before spring break, allowing students to extend their stay in the visited location through their break; my trip is taking place during spring break, this week, so instead we were excused from studio last week and allowed to head out a week early.  Justin came with me, making this our first international vacation together.  We've been having quite an interesting time so far!  I'll try to break up the trip into a few posts.  We started the trip in Kyoto, the old capital of Japan, and home to most of the important sites from Japanese (architectural) history.  After four days there we went to Tokyo, where we are now, and will remain for the rest of the trip.
 
-***
+&ast;&ast;&ast;
 
 **March 10-11th**
 

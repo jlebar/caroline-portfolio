@@ -3,7 +3,7 @@ date = "2014-10-15T18:14:00.000-07:00"
 title = "Rejected from McSweeney's: Fantasy Architecture Film Festival"
 tags = ['movies', 'sad attempt at humor', 'architecture']
 +++
-So you know how sports people are always talking about "fantasy football" or "fantasy baseball" or whatever?  It turns out that they aren't talking about a sports team filled with characters from fantasy novels or films.  (That *would* be so much more awesome, I know!)  What they mean instead is that they are "fantasizing" about the best team ever, in which they select the players for the different positions from any team.  (Or something like that, the specific workings escape me.)  Well, in the spirit of these fantasy sports enthusiasts, I would like to propose a fantasy architectural film festival, which would include all the films I'd like to show, if I had infinite time and an extremely patient audience.  Here we go!
+So you know how sports people are always talking about "fantasy football" or "fantasy baseball" or whatever?  It turns out that they aren't talking about a sports team filled with characters from fantasy novels or films.  (That *would* be so much more awesome, I know!)  What they mean instead is that they are "fantasizing" about the best team ever, in which they select the players for the different positions from any team.  (Or something like that, the specific workings escape me.)  Well, in the spirit of these fantasy sports enthusiasts, I would like to propose a fantasy architectural film festival, which would include all the films I'd like to show, if I had infinite time and an extremely patient audience.  Here we go!
 
 <u>Obviously</u>
 
@@ -25,7 +25,7 @@ The Towering Inferno
 
 Inception
 
-The Fountainhead*
+The Fountainhead&ast;
 
 (ok, yes, it's a short category, we aren't very heroic.)
 
@@ -57,9 +57,9 @@ The Day After Tomorrow
 
 Twister (ok, so it's mostly fields, cows, and cars that get destroyed, but some buildings do too!)
 
-Escape From New York**
+Escape From New York&ast;&ast;
 
-Ghostbusters***
+Ghostbusters&ast;&ast;&ast;
 
 Jumanji (omg when the floor turns into quicksand?? or when the whole house basically becomes a jungle?? so cool)
 
@@ -73,12 +73,12 @@ THX-1138
 
 Logan's Run
 
-Of course, there are dozens of other movies where architecture plays a starring role, rather than the part of an extra.  These are just the best ones that I can think of right now.  Also many of the films above could fall into more than one category, so feel free to watch them more than once.  I would.
+Of course, there are dozens of other movies where architecture plays a starring role, rather than the part of an extra.  These are just the best ones that I can think of right now.  Also many of the films above could fall into more than one category, so feel free to watch them more than once.  I would.
 
 This post <strike>brought to you by</strike> inspired by [Geoff Manaugh at BLDGBLOG](http://bldgblog.blogspot.com/2012/01/breaking-out-and-breaking-in.html).
 
-(*ironically)
+(&ast;ironically)
 
-(**not actually filmed in New York)
+(&ast;&ast;not actually filmed in New York)
 
-(***at least partially filmed in New York)
+(&ast;&ast;&ast;at least partially filmed in New York)

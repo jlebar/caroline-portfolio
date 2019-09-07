@@ -15,7 +15,18 @@ NS = {
 }
 
 def XmlToMarkdown(x):
-  soup = BeautifulSoup(html.unescape(x), 'html.parser')
+  x = html.unescape(x)
+
+  # Escape asterisks.  I have no idea why I need two semicolons; BeautifulSoup
+  # must somehow be eating one.
+  x = x.replace('*', '&ast;;')
+
+  # Replace nbsp with regular space.  This may mess up formatting that relies
+  # on nbsp, but it's important because you need spaces around e.g. * for
+  # markdown to format it properly.
+  x = x.replace('\u00A0', ' ')
+
+  soup = BeautifulSoup(x, 'html.parser')
 
   # Get rid of all divs.
   for d in soup.find_all('div'):
@@ -33,7 +44,7 @@ def XmlToMarkdown(x):
         a.replace_with(BeautifulSoup('<img src="%s">' % a['href'], 'html.parser'))
 
   # TODO: Handle inter-blog links, e.g.
-  #  Missed the first part?  Back to Part 1
+  #  "Missed the first part?  Back to Part 1"
 
   # TODO: Handle something like
   # <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://4.bp.blogspot.com/-vQjL5Y76rr8/XCxK2pfPtqI/AAAAAAAAYrA/ZQrKZFbbOUg9gLCiuS00NoyZY-uemRu4gCKgBGAs/s1600/IMG_20180913_193214.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">*Boots on the ground, if you will.*</td></tr></tbody></table>
