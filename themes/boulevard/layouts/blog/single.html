@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div id="content">
+   <h1>{{ .Title }}</h1>
+   <h2 class=date>{{ .Date.Format "January 2, 2006" }}</h2>
+   {{ .Content }}
+</div>
+
+{{- /* This really should be in a separate partial; it's copied from the 
+    _default but has "older/newer" instead of "next/prev" */ -}}
+<div id=footer>
+  <div id=back>
+    <a href="{{.Parent.Permalink}}">Back to {{.Parent.Title | singularize}}</a>
+  </div>
+  <div id=prevnext>
+  {{- /* I'd like this to be a separate Partial but that's not working. */ -}}
+  {{- /* Hugo's sense of prev/next is oldest first, but we want youngest first,
+       so we invert it here. */ -}}
+  {{if .NextInSection}}
+    <a href="{{.NextInSection.Permalink}}">Newer</a>
+  {{else}}
+    Newer
+  {{end}}
+  /
+  {{if .PrevInSection}}
+    <a href="{{.PrevInSection.Permalink}}">Older</a>
+  {{else}}
+    Older
+  {{end}}
+  </div>
+</div>
+{{ end }}
+
