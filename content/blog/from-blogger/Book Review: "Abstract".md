@@ -3,7 +3,7 @@ date = "2013-03-28T15:32:00.003-07:00"
 title = "Book Review: \"Abstract\""
 tags = ['GSAPP', 'book review', 'print']
 +++
-Every year Columbia GSAPP releases [a yearbook of sorts](http://books.gsapp.org/series), full of student work from the previous year.  This year's <a href="http://gsappabstract.tumblr.com/" target="_blank">*Abstract*</a>, designed by [Stefan Sagmeister](http://www.sagmeisterwalsh.com/),* *has been setting the school a-buzz, but not for the usual reasons.  Because this year's *Abstract* was a decoy.
+Every year Columbia GSAPP releases [a yearbook of sorts](http://books.gsapp.org/series), full of student work from the previous year.  This year's <a href="http://gsappabstract.tumblr.com/" target="_blank">*Abstract*</a>, designed by [Stefan Sagmeister](http://www.sagmeisterwalsh.com/), has been setting the school a-buzz, but not for the usual reasons.  Because this year's *Abstract* was a decoy.
 
 <img src="http://2.bp.blogspot.com/-sNVUodJ0fYU/UVM3RZHqPoI/AAAAAAAAB58/U4S9dZaCft8/s1600/IMG_20130327_132456.jpg"/>
 

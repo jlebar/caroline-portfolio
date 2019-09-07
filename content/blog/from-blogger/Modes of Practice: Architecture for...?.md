@@ -5,9 +5,7 @@ tags = ['human rights', 'pro bono', 'humanitarian', 'profession', 'public intere
 +++
 [This post was written in spring 2013, but I was too busy to finish it then - so here it is now!]
 
-*
-
-**Architecture for architects?*
+*Architecture for architects?*
 
 *Architecture for humanity?*
 

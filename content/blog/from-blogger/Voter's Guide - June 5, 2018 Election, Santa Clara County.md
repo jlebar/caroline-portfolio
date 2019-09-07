@@ -57,9 +57,7 @@ US Representative, District 18: Anna Eshoo (incumbent)
 
 Has the most reasonable candidate statement, seems to be doing an ok job based on her recent [voting record](https://ballotpedia.org/Anna_Eshoo)
 
-**
-
-****<u>Local Offices</u>**
+**<u>Local Offices</u>**
 
 State Assembly, District 24: Marc Berman (incumbent)
 

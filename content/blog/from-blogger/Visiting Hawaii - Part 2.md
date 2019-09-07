@@ -71,6 +71,4 @@ We packed up, returned the car, and then ate nearly an entire pineapple at the a
 
 *Missed the first part?  [Back to Part 1](http://notbuiltinaday.blogspot.com/2018/06/visiting-hawaii-part-1.html)*
 
-*
-
-**Just like seeing the photos?  [Here are some more](https://photos.app.goo.gl/hGCcznGgPxS5DNcM7)*
+*Just like seeing the photos?  [Here are some more](https://photos.app.goo.gl/hGCcznGgPxS5DNcM7)*

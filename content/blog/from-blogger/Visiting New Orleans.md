@@ -65,6 +65,6 @@ Meanwhile, nearby, but in a different neighborhood, new parks have opened to muc
 
 That's it for our New Orleans trip!  My conclusions from the trip were that New Orleans is beautiful, with a varied architectural presence, rich history, and determined residents; but not an attractive place to live, because it is also plagued by persistent racism and class tensions, conflicts between state and local government (read: it is located in Louisiana), a lack of adequate public infrastructure investment, crazy climate (and susceptibility to catastrophic flooding), and conservative Republicans.  I am impressed and awed by the tenacity of the good people of New Orleans, who have reclaimed their city after the great disaster of 2005.  One can imagine the city could have become a wasteland like Detroit, but that did not happen except in certain areas of the city (the most poor / marginalized areas).  Real estate remains relatively inexpensive, since so many residents never returned, but the city's culture continues on.  I hope to get the chance to visit again some day to see what continued changes and hard work are able to accomplish in this unique city.
 
-*<a href="https://photos.google.com/album/AF1QipNIK1cqxY1m63y1KWWWWuG4LnN-kU5xC9XkDG9c">
+<a href="https://photos.google.com/album/AF1QipNIK1cqxY1m63y1KWWWWuG4LnN-kU5xC9XkDG9c">
 
-</a>**[Check out the full photo set here.](https://photos.google.com/album/AF1QipNIK1cqxY1m63y1KWWWWuG4LnN-kU5xC9XkDG9c)*
+</a>*[Check out the full photo set here.](https://photos.google.com/album/AF1QipNIK1cqxY1m63y1KWWWWuG4LnN-kU5xC9XkDG9c)*

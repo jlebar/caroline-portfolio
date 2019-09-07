@@ -81,6 +81,6 @@ Things we didn’t do on Maui that I know everyone recommends: we didn’t go to
 
 But I have a feeling we’ll be back.
 
-*Still with me?  [On to Part 2](http://notbuiltinaday.blogspot.com/2018/07/visiting-hawaii-part-2.html)!**
+*Still with me?  [On to Part 2](http://notbuiltinaday.blogspot.com/2018/07/visiting-hawaii-part-2.html)!*
 
-**Just want to see all the photos?  [Check them out here!](https://photos.app.goo.gl/hGCcznGgPxS5DNcM7)*
+*Just want to see all the photos?  [Check them out here!](https://photos.app.goo.gl/hGCcznGgPxS5DNcM7)*

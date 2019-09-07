@@ -7,9 +7,7 @@ tags = ['Japan', 'Akihabara', 'Mori', 'Tokyo', 'Foreign Office Architects', 'Yok
 
 **March 20th**
 
-**
-
-*** *
+ 
 
 On Wednesday, halfway through our week, we spent the day with [Azby Brown](http://designobserver.com/author/azby-brown/2698/) on a great tour through more of the neighborhoods of Tokyo.  We started at the covered market of Ameyokocho, built below the elevated rail tracks.  We checked out [Akihabara](http://en.wikipedia.org/wiki/Akihabara), the "Electric Town," with its odd anime-centered shops and "[maid cafes](http://en.wikipedia.org/wiki/Maid_cafe)" where awkward young men can, supposedly, learn how to talk to women by having conversations with the waitresses.  This would all seem a lot more acceptable if the "maids" weren't dressed up as French maids, but alas, it all seems a bit sketchy to me.
 

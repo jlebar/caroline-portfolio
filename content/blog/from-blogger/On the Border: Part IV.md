@@ -41,6 +41,6 @@ In the afternoon we stayed inside.  We met with a public defender, Laura, at th
 
 For the rest of the afternoon, we discussed the difference between charity and solidarity, noting that many of the organizations we'd met were asking for the latter - more education, more opportunities to make their voices heard - rather than the former.  And then we made cookies.  Sometimes you really need some cookies at the end of a day of heat stroke and heartbreak.
 
-*To be continued in Part V.**
+*To be continued in Part V.*
 
-*Learn more about the Sonoran Desert:<ul style="text-align: left;"><li>[Arizona-Sonora Desert Museum](http://www.desertmuseum.org/desert/sonora.php)</li><li>[National Park Service website](https://science.nature.nps.gov/im/units/sodn/sonoran.cfm)</li></ul>
+Learn more about the Sonoran Desert:<ul style="text-align: left;"><li>[Arizona-Sonora Desert Museum](http://www.desertmuseum.org/desert/sonora.php)</li><li>[National Park Service website](https://science.nature.nps.gov/im/units/sodn/sonoran.cfm)</li></ul>

@@ -34,14 +34,16 @@ def XmlToMarkdown(x):
 
   # Replace <i>foo</i> with *foo*.
   for i in soup.find_all('i'):
-    i.insert_before('*')
-    i.insert_after('*')
+    if list(s for s in i.stripped_strings if s):
+      i.insert_before('*')
+      i.insert_after('*')
     i.unwrap()
 
   # Replace <b>foo</b> with **foo**.
   for b in soup.find_all('b'):
-    b.insert_before('**')
-    b.insert_after('**')
+    if list(s for s in b.stripped_strings if s):
+      b.insert_before('**')
+      b.insert_after('**')
     b.unwrap()
 
   # <h1..h7>

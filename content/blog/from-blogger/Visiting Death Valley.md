@@ -7,9 +7,7 @@ Last month, J's parents invited us and his brother to meet them in Death Valley 
 
 ### **Day 1 - Friday**
 
-**
-
-**We had an uneventful flight from San Jose to Las Vegas, where we met J’s brother at the airport, and were picked up by his parents in a giant, black Jeep Wrangler, nicknamed Monique, which would be our road trip vehicle for the weekend. Our first stop was Whole Foods, to stock up on provisions, which for today’s modern family includes water, shrimp rolls, artisanal cheese and crackers, a mango smoothie, and chocolate-covered almonds -- only the essentials.
+We had an uneventful flight from San Jose to Las Vegas, where we met J’s brother at the airport, and were picked up by his parents in a giant, black Jeep Wrangler, nicknamed Monique, which would be our road trip vehicle for the weekend. Our first stop was Whole Foods, to stock up on provisions, which for today’s modern family includes water, shrimp rolls, artisanal cheese and crackers, a mango smoothie, and chocolate-covered almonds -- only the essentials.
 
 We then drove out to Death Valley, losing signal as soon as we left the Whole Foods parking lot, and relying on the downloaded maps I had remembered to save to my phone before we left home. We took NV-160 through Pahrump and Death Valley Junction, following the recommendations of [this website](https://www.earthtrekkers.com/2-days-in-death-valley-itinerary/) the whole way. We had printed copies of the text of the website to refer to, which was good since no one in the car had any kind of signal for their phones. So while I could navigate us, we had no way to know what we wanted to go to! I won’t try to replicate all the information from that site, so check it out if you are thinking of going. Helpfully, it has not just recommendations about where to go, but how to get there, which, again, is important if you want to see some sights on your way in, but don’t yet have a park map or any idea of where you want to go.
 
