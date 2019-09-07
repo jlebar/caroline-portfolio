@@ -3,7 +3,7 @@ date = "2013-06-20T18:57:00.000-07:00"
 title = "Kinne Trip: Part 5"
 tags = ['Japan', 'Akihabara', 'Mori', 'Tokyo', 'Foreign Office Architects', 'Yokohama']
 +++
-*This is part 5 of a multi-part description of my trip to Kyoto and  Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my  studio at GSAPP.  See also: ***[first post](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-japan.html)*, ***[second post](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-part-2.html)*, [third post](http://notbuiltinaday.blogspot.com/2013/06/kinne-trip-part-3.html), [fourth post](http://notbuiltinaday.blogspot.com/2013/06/kinne-trip-part-4.html).  **To see all my photos from Tokyo, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5859035906123059745?authkey=CJLA38HsjZ361QE).*
+*This is part 5 of a multi-part description of my trip to Kyoto and  Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my  studio at GSAPP.  See also:* **[first post](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-japan.html)*, ***[second post](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-part-2.html)*, [third post](http://notbuiltinaday.blogspot.com/2013/06/kinne-trip-part-3.html), [fourth post](http://notbuiltinaday.blogspot.com/2013/06/kinne-trip-part-4.html).  **To see all my photos from Tokyo, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5859035906123059745?authkey=CJLA38HsjZ361QE).*
 
 **March 20th**
 

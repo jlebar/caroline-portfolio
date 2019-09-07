@@ -32,19 +32,34 @@ def XmlToMarkdown(x):
          os.path.basename(img['src']) == os.path.basename(a['href']):
         a.replace_with(BeautifulSoup('<img src="%s">' % a['href'], 'html.parser'))
 
-  # Replace <i>foo</i> with *foo*.
-  for i in soup.find_all('i'):
-    if list(s for s in i.stripped_strings if s):
-      i.insert_before('*')
-      i.insert_after('*')
-    i.unwrap()
+  # TODO: Handle inter-blog links, e.g.
+  #  Missed the first part?  Back to Part 1
 
-  # Replace <b>foo</b> with **foo**.
-  for b in soup.find_all('b'):
-    if list(s for s in b.stripped_strings if s):
-      b.insert_before('**')
-      b.insert_after('**')
-    b.unwrap()
+  # TODO: Handle something like
+  # <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://4.bp.blogspot.com/-vQjL5Y76rr8/XCxK2pfPtqI/AAAAAAAAYrA/ZQrKZFbbOUg9gLCiuS00NoyZY-uemRu4gCKgBGAs/s1600/IMG_20180913_193214.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">*Boots on the ground, if you will.*</td></tr></tbody></table>
+
+  # TODO: Bad captions in e.g. book-review-selling-jerusalem
+  # TODO: Bad italics in e.g. book-review-selling-jerusalem
+
+  # TODO: Links inside of <ul> </ol>, e.g. on-the-border-part-v
+
+  # TODO: Download and resize giant images.
+
+  def fix_simple_format(tag, replacement):
+    for t in soup.find_all(tag):
+      if t.string and t.string.endswith(' '):
+        if t.string.endswith(' '):
+          t.string.replace_with(t.string[:-1])
+          t.insert_after(' ')
+
+      if list(s for s in t.stripped_strings if s):
+        t.insert_before(replacement)
+        t.insert_after(replacement)
+      t.unwrap()
+
+  # Replace <i>foo</i> with *foo*, and same for <u>.
+  fix_simple_format('i', '*')
+  fix_simple_format('b', '**')
 
   # <h1..h7>
   for i in range(1,7):

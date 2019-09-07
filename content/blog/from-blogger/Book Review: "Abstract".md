@@ -31,10 +31,10 @@ I much prefer some of the older versions I have, from before I was a student, gi
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://issuu.com/gsapponline/docs/gsapp-abstract-0809" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://image.issuu.com/120123172254-08d812c38abd483f8f09abd2a7e5d2aa/jpg/page_1_thumb_large.jpg" width="221"/></a></td></tr><tr><td class="tr-caption" style="text-align: center;">[Image by gsapponline from Issuu.com, Abstract 2008-2009](http://issuu.com/gsapponline/docs/gsapp-abstract-0809)</td></tr></tbody></table>
 
-I appreciate the impulse to create an archive of student work, and as a librarian myself, I want to encourage it.  I think we should be learning from past student work.  But I don't think this year's *Abstract *is either a particularly good way to preserve content or particularly respectful in its execution.  I hope next year's version returns to analog (print), if only so I can have a tangible record of my final year at GSAPP.
+I appreciate the impulse to create an archive of student work, and as a librarian myself, I want to encourage it.  I think we should be learning from past student work.  But I don't think this year's *Abstract* is either a particularly good way to preserve content or particularly respectful in its execution.  I hope next year's version returns to analog (print), if only so I can have a tangible record of my final year at GSAPP.
 
 <img src="http://4.bp.blogspot.com/-M0MrjOyEbpU/UVM3LzEfjwI/AAAAAAAAB5k/tUsRQACdiB0/s1600/IMG_20130327_132537.jpg"/>
 
 *You can download your own copy of Abstract 2011-2012, assuming you have the right hardware, at [http://abstract20112012.com/](http://abstract20112012.com/).*
 
-**Justin would like to point out that the combined package of app + plastic decoy may have cost less and/or used fewer environmental resources than printing a "normal" version of Abstract.  I maintain that the decoy may be relatively less wasteful, but is still objectively wasteful. *
+**Justin would like to point out that the combined package of app + plastic decoy may have cost less and/or used fewer environmental resources than printing a "normal" version of Abstract.  I maintain that the decoy may be relatively less wasteful, but is still objectively wasteful.*

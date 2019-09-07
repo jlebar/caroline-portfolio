@@ -45,4 +45,4 @@ And last but not least - the Toronto Maple Leafs.  (Yes, I know that's a real t
 
 **Not actually rejected from [McSweeney's](http://www.mcsweeneys.net/tendency).  Yet.*
 
-*Written in collaboration with jlebar. *
+*Written in collaboration with jlebar.*
