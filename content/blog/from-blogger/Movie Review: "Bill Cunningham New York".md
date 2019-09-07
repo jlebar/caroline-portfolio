@@ -1,0 +1,14 @@
++++
+date = "2012-03-20T15:53:00.001-07:00"
+title = "Movie Review: \"Bill Cunningham New York\""
+tags = ['photography', 'movie review', 'documentary', 'fashion', 'New York', 'Bill Cunningham', 'recommended']
++++
+No, I don't know anything about fashion, and no, I didn't pick out this movie (that honor belongs to Justin).  But I feel obligated to review it because "Bill Cunningham New York" was one of the best films I've seen in a while.  This documentary made me want to go downtown, track down Bill Cunningham, and give him a hug.  And then maybe find the filmmakers and give them a hug, too, for good measure.
+
+The documentary follows the New York Times' 83/84-year-old fashion photographer Bill Cunningham, who has been photographing street fashion since the 1950s or 60s in New York.  The film shows him to be almost naively honest, moral, and fair, rejecting money and anything that would compromise his artistic vision or his genuinely positive message that fashion represents our self-expression.  He lived (at the time of filming) in a tiny one-room apartment filled with filing cabinets of his photographs, with no kitchen and no bathroom ("just more rooms to clean").  He rides his bicycle everywhere, and cares little for his own clothing or comfort.  His only interest seems to be finding beauty, the beauty of beautiful people and beautiful clothes, since there is no point in looking at what isn't beautiful and no need even to consider it.  He rejects negative comparisons between people and styles, although he's perfectly willing to point out when a designer has copied (inadvertently or not) another designer's work.
+
+The absolute joy he takes in his work, as revealed in the film, is something I think we all wish for; the question for most of us is what we are willing to give up in return.  It seems that for Cunningham, there is nothing to give up - nothing is as important as the work.  Perhaps this doesn't make him a role model for everyone, but his absolute integrity, refusing even a glass of water at celebrity charity events in order not to feel indebted to his hosts, is nothing if not admirable.  He's the kind of professional who will only retire when they carry him out in a coffin (hopefully not as a result of a bike accident, although this seems likely!).
+
+The film itself was well-paced, nearly all the people interviewed were interesting (or crazy), and it was impossible not to like the subject himself.  The few times where the filmmakers became present, as interviewers or when interacting with Cunningham (especially in the scene where he insists that they will not follow him to Paris, but of course, they do), provided a baseline of normalcy against which Cunningham's eccentricity played nicely.
+
+As a paean to an artist and his vision, "Bill Cunningham New York" is convincing, and shows Cunningham to be not just a revered figure in New York and the fashion world, but someone we all should respect.

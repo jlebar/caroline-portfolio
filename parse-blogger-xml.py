@@ -44,6 +44,7 @@ def XmlToMarkdown(x):
     b.insert_after('**')
     b.unwrap()
 
+  # <h1..h7>
   for i in range(1,7):
     for h in soup.find_all('h%d' % i):
       for br in h.find_all('br'):
@@ -60,6 +61,12 @@ def XmlToMarkdown(x):
   for a in soup.find_all('a'):
     if len(a.contents) == 1 and type(a.contents[0]) == bs4.element.NavigableString:
       a.replace_with('[%s](%s)' % (a.contents[0], a['href']))
+
+  # Replace <ol>/<ul> with markdown.  By putting these in one find_all call,
+  # hopefully we get top-down order, which is what we need for this to work
+  # properly in the face of nested lists.
+  for l in soup.find_all(['ol', 'ul']):
+    pass # XXX
 
   x = soup.decode(formatter=None)
 
@@ -105,12 +112,14 @@ for entry in root.findall('atom:entry', NS):
   #for e in entry:
   #  print(e.tag)
 
-  with open('orig-%ss/%s' % (kind, html.unescape(title.text.replace('/', '-'))), 'w') as f:
+  if kind != 'post':
+    continue
+  with open('content/blog/from-blogger/%s.md' % (html.unescape(title.text.replace('/', '-'))), 'w') as f:
     print('+++', file=f)
     print('date = "%s"' % published.text, file=f)
-    print('title = "%s"' % title.text, file=f)
+    print('title = "%s"' % title.text.replace('"', r'\"'), file=f)
     print('tags = %s' % tags, file=f)
     if isdraft:
-      print('draft = True', file=f)
+      print('draft = true', file=f)
     print('+++', file=f)
     print(XmlToMarkdown(content.text), file=f)
