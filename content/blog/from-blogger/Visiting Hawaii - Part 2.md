@@ -69,6 +69,6 @@ After our brief hike, it was clearly time for more shave ice at Hee Fat, then an
 
 We packed up, returned the car, and then ate nearly an entire pineapple at the airport so we wouldn't have to bring it through agricultural inspection.  Full of pineapple and satisfaction, we boarded our flight back.
 
-*Missed the first part?  [Back to Part 1](http://notbuiltinaday.blogspot.com/2018/06/visiting-hawaii-part-1.html)*
+*Missed the first part?  [Back to Part 1]({{< ref "/blog/from-blogger/Visiting Hawaii - Part 1.md" >}})*
 
 *Just like seeing the photos?  [Here are some more](https://photos.app.goo.gl/hGCcznGgPxS5DNcM7)*

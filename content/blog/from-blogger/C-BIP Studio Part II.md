@@ -3,7 +3,7 @@ date = "2012-05-10T19:44:00.000-07:00"
 title = "C-BIP Studio Part II"
 tags = ['studio', 'GSAPP', 'workflow', 'CATIA', 'C-BIP', 'parametric design']
 +++
-(A continuation of thoughts about the Columbia Building Intelligence Project - see my [earlier post](http://notbuiltinaday.blogspot.com/2012/03/c-bip-studio-part-i.html) for more commentary.)
+(A continuation of thoughts about the Columbia Building Intelligence Project - see my [earlier post]({{< ref "/blog/from-blogger/C-BIP Studio Part I.md" >}}) for more commentary.)
 
 C-BIP Studio has now ended, and we're working on our final exhibition materials (more to come).  So now I'd like to look back on how the second half of the semester went.  In this post I want to get into more detail about the actual structure and methodology of the studio.  As I said before, I think the studio had really interesting goals and an environmental ethic that matched up well with current thought in architecture and planning.  The workflow proposed to achieve these goals, however, I found much less convincing, and in fact I think the studio "system" was poorly designed.  In the language of our critics, the design of the studio workflow was a "missed opportunity" to achieve some really interesting results.
 

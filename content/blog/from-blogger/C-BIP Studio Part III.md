@@ -3,7 +3,7 @@ date = "2012-05-14T12:43:00.000-07:00"
 title = "C-BIP Studio Part III"
 tags = ['studio', 'GSAPP', 'C-BIP']
 +++
-(The final post in a three-part discussion of the Columbia Building Intelligence Project.  See my other posts: [Part I](http://notbuiltinaday.blogspot.com/2012/03/c-bip-studio-part-i.html) and [Part II](http://notbuiltinaday.blogspot.com/2012/05/c-bip-studio-part-ii.html).)
+(The final post in a three-part discussion of the Columbia Building Intelligence Project.  See my other posts: [Part I]({{< ref "/blog/from-blogger/C-BIP Studio Part I.md" >}}) and [Part II]({{< ref "/blog/from-blogger/C-BIP Studio Part II.md" >}}).)
 
 In this final post, I'd like to propose some ideas about what could make C-BIP better if the studio continued, and to share some of our final output.
 

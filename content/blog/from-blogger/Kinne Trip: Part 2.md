@@ -3,7 +3,7 @@ date = "2013-03-30T16:14:00.003-07:00"
 title = "Kinne Trip: Part 2"
 tags = ['Nara', 'Todaiji', 'Tofukuji', 'castle', 'Kyoto', 'Fushimi Inari', 'lanterns', 'Buddhist', 'Kinne', 'Kofukuji', 'Nijojo', 'shrine', 'Japan', 'temple', 'Shinto', 'torii', 'Kasuga Taisha']
 +++
-*This is part 2 of a multi-part description of my trip to Kyoto and Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my studio at GSAPP.  You can read the first post [here](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-japan.html).* *To see all my photos from Kyoto, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5856678497685681281?authkey=CJGaz77Lj4mqpwE).*
+*This is part 2 of a multi-part description of my trip to Kyoto and Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my studio at GSAPP.  You can read the first post [here]({{< ref "/blog/from-blogger/Kinne Trip: Japan!.md" >}}).* *To see all my photos from Kyoto, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5856678497685681281?authkey=CJGaz77Lj4mqpwE).*
 
 **March 13th** 
 

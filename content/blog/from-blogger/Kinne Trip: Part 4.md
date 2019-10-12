@@ -3,7 +3,7 @@ date = "2013-06-20T18:42:00.001-07:00"
 title = "Kinne Trip: Part 4"
 tags = ['Skytree', 'Tange', 'Vinoly', 'Japan', 'Asakusa', 'Senso-ji', 'Ginza', 'Tokyo', 'Toyosu']
 +++
-*This is part 4 of a multi-part description of my trip to Kyoto and  Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my  studio at GSAPP.  See also:* **[first post](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-japan.html)*, ***[second post](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-part-2.html)*, [third post](http://notbuiltinaday.blogspot.com/2013/06/kinne-trip-part-3.html).  **To see all my photos from Tokyo, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5859035906123059745?authkey=CJLA38HsjZ361QE).  A map of our destinations can be viewed [here](https://maps.google.com/maps/ms?msid=201905433843519722823.0004d7ae9fa7b76b1b582&msa=0&ll=35.670232,139.704037&spn=0.022139,0.049567).*
+*This is part 4 of a multi-part description of my trip to Kyoto and  Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my  studio at GSAPP.  See also:* **[first post]({{< ref "/blog/from-blogger/Kinne Trip: Japan!.md" >}})*, ***[second post]({{< ref "/blog/from-blogger/Kinne Trip: Part 2.md" >}})*, [third post]({{< ref "/blog/from-blogger/Kinne Trip: Part 3.md" >}}).  **To see all my photos from Tokyo, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5859035906123059745?authkey=CJLA38HsjZ361QE).  A map of our destinations can be viewed [here](https://maps.google.com/maps/ms?msid=201905433843519722823.0004d7ae9fa7b76b1b582&msa=0&ll=35.670232,139.704037&spn=0.022139,0.049567).*
 
 **March 17th**
 

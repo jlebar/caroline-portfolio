@@ -37,4 +37,4 @@ Until recently, the highway actually passed across the top of the dam, which as 
 {{< figure src="http://4.bp.blogspot.com/-W_3frXLfnNY/VSmYF_Jk3KI/AAAAAAAAFEM/carKwOXMcNg/s1600/IMG_0869.jpg" caption="Inside the power station" >}}
 Leaving the Hoover Dam, we continued southeast until we reached I-40, then headed east, parallel with the Grand Canyon.  When we reached the 64, we headed north.  Before the end of the day, we made it to the South Rim Visitor's Center, Grand Canyon National Park.
 
-*To be continued in [Part 2](http://notbuiltinaday.blogspot.com/2015/04/visiting-grand-canyon-part-2.html).*
+*To be continued in [Part 2]({{< ref "/blog/from-blogger/Visiting the Grand Canyon: Part 2.md" >}}).*

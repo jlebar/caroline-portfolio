@@ -3,7 +3,7 @@ date = "2015-04-19T14:55:00.000-07:00"
 title = "Visiting the Grand Canyon: Part 2"
 tags = ['Colorado River', 'Utah', 'Page', 'hiking', 'Grand Canyon', 'Arizona', 'watchtower', 'Desert View', 'national park']
 +++
-*Continued from [Part 1](http://notbuiltinaday.blogspot.com/2015/04/visiting-grand-canyon-part-1.html).*
+*Continued from [Part 1]({{< ref "/blog/from-blogger/Visiting the Grand Canyon: Part 1.md" >}}).*
 
 By late afternoon on Friday, October 3rd, we'd reached the Grand Canyon Village on the South Rim.  We checked in to the Yavapai Lodge, where we were staying, and headed over to the canyon rim to see what we could see.  The view was lovely; we managed to arrive just about at sunset.  We walked along the rim in the village area, looked into the El Tovar - the oldest hotel on the property - and had dinner at the Bright Angel Restaurant.  Then it was time for bed in preparation for our hike the next day.
 
@@ -41,4 +41,4 @@ After this stop, we kept driving until we arrived in Page, and then across the U
 
 After checking in, we checked out Big John's BBQ in Page for dinner, which was mediocre, as was all the food we had in Page.  But we weren't there for the food, and what we did find was pretty spectacular.
 
-*Continued in [Part 3](http://notbuiltinaday.blogspot.com/2015/04/visiting-grand-canyon-part-3.html).*
+*Continued in [Part 3]({{< ref "/blog/from-blogger/Visiting the Grand Canyon: Part 3.md" >}}).*

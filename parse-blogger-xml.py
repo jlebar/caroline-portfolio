@@ -8,7 +8,6 @@
 # About page has weird footer.
 # Download images.
 # If two vertical-orientation images are next to each other, flow them together.
-# Handle inter-blog links, e.g. "Missed the first part?  Back to Part 1"
 
 import functools
 import html
@@ -25,6 +24,40 @@ from bs4 import BeautifulSoup
 NS = {
   'atom': 'http://www.w3.org/2005/Atom',
   'app': 'http://purl.org/atom/app#',
+}
+
+SHORTLINK_TO_TITLE = {
+  'biking-to-work.html': 'Biking to Work.md',
+  'book-review-architectural-agents.html': 'Book Review: Architectural Agents.md',
+  'book-review-collapse.html': 'Book Review: "Collapse".md',
+  'c-bip-studio-part-i.html': 'C-BIP Studio Part I.md',
+  'c-bip-studio-part-ii.html': 'C-BIP Studio Part II.md',
+  'competition-entry-for-home-matters-design': 'Confederate Monuments, Art History, and the Public Square.md',
+  'competitions-critique-and-pop-up-tents.html': 'Competitions, Critique, and Pop-up Tents.md',
+  'exhibition-review-eoys-2012.html': 'Exhibition Review: "Architectural Pavilions"',
+  'hello-silicon-valley.html': 'Hello Silicon Valley!.md',
+  'housing-affordability-in-bay-area.html': 'Housing Affordability in the Bay Area: An Architectural Perspective.md',
+  'into-wilderness.html': 'Into the Wilderness.md',
+  'israelpalestine-day-3-4.html': 'Israel-Palestine: Day 3-4.md',
+  'israelpalestine-day-5.html': 'Israel-Palestine: Day 5.md',
+  'kinne-trip-japan.html': 'Kinne Trip: Japan!.md',
+  'kinne-trip-part-2.html': 'Kinne Trip: Part 2.md',
+  'kinne-trip-part-3.html': 'Kinne Trip: Part 3.md',
+  'kinne-trip-part-4.html': 'Kinne Trip: Part 4.md',
+  'new-year-new-resolutions.html': 'New Year, New Resolutions.md',
+  'on-border-part-i.html': 'On the Border: Part I.md',
+  'on-border-part-ii.html': 'On the Border: Part II.md',
+  'on-border-part-iii.html': 'On the Border: Part III.md',
+  'on-border-part-iv.html': 'On the Border: Part IV.md',
+  'thoughts-on-studio-model.html': 'Thoughts on the Studio Model.md',
+  'urban-design-studio-suburban-retrofit.html': 'Urban Design Studio: Suburban Retrofit in Denmark.md',
+  'visiting-grand-canyon-part-1.html': 'Visiting the Grand Canyon: Part 1.md',
+  'visiting-grand-canyon-part-2.html': 'Visiting the Grand Canyon: Part 2.md',
+  'visiting-grand-canyon-part-3.html': 'Visiting the Grand Canyon: Part 3.md',
+  'visiting-hawaii-part-1.html': 'Visiting Hawaii - Part 1.md',
+  'visiting-hawaii-part-2.html': 'Visiting Hawaii - Part 2.md',
+  'visiting-washington-dc.html': 'Visiting Washington, DC.md',
+  'yes-is-more-kind-of-big-deal.html': '"YES IS MORE": Kind of a BIG Deal.md',
 }
 
 FORCE_SKIP_FILES = {
@@ -128,7 +161,11 @@ def XmlToMarkdown(x):
   # Replace <a href=...>foo</a> with markdown-style links.
   for a in soup.find_all('a'):
     if len(a.contents) == 1 and type(a.contents[0]) == bs4.element.NavigableString:
-      a.replace_with('[%s](%s)' % (a.contents[0], a['href']))
+      href = a['href']
+      if href.startswith('http://notbuiltinaday.blogspot.com'):
+        title = SHORTLINK_TO_TITLE[href.split("/")[-1]].replace('"', r'\"')
+        href = f'{{{{< ref "/blog/from-blogger/{title}" >}}}}'
+      a.replace_with(f'[{a.contents[0]}]({href})')
 
   # Replace <ol>/<ul> with markdown.
   #

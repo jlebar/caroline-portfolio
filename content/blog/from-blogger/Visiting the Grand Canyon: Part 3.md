@@ -3,7 +3,7 @@ date = "2015-04-19T22:55:00.004-07:00"
 title = "Visiting the Grand Canyon: Part 3"
 tags = ['Utah', 'Lake Powell', 'Glen Canyon', 'Grand Canyon', 'desert', 'condor', 'Nevada', 'dam']
 +++
-*Continued from [Part 2](http://notbuiltinaday.blogspot.com/2015/04/visiting-grand-canyon-part-2.html).*
+*Continued from [Part 2]({{< ref "/blog/from-blogger/Visiting the Grand Canyon: Part 2.md" >}}).*
 
 Early on October 5th we got up, had a delicious breakfast at the B&B, and drove back in to Page to the [Colorado River Discovery](http://raftthecanyon.com/) headquarters for the first half of our two-part all-day adventure: a Hummer ride to a slot canyon followed by a boat trip on the river.  The slot canyon tour was only four of us, plus the guide, who, after learning we were all from Northern California and Washington, spent half the time apologizing for the fact that we had to take a Hummer (there was a lot of off-roading and steep drops, and he demonstrated the full capacity of the vehicle in the process).   He used the other half of the time to point out where to take the best photos of the canyon, and what camera settings to use.  Apparently taking photos of the canyon is considered the primary reason to visit!  He also showed us the different types of native plants, which are surprisingly varied and interesting.
 

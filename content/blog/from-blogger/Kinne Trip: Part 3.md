@@ -3,7 +3,7 @@ date = "2013-06-11T20:44:00.000-07:00"
 title = "Kinne Trip: Part 3"
 tags = ['Vinoly', 'Japan', 'Louis Vuitton', 'Kyoto', 'Tokyo', 'Imperial Palace', 'Kurokawa', 'capsule']
 +++
-*This is part 3 of a multi-part description of my trip to Kyoto and  Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my  studio at GSAPP.  You can read the first post [here](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-japan.html) and second post [here](http://notbuiltinaday.blogspot.com/2013/03/kinne-trip-part-2.html).* *To see all my photos from Tokyo, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5859035906123059745?authkey=CJLA38HsjZ361QE).  A map of our destinations can be viewed [here](https://maps.google.com/maps/ms?msid=201905433843519722823.0004d7ae9fa7b76b1b582&msa=0&ll=35.670232,139.704037&spn=0.022139,0.049567).*
+*This is part 3 of a multi-part description of my trip to Kyoto and  Tokyo, Japan, as part of my Kinne Traveling Fellowship grant through my  studio at GSAPP.  You can read the first post [here]({{< ref "/blog/from-blogger/Kinne Trip: Japan!.md" >}}) and second post [here]({{< ref "/blog/from-blogger/Kinne Trip: Part 2.md" >}}).* *To see all my photos from Tokyo, visit my [Google+ album here](https://plus.google.com/photos/100923770373915082594/albums/5859035906123059745?authkey=CJLA38HsjZ361QE).  A map of our destinations can be viewed [here](https://maps.google.com/maps/ms?msid=201905433843519722823.0004d7ae9fa7b76b1b582&msa=0&ll=35.670232,139.704037&spn=0.022139,0.049567).*
 
 **March 15th**
 
