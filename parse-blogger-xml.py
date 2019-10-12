@@ -7,6 +7,7 @@
 # Blog posts should say "back to blog main page"
 # About page has weird footer.
 # Download images.
+# If two vertical-orientation images are next to each other, flow them together.
 
 import functools
 import html
@@ -60,21 +61,6 @@ def XmlToMarkdown(x):
   for d in soup.find_all('div'):
     d.unwrap()
 
-  # Find tables which contain an image + caption.
-  for table in soup.find_all('table'):
-    if table['class'] == ['tr-caption-container']:
-      # Assume there are exactly two 'tr's in the tbody; one for the image, the
-      # other for the caption.
-      tbody = table.find('tbody')
-      rows = tbody.find_all('tr')
-      if len(rows) != 2:
-        # TODO: What am I supposed to do about tables with more rows?
-        continue
-      img_row, cap_row = rows
-      img = img_row.td.img
-      cap = cap_row.td.text.replace('"', '\\"')
-      table.replace_with(f'\n{{{{< figure src="{img["src"]}" caption="{cap}" >}}}}\n')
-
   # Find links which only contain an image.  Replace these with just the image
   # itself, which we get from the link URL.
   #
@@ -91,6 +77,21 @@ def XmlToMarkdown(x):
       if img['src'] and a['href'] and \
          os.path.basename(img['src']) == os.path.basename(a['href']):
         a.replace_with(BeautifulSoup('<img src="%s">' % a['href'], 'html.parser'))
+
+  # Find tables which contain an image + caption.
+  for table in soup.find_all('table'):
+    if table['class'] == ['tr-caption-container']:
+      # Assume there are exactly two 'tr's in the tbody; one for the image, the
+      # other for the caption.
+      tbody = table.find('tbody')
+      rows = tbody.find_all('tr')
+      if len(rows) != 2:
+        # TODO: What am I supposed to do about tables with more rows?
+        continue
+      img_row, cap_row = rows
+      img = img_row.td.img
+      cap = cap_row.td.text.replace('"', '\\"')
+      table.replace_with(f'\n{{{{< figure src="{img["src"]}" caption="{cap}" >}}}}\n')
 
   # TODO: Handle inter-blog links, e.g.
   #  "Missed the first part?  Back to Part 1"

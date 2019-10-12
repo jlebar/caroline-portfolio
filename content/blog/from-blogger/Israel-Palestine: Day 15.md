@@ -19,17 +19,17 @@ After dropping off our suitcases we left to get some lunch and head into the sit
 
  
 
-{{< figure src="http://2.bp.blogspot.com/-PbKqdkgfZ9Y/UAI71dt--zI/AAAAAAAABGQ/pGwCwffcvMU/s320/IMG_6458.JPG" caption="Walking toward the entrance to the Siq" >}}
+{{< figure src="http://2.bp.blogspot.com/-PbKqdkgfZ9Y/UAI71dt--zI/AAAAAAAABGQ/pGwCwffcvMU/s1600/IMG_6458.JPG" caption="Walking toward the entrance to the Siq" >}}
 
 <img src="http://4.bp.blogspot.com/-69XuYJfAk24/UAI72NBgYTI/AAAAAAAABGY/ePRox3ieb9o/s1600/IMG_6462.jpg"/>
 
-{{< figure src="http://1.bp.blogspot.com/-MBbBX6RS-lc/UAI72fs3IGI/AAAAAAAABGg/M_1x2ZgHojQ/s320/IMG_6465.jpg" caption="The Siq" >}}
+{{< figure src="http://1.bp.blogspot.com/-MBbBX6RS-lc/UAI72fs3IGI/AAAAAAAABGg/M_1x2ZgHojQ/s1600/IMG_6465.jpg" caption="The Siq" >}}
 
 <img src="http://1.bp.blogspot.com/-kv6AAxR-Qi4/UAI721H7LOI/AAAAAAAABGo/VN2lb98ZaQo/s1600/IMG_6479.jpg"/>
 
-{{< figure src="http://2.bp.blogspot.com/-vsOqKmQa__E/UAI74m0DTHI/AAAAAAAABGw/H2jPWbMFMIU/s320/IMG_6481.jpg" caption="The Treasury" >}}
+{{< figure src="http://2.bp.blogspot.com/-vsOqKmQa__E/UAI74m0DTHI/AAAAAAAABGw/H2jPWbMFMIU/s1600/IMG_6481.jpg" caption="The Treasury" >}}
 
-{{< figure src="http://4.bp.blogspot.com/-sdA4z1gSa5Y/UAI742UCyDI/AAAAAAAABG4/ytXXP0TZUi8/s320/IMG_6497.jpg" caption="In front of the Treasury" >}}
+{{< figure src="http://4.bp.blogspot.com/-sdA4z1gSa5Y/UAI742UCyDI/AAAAAAAABG4/ytXXP0TZUi8/s1600/IMG_6497.jpg" caption="In front of the Treasury" >}}
 
 <img src="http://1.bp.blogspot.com/-sjV7oL2lCa0/UAI75UNT37I/AAAAAAAABHA/TMG7O73uenI/s1600/IMG_6507.jpg"/>
 

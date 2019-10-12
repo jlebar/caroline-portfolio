@@ -41,7 +41,7 @@ During this weekend trip, we visited the Getty Museum (you only pay for parking 
 
 <img src="http://3.bp.blogspot.com/-sVxAiE_5p40/VjmqmPjo9-I/AAAAAAAAH5M/k3DAUwWhYtk/s1600/IMG_20150919_191114.jpg"/>
 
-{{< figure src="http://1.bp.blogspot.com/-gzCTH3LNtsw/VjmqmPOcWPI/AAAAAAAAH5M/uhn3LTVEsJo/s320/IMG_20150919_155220.jpg" caption="This photo brought to you by \"WTF Richard Meier.\"  Also by \"Masonry... In... Spaaaaace.\"" >}}
+{{< figure src="http://1.bp.blogspot.com/-gzCTH3LNtsw/VjmqmPOcWPI/AAAAAAAAH5M/uhn3LTVEsJo/s1600/IMG_20150919_155220.jpg" caption="This photo brought to you by \"WTF Richard Meier.\"  Also by \"Masonry... In... Spaaaaace.\"" >}}
 <a href="http://3.bp.blogspot.com/-sVxAiE_5p40/VjmqmPjo9-I/AAAAAAAAH5M/k3DAUwWhYtk/s1600/IMG_20150919_191114.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a>
 
 <img src="http://4.bp.blogspot.com/-Vwq3KqZDjo0/VjmqmPvj7gI/AAAAAAAAH5M/OMX-165hh98/s1600/IMG_20150919_155556.jpg"/>

@@ -15,7 +15,7 @@ Day 1 -- I drove the car back down to work, which was surprisingly easy since we
 
 Day 2 -- The first full commuting day by train was generally uneventful, although there was a fatality on Caltrain that day, so if I had needed to get just two more stops south, I would have had to abandon the train and take a taxi.  As it was, my stop was the one right before the train was going to be held at the station, so I made it to work fine.  But it was a good reminder that Caltrain is unreliable and being an hour away from work adds uncertainty to the mix.  I also had to get a ride to the station after work, because I had a late meeting and would have missed the train if I'd tried to walk to the station afterward.  Having a 15-minute walk to get to the train adds stress since there is only one train an hour, so if you miss it, you're stuck for an hour until the next one.
 
-{{< figure src="https://3.bp.blogspot.com/-dzQA6v0vY7s/WeKIxlxXkAI/AAAAAAAAPQY/SUw2zitnLiE22L0coLnGkdP7awUm782cgCKgBGAs/s400/IMG_20171011_194901.jpg" caption="View downtown, from near our apartment" >}}
+{{< figure src="https://3.bp.blogspot.com/-dzQA6v0vY7s/WeKIxlxXkAI/AAAAAAAAPQY/SUw2zitnLiE22L0coLnGkdP7awUm782cgCKgBGAs/s1600/IMG_20171011_194901.jpg" caption="View downtown, from near our apartment" >}}
 
 Day 3 -- Fully uneventful.  Spent some time walking around the neighborhood in the evening, checking out different grocery stores.
 

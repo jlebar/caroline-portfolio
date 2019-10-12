@@ -15,7 +15,7 @@ And now: here are the latest news articles to linger with me after they cross my
 
 As someone who works on school facilities, long-term maintenance is a common topic.  Currently I'm working on a nearly 70-year-old campus, built in the 1950s, which is the oldest school in the district.  Without proper maintenance, eventually everything leaks, rusts, breaks, or gets abandoned, and sometimes it's not until years later that the forgotten infrastructure comes to light.  Everywhere we dig or uncover today, we find things we didn't expect, from completely blocked storm drain lines made of paper ([yes that was a real thing](https://en.wikipedia.org/wiki/Orangeburg_pipe)), to water lines (oops), to sewer lines (sorry about that, we'll fix your bathrooms eventually), to abandoned gas lines (good thing it didn't still have gas in it...).  We plan our new work with an eye to how frequently it has to be maintained, and how it will perform if, inevitably, maintenance is neglected or "deferred" (just a fancy word for neglected).  1950s schools are no different from most of our infrastructure, which Americans notoriously underfund and wear into the ground.  One of Pres. Voldemort's only good suggestions has been that we should put together a large infrastructure spending bill - and let no one say that I am against a good idea, no matter where it comes from.  Let's just make sure maintenance on our country's transportation infrastructure, water and sewer tunnels, digital infrastructure, and power grid, and not only new stuff, gets included.
 
-{{< figure src="https://3.bp.blogspot.com/-KzWgwslllAw/Wb2ejssfLOI/AAAAAAAAO1g/SHQ3_GfbT5s3sbexy9ITYp1rD0-hO1PgACKgBGAs/s400/IMG_20170726_101536.jpg" caption="Contractor: \"Wait, we're supposed to re-use what again?  We demo'd that weeks ago...\"" >}}
+{{< figure src="https://3.bp.blogspot.com/-KzWgwslllAw/Wb2ejssfLOI/AAAAAAAAO1g/SHQ3_GfbT5s3sbexy9ITYp1rD0-hO1PgACKgBGAs/s1600/IMG_20170726_101536.jpg" caption="Contractor: \"Wait, we're supposed to re-use what again?  We demo'd that weeks ago...\"" >}}
 
 #### 2. I pretty much hate the suburbs, which is so millennial of me
 
@@ -31,7 +31,7 @@ But he misses big moves.  If we don't need personal cars or parking lots anymore
 
 At any rate -- let's keep thinking about this.  If our grandparents could build the suburbs in a single generation, then surely in our generation, we can turn them into a place that isn't killing the environment as well as our souls.  Or my soul, anyway.
 
-{{< figure src="https://4.bp.blogspot.com/-sHpArFlkuiU/Wb2okXPhAfI/AAAAAAAAO1w/UfV3GfrQVF8MhtAHqdA3sX9Z2nA7l4zTACKgBGAs/s400/IMG_20170727_135207.jpg" caption="I don't have a photo that really screams \"suburbs\" to me, so instead, please enjoy this image of the Stanford Central Energy Facility.  Mmm heat recovery yes" >}}
+{{< figure src="https://4.bp.blogspot.com/-sHpArFlkuiU/Wb2okXPhAfI/AAAAAAAAO1w/UfV3GfrQVF8MhtAHqdA3sX9Z2nA7l4zTACKgBGAs/s1600/IMG_20170727_135207.jpg" caption="I don't have a photo that really screams \"suburbs\" to me, so instead, please enjoy this image of the Stanford Central Energy Facility.  Mmm heat recovery yes" >}}
 
 #### 3. Art people are hilarious
 
@@ -47,4 +47,4 @@ Translation: Yes, I always design my enormous steel sculptures for hurricane-pre
 
 Translation:  I know you want to save the art, but don't forget to stay alive.  Also:  Steel is heavy.
 
-{{< figure src="https://1.bp.blogspot.com/-Tx4JjjEVpso/Wb2ct-r8wuI/AAAAAAAAO1Q/M8aZqjf_B8MMasiTKxYoKtTIJ2ogHWC9ACKgBGAs/s400/IMG_20170908_150206.jpg" caption="This Richard Serra sculpture is not going anywhere.  It's too stubborn." >}}
+{{< figure src="https://1.bp.blogspot.com/-Tx4JjjEVpso/Wb2ct-r8wuI/AAAAAAAAO1Q/M8aZqjf_B8MMasiTKxYoKtTIJ2ogHWC9ACKgBGAs/s1600/IMG_20170908_150206.jpg" caption="This Richard Serra sculpture is not going anywhere.  It's too stubborn." >}}
