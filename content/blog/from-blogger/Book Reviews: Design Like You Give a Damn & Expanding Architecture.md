@@ -1,13 +1,39 @@
 +++
-date = "2018-10-01T21:13:00.001-07:00"
+date = "2019-09-18T21:13:00.001-07:00"
 title = "Book Reviews: Design Like You Give a Damn & Expanding Architecture"
-tags = []
+tags = ['book review', 'public interest design', 'case studies']
 draft = true
 +++
-Lately I have been reading and thinking more about how I can use my skills and experience in architecture for social justice.
+This year, I am making a concerted effort to re-direct my practice as an architect towards projects that are community-focused, socially just, and environmentally sound.  In pursuit of those ends, I have gone back to some of the books that originally inspired me to improve my work.
 
-<img src="https://4.bp.blogspot.com/-wPPCMkYIohg/W7LwasFMw6I/AAAAAAAAW8Y/JM_BOJqkpgIOFLrZ9De-Ulq9E3HUowlSQCKgBGAs/s1600/IMG_20180929_173018.jpg"/>
+![Design Like You Give a Damn and Expanding Architecture](/img/blog/20190918-1.jpg)
 
-Design Like You Give a Damn: Architectural Responses to Humanitarian Crises, edited by Architecture for Humanity
+**Design Like You Give a Damn: Architectural Responses to Humanitarian Crises (2006), edited by Architecture for Humanity (Katie Stohr and Cameron Sinclair)**
 
-Expanding Architecture: Design as Activism, edited by Bryan Bell and Katie Wakeford
+Architecture for Humanity (AFH) has had a checkered history, from an amazing rise to renown in its early years, to its seemingly abrupt closure in 2015, bankruptcy, and subsequent lawsuits over use of funds, which appear to be unresolved today.  But this book, edited and produced by the organization's founders, was highly influential among my peers in the early 2010s, and I have continued to return to it for inspiration and support.  I think I first read it around 2012, when it seemed like AFH still had a bright future ahead.  The title alone is a call to arms, fighting back against the formalism of the 1990s, and anointing a wide range of projects in a wide range of contexts with the title of "architecture".
+
+The book begins with two essays, one by each founder, that severally describe the organization's founding and the history of humanitarian design.  Reviewing the essays this year, I continue to find them relevant and helpful.  The rest of the book is devoted to showcases of projects under four headings: housing (emergency, transitional, permanent, and homelessness); community (gathering spaces, women, health, and education); water, energy, and sanitation; and politics, policy, and planning.  Each section includes projects that run the gamut from clips to secure plastic sheeting to support poles, to water pumps, to the design of entire buildings and cities.  The tone is determinedly optimistic in the face of incredible challenges.  Through project descriptions, interviews, photographs, and full-spread illustrated statistics, the book presents both the scope and depth of humanitarian design problems and solutions around the world.  The projects come from designers as diverse as Shigeru Ban, attendees of Burning Man, Deborah Gans, Design Corps, Rural Studio, Francis Kere, Eyal Weizman, and Sergio Palleroni of the BASIC Initiative.  
+
+AFH published volume two of Design Like You Give a Damn in 2012, Stohr and Sinclair left the organization in 2013, and by 2015, Architecture for Humanity was dead.  The organization, under new leadership, rebranded itself the Open Architecture Collaborative (OAC), whose purpose today is to "develop educational programming for designers and architects to grow as leaders [...]," according to [their website](http://openarchcollab.org/about-us/).  OAC does not seem to be trying to fill the wide-ranging role that AFH did, when it sponsored design competitions, raised funds for design-build projects, tried to match architects and designers with communities in need, and provided a platform for publishing design solutions.
+
+An [article from 2015](https://www.metropolismag.com/architecture/the-rise-and-fall-of-architecture-for-humanity/) describing the organization's closure positions AFH as a victim of its own success: by raising the profile of humanitarian design, and creating a venue for this work within the general practice of architecture, AFH "designed themselves out of a job," so to speak.  This description doesn't ring true to me, because I have difficulty naming any organization or combination of organizations today that has the scope and focus that Architecture for Humanity once did.  Now that the national organization is gone, local chapters continue to function, but without the far-reaching impact of the national body.  Architects Without Borders doesn't seem to exist in the US, aside from a couple of local chapters; Habitat for Humanity and similar groups focused on construction, not design, are a far cry from AFH's mission; and not every designer has access to a local community design center where they can offer their talents.  There is no national network of architects focused on this type of work, as far as I can tell.  There are many smaller networks, but nothing with the kind of name recognition that AFH had.
+
+So where does that leave this book from 2006?  The examples it showcases are still relevant, I think, and the need for these types of projects is no less than when the book was published, thirteen years ago.  As a source of encouragement, showing that these types of projects are out there, have been successful, have been built, it's still invaluable.  So, architects, I suggest you pick it up again and remind yourself why you're in this business in the first place.
+
+
+**Expanding Architecture: Design as Activism (2008), edited by Bryan Bell and Katie Wakeford**
+
+Where "Design Like You Give a Damn" goes for volume of projects, "Expanding Architecture" goes for depth, with longer essays on each project or topic, some theoretical approaches, and more focus on the how and the why.  I have recommended this book to colleagues who were familiar with "Design Like You Give a Damn" but who had not heard of Bryan Bell, which indicates to me the lesser reach of his book.  I think that's a shame, because I have found it much more useful, due to its relatively more detailed and curated projects.  There is some overlap with the designers featured in the other book, but all the projects are different.  In short, if you are looking for more examples of public interest design / humanitarian architecture / socially conscious design, start here.  One of the best aspects of the book is that the essay authors describe the organizations they work with, both as design non-profits and their clients, which helps reveal the ecosystem of public interest design in the US and beyond.
+
+The book is organized into the following sections:
+
+A few of my favorite essays were:
+<ul style="text-align: left;">
+<li>Mobilizing Mainstream Professionals to Work for the Public Good: Describes "the 1%"" project of nonprofit Public Architecture, which tries to get architecture firms to commit to spending 1% of their billable hours on pro bono work. The author concludes that starting a nonprofit is not often the best way to produce work for nonprofit clients that truly need it; the structure of a for-profit firm is more flexible, and allows architects to do the work that pays the bills as well as the work that helps their communities. (p.94)</li>
+<li>The Community Design Collaborative: Describes the work of a Philadelphia nonprofit that offers only predevelopment services, in order to get a project started and begin fundraising.  Once funding is in place, the clients can then hire a firm to complete the rest of the project. (p.104)</li>
+<li>Designing Infrastructure / Designing Cities: Written by Ryan Gravel, the designer behind the Atlanta BeltLine project, which describes how he relentlessly promoted and pursued his graduate urban design thesis  until it became reality. (p. 141)</li>
+<li>Construction with Habitat for Humanity: Discusses a project in North Carolina between a designer and Habitat, and the process of working together on an affordable housing design. (p.166)</li>
+<li>How to Be an Architect, Environmentalist, and Developer: An architect writes about his experience as his own client, focused on a triple-bottom-line approach.  As much as I like this idea, the author doesn't describe how he was able to raise enough capital to buy his first building to renovate, which makes me think that his approach isn't necessarily repeatable. (p. 222)</li>
+<li>Other interesting projects include designs for modular infill in the suburbs, a process for putting together an effective design-build studio class, and policy initiatives with the City of Oakland, among many more.</li></ul>
+
+Coming back to these collections of projects helps me remember what I want to achieve with my work, and shows me that it's possible to do the kind of work I want to do, even if every project described is unique.  My goal for the next couple years is to find a way to do work like this, which solves problems for entire communities, rather than for one or two clients who can afford it.  In other words, I'd like to try to design for the other 99%.

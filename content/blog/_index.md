@@ -1,14 +1,11 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "Blog main page"
+title = "Not Built in a Day: Writing About Architecture"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+In 2008, I started a blog about my study abroad trip to Rome, which then turned into a more general blog on architecture, urban design, and the built environment generally.  I still write travel descriptions, but also book, movie, and exhibition reviews, occasional attempts at humor, and discussions of my own work.
+
+All photographs are my own, unless indicated otherwise.
 
 ![This is me][1]
 
