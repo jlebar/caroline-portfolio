@@ -8,6 +8,7 @@
 # About page has weird footer.
 # Download images.
 # If two vertical-orientation images are next to each other, flow them together.
+# Handle inter-blog links, e.g. "Missed the first part?  Back to Part 1"
 
 import functools
 import html
@@ -27,7 +28,8 @@ NS = {
 }
 
 FORCE_SKIP_FILES = {
-  r"""content/blog/from-blogger/Debt Slavery, the Virtual Economy, and "Ready Player One".md"""
+  r"""content/blog/from-blogger/Debt Slavery, the Virtual Economy, and "Ready Player One".md""",
+  r"""content/blog/from-blogger/Thoughts on the Studio Model.md""",
 }
 
 @functools.lru_cache()
@@ -86,17 +88,12 @@ def XmlToMarkdown(x):
       tbody = table.find('tbody')
       rows = tbody.find_all('tr')
       if len(rows) != 2:
-        # TODO: What am I supposed to do about tables with more rows?
+        # There don't appear to be any tables left that are != 2 rows, yay.
         continue
       img_row, cap_row = rows
       img = img_row.td.img
       cap = cap_row.td.text.replace('"', '\\"')
       table.replace_with(f'\n{{{{< figure src="{img["src"]}" caption="{cap}" >}}}}\n')
-
-  # TODO: Handle inter-blog links, e.g.
-  #  "Missed the first part?  Back to Part 1"
-
-  # TODO: Download and resize giant images.
 
   def fix_simple_format(tag, replacement):
     for t in soup.find_all(tag):
