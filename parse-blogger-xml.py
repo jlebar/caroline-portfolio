@@ -4,7 +4,7 @@
 # Collapsible blog year headers
 # Two columns (except on mobile)
 # Google custom search box, https://support.google.com/customsearch/answer/4513897?hl=en&ref_topic=4513742
-# Download images.
+# Download images, see https://regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
 # If two vertical-orientation images are next to each other, flow them together.
 
 import functools
