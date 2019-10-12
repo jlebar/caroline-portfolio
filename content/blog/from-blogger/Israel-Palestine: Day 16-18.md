@@ -31,7 +31,7 @@ Back down at the level of the Monastery, I drank a well-deserved overpriced Dr. 
 
 <img src="http://2.bp.blogspot.com/-NXvOYpQCIoo/UAI8A9qsUvI/AAAAAAAABIo/AUc6KXGFM2E/s1600/IMG_6586.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://3.bp.blogspot.com/-QNVaxtHSgVI/UAI8BcRlN2I/AAAAAAAABIw/usnhTxeg8Sg/s1600/IMG_6602.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">My shoes:  Petra-fied</td></tr></tbody></table>
+{{< figure src="http://3.bp.blogspot.com/-QNVaxtHSgVI/UAI8BcRlN2I/AAAAAAAABIw/usnhTxeg8Sg/s320/IMG_6602.jpg" caption="My shoes:  Petra-fied" >}}
 
 On Monday, the two friends who went with me on Sunday left for home, and it was just me and my roommate for an extra day.  In retrospect, we should have left on Monday as well; the extra day wasn't worthwhile.  My friend decided to make the climb to the Monastery, which I wasn't about to repeat, so I spent my third day at Petra climbing solo through the tombs along the main trail.  The trails, if there are any, aren't really marked, so you can climb over most of the area.  I tried to take it very slowly so as not to overexhaust myself.
 

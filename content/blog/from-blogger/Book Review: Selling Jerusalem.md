@@ -11,7 +11,7 @@ After reading Professor Wharton's most recent book, *Architectural Agents* ([my 
 
 The one criticism I have is that this chapter is last.  I found myself wondering in the early chapters of the book what the possible overarching argument of the whole book could be.  Each chapter covers a diverse range of objects and issues, and rarely recapitulates itself, such that I had a hard time finding a narrative thread to hold the whole thing together.  But each chapter is also so interesting in itself that I wasn't too concerned about where it was going as a whole.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://4.bp.blogspot.com/-fHMIlmLyADg/WtWANJo1QBI/AAAAAAAATeI/axGn8wbSLqcDl8qA_kbr_ZWeadtakrIwQCKgBGAs/s1600/IMG_6328.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;"><span style="font-size: xx-small;">Church of the Holy Sepulchre, Jerusalem</span></td></tr></tbody></table>
+{{< figure src="https://4.bp.blogspot.com/-fHMIlmLyADg/WtWANJo1QBI/AAAAAAAATeI/axGn8wbSLqcDl8qA_kbr_ZWeadtakrIwQCKgBGAs/s640/IMG_6328.jpg" caption="Church of the Holy Sepulchre, Jerusalem" >}}
 
 Chapter 1 discusses relics of Jerusalem, or "fragments" in the author's terminology, which are pieces of the city itself, or of saints or others associated with the city.  She describes the history of a reliquary of the True Cross, in its translation from owner to owner through gifting, until finally, in the modern era, it loses its value as a relic and becomes a commodity, an art historical artefact, through its sale as part of a large collection of objects.
 
@@ -23,7 +23,7 @@ Chapter 4 analyzes the Holy Land prints of David Roberts, in the context of tour
 
 Chapter 5 concludes the book by examining "spectacularized Jerusalem," the Jerusalem of theme parks, specifically the Holy Land Experience in Orlando, Florida.  Although its creator viewed it as a religious space, like a shrine, Wharton argues that its nature as a space of consumption and spectacle undermines this reading, and it cannot but be read as a theme park.  She also discusses the "remodeling" of Jerusalem under British governor Ronald Storrs, in order to make the city look more like David Roberts' prints (p. 206).  She ends by describing how money and religion intersect in enterprises like the Holy Land Experience, with its position both as a for-profit organization and (its claims to) tax-free religious status.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-58KjOC8-v9U/WtV_8wZoAJI/AAAAAAAATeE/fTMOedamPiUUA2ysIkpasuBb3UnfG_5ZwCKgBGAs/s1600/IMG_5935.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;"><span style="font-size: xx-small;">"Caesarea Magic," 2012 poster advertising for Caesarea (in Caesarea), historical site as space of spectacle</span></td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-58KjOC8-v9U/WtV_8wZoAJI/AAAAAAAATeE/fTMOedamPiUUA2ysIkpasuBb3UnfG_5ZwCKgBGAs/s640/IMG_5935.jpg" caption="\"Caesarea Magic,\" 2012 poster advertising for Caesarea (in Caesarea), historical site as space of spectacle" >}}
 
 Some things I realized after reading this book:
 
@@ -35,4 +35,4 @@ Some things I realized after reading this book:
 
 &ast;It occurs to me as I write this that [Professor Wharton](https://sites.duke.edu/annabelwharton/) may be lurking on the internet somewhere, with the possibility of reading this.  So, Professor Wharton, if you are out there - playing Assassin's Creed or Second Life, or thinking about whatever comes next in our post-human environment - thank you for teaching me about architecture and theory.  I would not be an architect if it weren't for you.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-U4vnruov63g/T-piBF52AmI/AAAAAAAASpc/GKTENPGuGnk1h6_0H6HFUI8Vj9idABXdgCPcBGAYYCw/s1600/IMG_6177.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;"><span style="font-size: xx-small;">Jerusalem Landscape</span></td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-U4vnruov63g/T-piBF52AmI/AAAAAAAASpc/GKTENPGuGnk1h6_0H6HFUI8Vj9idABXdgCPcBGAYYCw/s640/IMG_6177.jpg" caption="Jerusalem Landscape" >}}

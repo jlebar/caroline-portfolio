@@ -9,7 +9,7 @@ Our downtown walking tour was led by architectural history Stephen Fox, who is o
 
 <img src="https://1.bp.blogspot.com/-j1meDqBTL_0/V2tRmBD9gcI/AAAAAAAAJ-c/_fVInKC4CSsSFMV0cdiiGC8HL175vNmogCKgB/s1600/IMG_20160618_100957.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td><img src="https://4.bp.blogspot.com/-nK7_DJ0kv6g/V2tRmKwsAII/AAAAAAAAJ-c/82JxtWReqAo1ZjtK8zpURjxmxNV-zFAwwCKgB/s1600/IMG_20160618_103039.jpg"/></td></tr><tr><td class="tr-caption" style="font-size: 12.8px;">Two adjacent Philip Johnson skyscrapers</td></tr></tbody></table>
+{{< figure src="https://4.bp.blogspot.com/-nK7_DJ0kv6g/V2tRmKwsAII/AAAAAAAAJ-c/82JxtWReqAo1ZjtK8zpURjxmxNV-zFAwwCKgB/s320/IMG_20160618_103039.jpg" caption="Two adjacent Philip Johnson skyscrapers" >}}
 
 <img src="https://2.bp.blogspot.com/-DVgBAPkLrkQ/V2tRmCvi2jI/AAAAAAAAJ-c/MK4ehJgCjB8gzmCI6Q1vG7iNQ8m_5U18QCKgB/s1600/IMG_20160618_103113.jpg"/>
 

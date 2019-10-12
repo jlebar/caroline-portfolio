@@ -15,39 +15,39 @@ Before I even got to Chicago, I did get to see one pretty cool building at Michi
 
 <img src="https://1.bp.blogspot.com/-SjogaSMA5z8/WWF-AuZ7PCI/AAAAAAAANs4/Jil44h0FuZMJb2QcVDrFuKLafrBrZR3UQCKgBGAs/s1600/IMG_20170527_170229.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-e0RCtsqs-e8/WWF-AsI0lBI/AAAAAAAANs4/UxYfcwcPNBQGyZxEhup4a9iTEWPpWSDTACKgBGAs/s1600/IMG_20170527_172318.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Not a real plant.</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-e0RCtsqs-e8/WWF-AsI0lBI/AAAAAAAANs4/UxYfcwcPNBQGyZxEhup4a9iTEWPpWSDTACKgBGAs/s320/IMG_20170527_172318.jpg" caption="Not a real plant." >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-EPIMXipGey8/WWF-Ah9tc4I/AAAAAAAANs4/wYjQw0wConIbXj4NsEh59cFGJsr7aRKBgCKgBGAs/s1600/IMG_20170527_172731_1.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Not a real hole.</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-EPIMXipGey8/WWF-Ah9tc4I/AAAAAAAANs4/wYjQw0wConIbXj4NsEh59cFGJsr7aRKBgCKgBGAs/s320/IMG_20170527_172731_1.jpg" caption="Not a real hole." >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-xzwHaOU8hW0/WWF-AurPpyI/AAAAAAAANs4/2naweLdkUvcqbxaPq1B0mNlN4zTPsAbwgCKgBGAs/s1600/IMG_20170527_173437.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Not real plumbing piping.</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-xzwHaOU8hW0/WWF-AurPpyI/AAAAAAAANs4/2naweLdkUvcqbxaPq1B0mNlN4zTPsAbwgCKgBGAs/s320/IMG_20170527_173437.jpg" caption="Not real plumbing piping." >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://3.bp.blogspot.com/-qOpqThktkWs/WWF-Ag1GDgI/AAAAAAAANs4/Lt9VP_KFaMIKRopRnnmbLNBEZiT6mjKlwCKgBGAs/s1600/IMG_20170527_174325.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Still really pretty cool.</td></tr></tbody></table>
+{{< figure src="https://3.bp.blogspot.com/-qOpqThktkWs/WWF-Ag1GDgI/AAAAAAAANs4/Lt9VP_KFaMIKRopRnnmbLNBEZiT6mjKlwCKgBGAs/s320/IMG_20170527_174325.jpg" caption="Still really pretty cool." >}}
 
 **Day 1**
 
 I arrived around noon and met my friends for lunch at True Food Kitchen, which was pretty good.  I didn't realize at the time that it's a chain with a location here in Palo Alto - so maybe I'll have to try that location too.  We spent some time walking around, checking out the outside of the John Hancock tower, the Chicago Tribune tower, and Studio Gang's Aqua tower, before getting on the boat for the Chicago Architectural Foundation's river cruise.  The sun was blasting in our eyes for much of the boat ride, but it was still great to see all the buildings from the river perspective, and the guide was entertaining.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-wjPNHTpXpWM/WWF-nSwYlFI/AAAAAAAANs8/5yLtrwgMXywAjTd_Ay5mshp6RKogUQnWwCKgBGAs/s1600/IMG_20170528_143330.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">John Hancock Tower - SOM</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-wjPNHTpXpWM/WWF-nSwYlFI/AAAAAAAANs8/5yLtrwgMXywAjTd_Ay5mshp6RKogUQnWwCKgBGAs/s320/IMG_20170528_143330.jpg" caption="John Hancock Tower - SOM" >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://3.bp.blogspot.com/-PLnwnKidboM/WWF-nf7ve4I/AAAAAAAANs8/0EgnSiO-64wVxLzjJLM6L198Kic1lOXbACKgBGAs/s1600/IMG_20170528_145651.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Chicago Tribune Tower - Hood & Howells</td></tr></tbody></table>
+{{< figure src="https://3.bp.blogspot.com/-PLnwnKidboM/WWF-nf7ve4I/AAAAAAAANs8/0EgnSiO-64wVxLzjJLM6L198Kic1lOXbACKgBGAs/s320/IMG_20170528_145651.jpg" caption="Chicago Tribune Tower - Hood & Howells" >}}
 
 <img src="https://2.bp.blogspot.com/-fweletg0IUM/WWF-nSBNIkI/AAAAAAAANs8/a3rwKSJtr08ed7v8PBSEjI_klHjD-bIhgCKgBGAs/s1600/IMG_20170528_145854.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-UubM_cCxXIM/WWF-nSWj3SI/AAAAAAAANs8/oIt6ndrjjo0V8z_-sEod7_DZSEEBuFzrACKgBGAs/s1600/IMG_20170528_152117.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Aqua - Studio Gang</td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-UubM_cCxXIM/WWF-nSWj3SI/AAAAAAAANs8/oIt6ndrjjo0V8z_-sEod7_DZSEEBuFzrACKgBGAs/s320/IMG_20170528_152117.jpg" caption="Aqua - Studio Gang" >}}
 
 <img src="https://4.bp.blogspot.com/-G3F94hJ35ek/WWF-nYG9QaI/AAAAAAAANs8/J6oCLMIgrA4uCYz3FxnF_trNDLgZNEZfACKgBGAs/s1600/IMG_20170528_161910.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-GgulnWDd65s/WWF-nQkJP5I/AAAAAAAANs8/-RH5xz4LYAYiOn7Zi0jgoZGML1Tr21zCACKgBGAs/s1600/IMG_20170528_164653.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">You can just about see the "Skydecks" poking out from the face of the very top of the Sears Tower (now Willis Tower, by SOM).  Something to do on my next visit.  Or the "Tilt" attraction at the Hancock Tower, which is similar.</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-GgulnWDd65s/WWF-nQkJP5I/AAAAAAAANs8/-RH5xz4LYAYiOn7Zi0jgoZGML1Tr21zCACKgBGAs/s320/IMG_20170528_164653.jpg" caption="You can just about see the \"Skydecks\" poking out from the face of the very top of the Sears Tower (now Willis Tower, by SOM).  Something to do on my next visit.  Or the \"Tilt\" attraction at the Hancock Tower, which is similar." >}}
 
 After the river cruise we wandered through Millennium Park, which is fantastic; past Grant Park; and into the West Loop to find dinner.  Not in the mood to wait hours for a table at a notable restaurant, we found an upscale taco place we could walk into.  After that, we wandered some more downtown, checking out Chagall's [Four Seasons](https://en.wikipedia.org/wiki/Four_Seasons_(Chagall)) mosaic, the [Palmer House](https://en.wikipedia.org/wiki/The_Palmer_House_Hilton) lobby, and the [Crown Fountain](https://en.wikipedia.org/wiki/Crown_Fountain) before calling it a night.  No photos of these, since my camera doesn't do well at night.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-hEapYDQ_KMM/WWF_GTHIY9I/AAAAAAAANtA/kzLY0vqY-Mk30D7k1hcKrzb_-mQPl1RMwCKgBGAs/s1600/IMG_20170528_180219.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Cloud Gate - Anish Kapoor</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-hEapYDQ_KMM/WWF_GTHIY9I/AAAAAAAANtA/kzLY0vqY-Mk30D7k1hcKrzb_-mQPl1RMwCKgBGAs/s320/IMG_20170528_180219.jpg" caption="Cloud Gate - Anish Kapoor" >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-P6cEWCwU50k/WWF_GYqymUI/AAAAAAAANtA/u9SmlHqkiZ0Qm_4ASFYOLTzH3NrUkPz1gCKgBGAs/s1600/IMG_20170528_180637.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Pritzker Pavilion at Millennium Park - Frank Gehry</td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-P6cEWCwU50k/WWF_GYqymUI/AAAAAAAANtA/u9SmlHqkiZ0Qm_4ASFYOLTzH3NrUkPz1gCKgBGAs/s320/IMG_20170528_180637.jpg" caption="Pritzker Pavilion at Millennium Park - Frank Gehry" >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-lrl_m4y1Lkc/WWF_Gf1e5ZI/AAAAAAAANtA/p1gFxAeFRmwyqM6rRBn5ebnJqUPNOqrngCKgBGAs/s1600/IMG_20170528_181353.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">BP Bridge - also Frank Gehry</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-lrl_m4y1Lkc/WWF_Gf1e5ZI/AAAAAAAANtA/p1gFxAeFRmwyqM6rRBn5ebnJqUPNOqrngCKgBGAs/s320/IMG_20170528_181353.jpg" caption="BP Bridge - also Frank Gehry" >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-0uW-jKigfcs/WWF_GdrbSUI/AAAAAAAANtA/LJFkmqaHzVIusBeCan_BQJoCEEt-bZicgCKgBGAs/s1600/IMG_20170528_184824.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Buckingham Fountain</td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-0uW-jKigfcs/WWF_GdrbSUI/AAAAAAAANtA/LJFkmqaHzVIusBeCan_BQJoCEEt-bZicgCKgBGAs/s320/IMG_20170528_184824.jpg" caption="Buckingham Fountain" >}}
 
 **Day 2**
 
@@ -55,7 +55,7 @@ This was the most ambitious day, where I started south of the city and worked my
 
 <img src="https://1.bp.blogspot.com/-sqOnPjYyFNM/WWF_XNuRVZI/AAAAAAAANtE/8uo92mP-D4oli6Yr0xBcUrv3I0UEROThACKgBGAs/s1600/IMG_20170529_104400.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://4.bp.blogspot.com/-8wh_6MR5NzY/WWF_XB3czaI/AAAAAAAANtE/Bww-R4475Jsn4due8QWb3pxtUBdbCr6FwCKgBGAs/s1600/IMG_20170529_105009.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">This is a key detail: the grout joints between the bricks are different widths and even different colors (the vertical joints are tinted red) in order to accentuate the linear look of the brick.  FLW was a bit crazy.  But it works.</td></tr></tbody></table>
+{{< figure src="https://4.bp.blogspot.com/-8wh_6MR5NzY/WWF_XB3czaI/AAAAAAAANtE/Bww-R4475Jsn4due8QWb3pxtUBdbCr6FwCKgBGAs/s320/IMG_20170529_105009.jpg" caption="This is a key detail: the grout joints between the bricks are different widths and even different colors (the vertical joints are tinted red) in order to accentuate the linear look of the brick.  FLW was a bit crazy.  But it works." >}}
 
 <img src="https://1.bp.blogspot.com/-QNI6CAOlqvs/WWF_XFHDYMI/AAAAAAAANtE/GSEhrqu1Trkg2TyV8Rxy3FbcGNQy72K2QCKgBGAs/s1600/IMG_20170529_105803.jpg"/>
 
@@ -83,7 +83,7 @@ By contrast, Crown Hall, the Mies masterpiece and home of the architecture depar
 
 <img src="https://2.bp.blogspot.com/-OmqFsgFD20I/WWGAJQx_ADI/AAAAAAAANtQ/UWZeafY3t-EhwuyuRl_wJfdwstODCvpOwCKgBGAs/s1600/IMG_20170529_134847.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-WJZhKlaK5bc/WWGAJR5eNvI/AAAAAAAANtQ/8XZnSU5eYoMNLBIpLDPk3fj4zW27NGqSgCKgBGAs/s1600/IMG_20170529_135231.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">The mandatory decorative wide flanges.</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-WJZhKlaK5bc/WWGAJR5eNvI/AAAAAAAANtQ/8XZnSU5eYoMNLBIpLDPk3fj4zW27NGqSgCKgBGAs/s320/IMG_20170529_135231.jpg" caption="The mandatory decorative wide flanges." >}}
 
 We had lunch at the diner where President Obama was said to be a frequent patron - this is his home turf, after all - and my friend dropped me off at the Art Institute of Chicago downtown to finish off the day.  And all I can say is that it is an amazing museum.  I speed-walked through the entire thing, and in three hours I could do little more than take note of what was there, not even spend time looking at much.  My favorite areas were Piano's Modern Wing, the Tadao Ando Gallery, the Chicago Stock Exchange Trading Room, the Thorne Miniature Rooms (need to spend more time in there.  what.), the collection of architectural salvage items, and the crazy half-spiral stair in the Michigan Avenue Building.  And a cool trompe l'oeil painting (1960s American?) of money and a medieval guy, of which I cannot recall the artist or title, so that's going to haunt me for a while.  No idea why I didn't take a picture of it.
 
@@ -103,11 +103,11 @@ Suffice to say that three hours was not enough time to see the museum.  I need t
 
 That evening I hit up a few more buildings, including the Monadnock Building (Burnham & Root, 1891 - one of the earliest skyscrapers) and the Louis Sullivan masterpiece of the Carson Pirie Scott store (1899, now a Target), then had dinner with my cousin at "avec," which was a quintessential "New American" restaurant: overly loud with wood paneling as far as the eye could see.  But tasty.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-rsK9HXHEgco/WWGArNTgMfI/AAAAAAAANtc/XkNLfnISxdUCehqQ10xSOcbjsL8yHzF6wCKgBGAs/s1600/IMG_20170529_171056.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Monadnock Building - Burnham & Root</td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-rsK9HXHEgco/WWGArNTgMfI/AAAAAAAANtc/XkNLfnISxdUCehqQ10xSOcbjsL8yHzF6wCKgBGAs/s320/IMG_20170529_171056.jpg" caption="Monadnock Building - Burnham & Root" >}}
 
 <img src="https://1.bp.blogspot.com/-5Dl9tXnm8k0/WWGArIuGnFI/AAAAAAAANtc/shw802cUPvsRGuoM4u-hParBdAiWLWdlQCKgBGAs/s1600/IMG_20170529_171118.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://3.bp.blogspot.com/-3nud8dCJBYU/WWGArKHaBRI/AAAAAAAANtc/9cE8GtiTFtgFkmfdlcvmTsNH5WaceudUgCKgBGAs/s1600/IMG_20170529_172025.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Carson Pirie Scott Building - Louis Sullivan</td></tr></tbody></table>
+{{< figure src="https://3.bp.blogspot.com/-3nud8dCJBYU/WWGArKHaBRI/AAAAAAAANtc/9cE8GtiTFtgFkmfdlcvmTsNH5WaceudUgCKgBGAs/s320/IMG_20170529_172025.jpg" caption="Carson Pirie Scott Building - Louis Sullivan" >}}
 
 <img src="https://1.bp.blogspot.com/-TD2ktw9JCgU/WWGArNvX-vI/AAAAAAAANtc/DAYABNcSm1owlEXUK9i12FQ_XcONmsVmQCKgBGAs/s1600/IMG_20170529_172339.jpg"/>
 

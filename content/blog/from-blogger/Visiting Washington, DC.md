@@ -7,7 +7,7 @@ I've been to DC several times -- I think at least four times before -- but most 
 
 <img src="https://2.bp.blogspot.com/-7JVw3QVcGYI/WePEgGwgi1I/AAAAAAAAPRU/swPPc6tbIOYLE0cBWrz68d_YFT1DzHKrACKgBGAs/s1600/IMG_20170902_173302.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://4.bp.blogspot.com/-zHm_by3xcqQ/WePDFNLZPHI/AAAAAAAAPRE/aEq8KFFigBgv4A0cikDnzbbBC3Svb_uTwCKgBGAs/s1600/IMG_20170902_133309.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">The DC Metro, winner of the AIA's 25-Year Award</td></tr></tbody></table>
+{{< figure src="https://4.bp.blogspot.com/-zHm_by3xcqQ/WePDFNLZPHI/AAAAAAAAPRE/aEq8KFFigBgv4A0cikDnzbbBC3Svb_uTwCKgBGAs/s400/IMG_20170902_133309.jpg" caption="The DC Metro, winner of the AIA's 25-Year Award" >}}
 
 (Speaking of bags - I recently purchased a [Timbuk2 "Wingman" duffel](http://www.timbuk2.com/wingman-carry-on-duffel-bag/528.html), which converts between a duffel, messenger bag, and backpack, and have really enjoyed the hands-free travel experience.  If, like me, you don't enjoy dragging a wheeled carry-on behind you between airport gates, onto the metro, and through train cars, then I recommend checking out their line of convertible bags.  The backpack straps zip away into their own compartment if you want to check the bag or just get them out of the way, but the straps are reasonably comfortable on your back even when the bag is full.  Just my two cents.  End of unpaid sales pitch.)
 
@@ -53,8 +53,8 @@ The National Arboretum was nice, although the Modernist visitor's center was dra
 
 The Kenilworth Aquatic Gardens, on the other hand, was hot, muggy, and an endless sea of seemingly identical water lilies.  Unless you're really into water lilies, I wouldn't recommend it.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-T-fvDsoqqrg/WePH9j7NKqI/AAAAAAAAPSA/ZqCBxsPKw80oJwYNVorCrsnJak15mxspwCKgBGAs/s1600/IMG_20170903_144112.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">This is a garden, can't you tell?  It's actually pretty cool that this area is preserved, since more of Maryland used to look like this.</td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-T-fvDsoqqrg/WePH9j7NKqI/AAAAAAAAPSA/ZqCBxsPKw80oJwYNVorCrsnJak15mxspwCKgBGAs/s400/IMG_20170903_144112.jpg" caption="This is a garden, can't you tell?  It's actually pretty cool that this area is preserved, since more of Maryland used to look like this." >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-RUahMXAGGls/WePH9n79N6I/AAAAAAAAPSA/1dCQYxFSkQYo4oVO8Pmba97G1DB2TLnmACKgBGAs/s1600/IMG_20170903_143323.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">So many water lilies</td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-RUahMXAGGls/WePH9n79N6I/AAAAAAAAPSA/1dCQYxFSkQYo4oVO8Pmba97G1DB2TLnmACKgBGAs/s400/IMG_20170903_143323.jpg" caption="So many water lilies" >}}
 
 Day 4 was my last day in DC, in which we got some breakfast at [A Baked Joint](https://abakedjoint.com/), a trendy brunch place with delicious pastries and biscuits (I got oatmeal, a rosemary goat cheese biscuit and some kind of pastry that I can't recall), and then a ride to the airport.  Overall, it was a delightful weekend!  Thank you to everyone who made it so fun!

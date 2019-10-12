@@ -60,6 +60,20 @@ def XmlToMarkdown(x):
   for d in soup.find_all('div'):
     d.unwrap()
 
+  # Find tables which contain an image + caption.
+  for table in soup.find_all('table'):
+    if table['class'] == ['tr-caption-container']:
+      # Assume there are exactly two 'tr's in the tbody; one for the image, the
+      # other for the caption.
+      tbody = table.find('tbody')
+      rows = tbody.find_all('tr')
+      if len(rows) != 2:
+        continue  # XXX
+      img_row, cap_row = rows
+      img = img_row.td.img
+      cap = cap_row.td.text.replace('"', '\\"')
+      table.replace_with(f'\n{{{{< figure src="{img["src"]}" caption="{cap}" >}}}}\n')
+
   # Find links which only contain an image.  Replace these with just the image
   # itself, which we get from the link URL.
   #

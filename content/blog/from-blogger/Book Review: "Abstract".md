@@ -29,7 +29,7 @@ The year before was a "gold brick" of a book, with some optical illusion lines o
 
 I much prefer some of the older versions I have, from before I was a student, given to me at the open house I attended back in 2010.  These versions contain clever details, like nesting a series of books within one another, or covers that require following a certain set of directions to open, printed diagrammatically on the book itself.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://issuu.com/gsapponline/docs/gsapp-abstract-0809" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://image.issuu.com/120123172254-08d812c38abd483f8f09abd2a7e5d2aa/jpg/page_1_thumb_large.jpg" width="221"/></a></td></tr><tr><td class="tr-caption" style="text-align: center;">[Image by gsapponline from Issuu.com, Abstract 2008-2009](http://issuu.com/gsapponline/docs/gsapp-abstract-0809)</td></tr></tbody></table>
+{{< figure src="http://image.issuu.com/120123172254-08d812c38abd483f8f09abd2a7e5d2aa/jpg/page_1_thumb_large.jpg" caption="Image by gsapponline from Issuu.com, Abstract 2008-2009" >}}
 
 I appreciate the impulse to create an archive of student work, and as a librarian myself, I want to encourage it.  I think we should be learning from past student work.  But I don't think this year's *Abstract* is either a particularly good way to preserve content or particularly respectful in its execution.  I hope next year's version returns to analog (print), if only so I can have a tangible record of my final year at GSAPP.
 

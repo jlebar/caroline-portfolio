@@ -9,7 +9,7 @@ As it's now January 2019, it's time again for that most hallowed of traditions: 
 
 2018 was noticeably better for me than 2017, which was a year in which I felt frustrated and directionless.  2018 was not without its stress, and in fact much of it was very stressful at work - especially the last four months - but we took some steps at home that I think helped me cope.  The biggest one is that we outsourced our apartment cleaning, which was always something I felt stressed about doing myself.  As a neat freak, there is nothing quite like coming home to a clean apartment!  This year we also chose not to travel for the Christmas / New Years holidays, which I found to be relaxing and positive, although J was pretty bored after the first couple days.  I think the other tactic that helped was creating a year-long "to do" list with tasks each month, which let me keep track of my progress on bigger projects.  I think this helped me both to get stuff done, and to remember what I had accomplished.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://4.bp.blogspot.com/-0eJbtF6Vsbg/XC8LYAxB4fI/AAAAAAAAYxM/Xv9mgiK0Sc8zJfEK1CyJrCXeJEXvxVeUQCKgBGAs/s1600/IMG_20181228_173949.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">This is why I'm stressed.  But we are so, so close to being done...</td></tr></tbody></table>
+{{< figure src="https://4.bp.blogspot.com/-0eJbtF6Vsbg/XC8LYAxB4fI/AAAAAAAAYxM/Xv9mgiK0Sc8zJfEK1CyJrCXeJEXvxVeUQCKgBGAs/s640/IMG_20181228_173949.jpg" caption="This is why I'm stressed.  But we are so, so close to being done..." >}}
 
 In terms of my 2018 resolutions, I did actually have some success:
 
@@ -25,7 +25,7 @@ In terms of my 2018 resolutions, I did actually have some success:
 
 -- On the professional development front, I participated in writing test questions for the California Architects Board, for the California Supplemental Exam (the state licensure exam).  I also was trained as an SAP Evaluator, for the Safety Assessment Program, which allows me to serve as a volunteer expert in building safety assessment after a disaster.  I just got my ID card in the mail, and we'll see if I get called to serve.  It's one of the most direct ways I can use my professional knowledge to help others after a disaster.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://2.bp.blogspot.com/-CGkIXKjPAIs/XC8KNeqof1I/AAAAAAAAYws/sC4yCnBYh38GWwkuRbdWarQiaqtu8T5jgCKgBGAs/s1600/IMG_20181207_133611.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">What is this, a table for... giant ants?</td></tr></tbody></table>
+{{< figure src="https://2.bp.blogspot.com/-CGkIXKjPAIs/XC8KNeqof1I/AAAAAAAAYws/sC4yCnBYh38GWwkuRbdWarQiaqtu8T5jgCKgBGAs/s640/IMG_20181207_133611.jpg" caption="What is this, a table for... giant ants?" >}}
 
 Tonight, I went back and re-read my "resolutions" posts from 2013, 2014, 2015, 2017, and 2018 (what happened, 2016?).  Goals from 2017 and 2018 are going reasonably well.  Surprisingly, I achieved almost nothing of my 2015 list, and only this past year did I complete #3 on that list!  I guess I need to give them another try.
 

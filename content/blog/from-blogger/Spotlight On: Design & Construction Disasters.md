@@ -19,7 +19,7 @@ In this case, the design team should have taken special care in the design and r
 
 For more on this near-disaster, and the undergraduate student who helped discover the design flaw in the 1970s, check out this [99% Invisible podcas](http://www.slate.com/blogs/the_eye/2014/04/17/the_citicorp_tower_design_flaw_that_could_have_wiped_out_the_skyscraper.html)t.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Citigroup_center_from_ground.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Source: Wikipedia</td></tr></tbody></table>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/1/19/Citigroup_center_from_ground.jpg" caption="Source: Wikipedia" >}}
 
 **Case 2: The Structural Shortcut**
 
@@ -29,7 +29,7 @@ Even worse - yes, there's more - the beams holding the bridges were designed as 
 
 This tragedy might have been prevented if the engineers had carefully studied the contractor's proposed re-design, and realized that the structural load path had been substantially changed.  But it would also have taken a dedicated city plan reviewer to notice that even the original design wasn't up to code.  As an architect, it reminds me that we all share responsibility for reviewing design and construction changes, and that each change is critical to review fully.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Hyatt_Kansas_City_Collapse.gif"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Source: Wikipedia</td></tr></tbody></table>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/4/49/Hyatt_Kansas_City_Collapse.gif" caption="Source: Wikipedia" >}}
 
 **Case 3: The Broken Beam**
 
@@ -39,6 +39,6 @@ Based on my reading of the article, this sounds like another miscommunication is
 
 So here again, I suspect that faulty or insufficient construction oversight was to blame, either on the part of the engineer, contractor, or fabricator.  All parties need to take adequate time to review changes during construction.  Schedule pressure should not be used as an excuse for failing to complete a thorough review.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://media.wired.com/photos/5d4e0b97bb8cb10008a1a722/master/w_578,c_limit/Transpo_Vecchiopresentationpage42.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Source: LPI, Inc. via Wired</td></tr></tbody></table>
+{{< figure src="https://media.wired.com/photos/5d4e0b97bb8cb10008a1a722/master/w_578,c_limit/Transpo_Vecchiopresentationpage42.jpg" caption="Source: LPI, Inc. via Wired" >}}
 
 Now that I know about a few of these problems, I'm planning to read more case studies in construction and engineering failures.  What other engineering disasters should be common knowledge within the profession?  Leave your suggestions in the comments!

@@ -23,15 +23,19 @@ I really enjoyed getting to take the [Detroit People Mover](http://en.wikipedia.
 
 Architectural highlights of our tour were the GM Renaissance Center (1977) by John Portman, One Woodward Avenue (1962) by Minoru Yamasaki, and the Lafayette Park Apartments (1956) by Ludwig Mies van der Rohe.  Detroit is a great place to see examples of International Style and late Modern architecture.  The Renaissance Center was one of the craziest buildings I've ever been in; in 2004 they installed a new walkway around the interior that helps visitors understand where they are, but before that it must have been very disorienting to visit.  It's a ring of round towers, all alike, with floating round "pods" hanging from the walls and a multitude of levels.  Amazing concrete work, though.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://2.bp.blogspot.com/-_evcnhlNbcw/U69dTrBB4TI/AAAAAAAADlk/-04RID4hQhw/s1600/IMG_0550.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Renaissance Center, with the added Wintergarden (by SOM, 2004) in the lower left.</td></tr></tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://2.bp.blogspot.com/-UnHxNwNJNZY/U69dN1Cd-UI/AAAAAAAADlE/YmspXdQSnNE/s1600/IMG_0533.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Inside the Renaissance Center</td></tr></tbody></table><img src="http://4.bp.blogspot.com/-BPGVwjRv42E/U69dQjM0GbI/AAAAAAAADlU/Ac41MEA6Cp0/s1600/IMG_0542.jpg"/>
+{{< figure src="http://2.bp.blogspot.com/-_evcnhlNbcw/U69dTrBB4TI/AAAAAAAADlk/-04RID4hQhw/s1600/IMG_0550.jpg" caption="Renaissance Center, with the added Wintergarden (by SOM, 2004) in the lower left." >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://2.bp.blogspot.com/-zPUbWuHjyh0/U69dVIhcP7I/AAAAAAAADls/1gDSQUM5azc/s1600/IMG_0572.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">One Woodward Avenue</td></tr></tbody></table><img src="http://3.bp.blogspot.com/-d5R6YlbOI2c/U69dWQ9NjDI/AAAAAAAADl0/oGHiaV6XrNs/s1600/IMG_0580.jpg"/>
+{{< figure src="http://2.bp.blogspot.com/-UnHxNwNJNZY/U69dN1Cd-UI/AAAAAAAADlE/YmspXdQSnNE/s1600/IMG_0533.jpg" caption="Inside the Renaissance Center" >}}
+<img src="http://4.bp.blogspot.com/-BPGVwjRv42E/U69dQjM0GbI/AAAAAAAADlU/Ac41MEA6Cp0/s1600/IMG_0542.jpg"/>
+
+{{< figure src="http://2.bp.blogspot.com/-zPUbWuHjyh0/U69dVIhcP7I/AAAAAAAADls/1gDSQUM5azc/s1600/IMG_0572.jpg" caption="One Woodward Avenue" >}}
+<img src="http://3.bp.blogspot.com/-d5R6YlbOI2c/U69dWQ9NjDI/AAAAAAAADl0/oGHiaV6XrNs/s1600/IMG_0580.jpg"/>
 
 <img src="http://3.bp.blogspot.com/-3IThx-Q1vqs/U69dXWn6ZyI/AAAAAAAADl8/rBfj2DPrwBQ/s1600/IMG_0581.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://1.bp.blogspot.com/-h0Q9zCnDIow/U69dZLAk5LI/AAAAAAAADmE/ek-baGFg5ws/s1600/IMG_0583.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">an "Aztec"-styled skyscraper</td></tr></tbody></table>
+{{< figure src="http://1.bp.blogspot.com/-h0Q9zCnDIow/U69dZLAk5LI/AAAAAAAADmE/ek-baGFg5ws/s1600/IMG_0583.jpg" caption="an \"Aztec\"-styled skyscraper" >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://3.bp.blogspot.com/-Mz5qr6OHLU0/U69dcUo-SXI/AAAAAAAADmU/xPMMhOBZxV8/s1600/IMG_0594.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Lafayette Park</td></tr></tbody></table>
+{{< figure src="http://3.bp.blogspot.com/-Mz5qr6OHLU0/U69dcUo-SXI/AAAAAAAADmU/xPMMhOBZxV8/s1600/IMG_0594.jpg" caption="Lafayette Park" >}}
 
 <img src="http://4.bp.blogspot.com/-TkqV01Szubk/U69deciqJfI/AAAAAAAADmc/EHBorcJkepo/s1600/IMG_0596.jpg"/>
 

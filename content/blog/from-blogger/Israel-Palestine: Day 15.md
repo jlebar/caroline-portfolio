@@ -19,19 +19,17 @@ After dropping off our suitcases we left to get some lunch and head into the sit
 
  
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://2.bp.blogspot.com/-PbKqdkgfZ9Y/UAI71dt--zI/AAAAAAAABGQ/pGwCwffcvMU/s1600/IMG_6458.JPG"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Walking toward the entrance to the Siq</td><td class="tr-caption" style="text-align: center;">
-
-</td></tr></tbody></table>
+{{< figure src="http://2.bp.blogspot.com/-PbKqdkgfZ9Y/UAI71dt--zI/AAAAAAAABGQ/pGwCwffcvMU/s320/IMG_6458.JPG" caption="Walking toward the entrance to the Siq" >}}
 
 <img src="http://4.bp.blogspot.com/-69XuYJfAk24/UAI72NBgYTI/AAAAAAAABGY/ePRox3ieb9o/s1600/IMG_6462.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://1.bp.blogspot.com/-MBbBX6RS-lc/UAI72fs3IGI/AAAAAAAABGg/M_1x2ZgHojQ/s1600/IMG_6465.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">The Siq</td></tr></tbody></table>
+{{< figure src="http://1.bp.blogspot.com/-MBbBX6RS-lc/UAI72fs3IGI/AAAAAAAABGg/M_1x2ZgHojQ/s320/IMG_6465.jpg" caption="The Siq" >}}
 
 <img src="http://1.bp.blogspot.com/-kv6AAxR-Qi4/UAI721H7LOI/AAAAAAAABGo/VN2lb98ZaQo/s1600/IMG_6479.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://2.bp.blogspot.com/-vsOqKmQa__E/UAI74m0DTHI/AAAAAAAABGw/H2jPWbMFMIU/s1600/IMG_6481.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">The Treasury</td><td class="tr-caption" style="text-align: center;">
+{{< figure src="http://2.bp.blogspot.com/-vsOqKmQa__E/UAI74m0DTHI/AAAAAAAABGw/H2jPWbMFMIU/s320/IMG_6481.jpg" caption="The Treasury" >}}
 
-</td></tr></tbody></table><table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://4.bp.blogspot.com/-sdA4z1gSa5Y/UAI742UCyDI/AAAAAAAABG4/ytXXP0TZUi8/s1600/IMG_6497.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">In front of the Treasury</td></tr></tbody></table>
+{{< figure src="http://4.bp.blogspot.com/-sdA4z1gSa5Y/UAI742UCyDI/AAAAAAAABG4/ytXXP0TZUi8/s320/IMG_6497.jpg" caption="In front of the Treasury" >}}
 
 <img src="http://1.bp.blogspot.com/-sjV7oL2lCa0/UAI75UNT37I/AAAAAAAABHA/TMG7O73uenI/s1600/IMG_6507.jpg"/>
 

@@ -11,13 +11,13 @@ My own interest stemmed from my 2012 trip to Israel/Palestine, where visiting th
 
 July 12th-13th, 2015
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://3.bp.blogspot.com/-4r17N5JDp4U/Vjg7eai1-mI/AAAAAAAAHv4/tIl0eRsePgg/s1600/IMG_2236.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Arriving at the Tucson Amtrak Station</td></tr></tbody></table>
+{{< figure src="https://3.bp.blogspot.com/-4r17N5JDp4U/Vjg7eai1-mI/AAAAAAAAHv4/tIl0eRsePgg/s320/IMG_2236.jpg" caption="Arriving at the Tucson Amtrak Station" >}}
 
 We started our journey by spending 24 hours on an overnight train from San Jose, CA, to Tucson, AZ, changing trains in Los Angeles.  Most of us spent the time reading *[The Death of Josseline](http://www.amazon.com/The-Death-Josseline-Immigration-Borderlands/dp/0807001309)*, a nonfiction account of various aspects of the Arizona border situation.  Looking back, it was amazing how many people and places we saw that were described in the book.  I would recommend it if you want a more journalistic take on what we saw.  As for Amtrak, I hope I never have to take a train overnight again - at least, never again without access to a sleeping car.  It was pretty miserable, and none of us slept well.  We arrived early Monday morning at the Tucson train station where we were met by our intrepid guide, Indira, from BorderLinks, the nonprofit educational group who organized our trip.
 
 The [BorderLinks ](http://borderlinks.nationbuilder.com/)facility in Tucson is a humble affair, a converted office building that still has stained acoustic tile ceilings, converted cubicles for dorm rooms, and no sign on the outside.  Inside, there's an office, a kitchen where the staff prepares vegetarian meals for the visiting groups ("delegations"), the dorm area, and some showers.  The group's sole purpose is to educate visitors like us about life on the border, and provide us with ways to meet the people who really know what's going on.  All the staff members we met were enthusiastic about their mission, knowledgeable, and ready to help us learn more about Tucson and immigration policy.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://1.bp.blogspot.com/-HGiKsyd97h4/Vjg7fin6jFI/AAAAAAAAHwM/02IK_mwxiRA/s1600/IMG_2239.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Southside Presbyterian Church</td></tr></tbody></table>
+{{< figure src="https://1.bp.blogspot.com/-HGiKsyd97h4/Vjg7fin6jFI/AAAAAAAAHwM/02IK_mwxiRA/s320/IMG_2239.jpg" caption="Southside Presbyterian Church" >}}
 
 <img src="http://2.bp.blogspot.com/-awpcgHZQyhg/Vjg7fAAt-SI/AAAAAAAAHwE/6H_4WDlQcf4/s1600/IMG_2238.jpg"/>
 

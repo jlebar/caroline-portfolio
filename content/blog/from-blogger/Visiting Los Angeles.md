@@ -7,9 +7,9 @@ Back in February, over President's Day weekend, we visited my sister in LA and s
 
 <img src="http://1.bp.blogspot.com/-MlEnqPD0rPI/U8Il0Sm0znI/AAAAAAAADp4/80EVriBNfog/s1600/IMG_0019.jpg"/>
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://1.bp.blogspot.com/-4rYEWKwa3Ns/U8Il1fgey5I/AAAAAAAADqA/fWVRU2j9Itc/s1600/IMG_0031.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Hollywood sign, as seen from Hollywood</td></tr></tbody></table>
+{{< figure src="http://1.bp.blogspot.com/-4rYEWKwa3Ns/U8Il1fgey5I/AAAAAAAADqA/fWVRU2j9Itc/s1600/IMG_0031.jpg" caption="Hollywood sign, as seen from Hollywood" >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://1.bp.blogspot.com/-yU8-UQzcf_A/U8Il3zUGX9I/AAAAAAAADqQ/nDR4wgxr16k/s1600/IMG_0044.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Look, it's a "curtain wall"!</td></tr></tbody></table>
+{{< figure src="http://1.bp.blogspot.com/-yU8-UQzcf_A/U8Il3zUGX9I/AAAAAAAADqQ/nDR4wgxr16k/s1600/IMG_0044.jpg" caption="Look, it's a \"curtain wall\"!" >}}
 
 <img src="http://2.bp.blogspot.com/-gTXtUQ9DgzQ/U8Il41-2e_I/AAAAAAAADqY/X92ikzNBozs/s1600/IMG_0055.jpg"/>
 
@@ -45,13 +45,13 @@ Our second day we spent time with my family, then in the afternoon/evening went 
 
 We also saw an Alexander Calder exhibit and some cool large-scale sculpture in the contemporary wing.  The Calders were interesting, but I don't know enough about kinetic sculpture to have a good appreciation for what we saw.  We also ran through the rest of the museum just to get a sense of what else was there (they have a Rietveld chair!).  Unfortunately, we couldn't visit the James Turrell exhibit that was also going on, since tickets were sold out - oh well!  I had been hoping to see that one in particular, since the one Turrell piece I've seen before was quite remarkable.  Of the permanent exhibits, I especially enjoyed *Metropolis II*, a sculpture of a city composed primarily of model train sets and cars, that when turned on and running has a completely different feel to it than when it's stationary.  Really cool.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://2.bp.blogspot.com/-lUUlaq9MKPM/U8ImJ-tmCjI/AAAAAAAADsg/iss68WasL5w/s1600/IMG_0180.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Metropolis II in action</td></tr></tbody></table>
+{{< figure src="http://2.bp.blogspot.com/-lUUlaq9MKPM/U8ImJ-tmCjI/AAAAAAAADsg/iss68WasL5w/s1600/IMG_0180.jpg" caption="Metropolis II in action" >}}
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://4.bp.blogspot.com/-vc8ViFwZDek/U8ImKw5-j9I/AAAAAAAADso/MOoW2gZTByo/s1600/IMG_0184.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">Deus ex machina?  This curator/tech keeps the cars running on their tracks.</td></tr></tbody></table>
+{{< figure src="http://4.bp.blogspot.com/-vc8ViFwZDek/U8ImKw5-j9I/AAAAAAAADso/MOoW2gZTByo/s1600/IMG_0184.jpg" caption="Deus ex machina?  This curator/tech keeps the cars running on their tracks." >}}
 
 Our last day we had lunch at the [Farmer's Market](http://www.farmersmarketla.com/), which isn't what it sounds like, but is actually a permanent market of food stalls in a semi-open-air environment.  It was fun to wander around all the fancy food shops.  We had crepes and then hit the road back north.  We took the CA-1, Pacific Highway, back most of the way, then as it was getting dark, switched over to the 101.  It's a pretty nice drive since it's quite variable and you can see the ocean for parts of it, but we hadn't really allocated enough time (and it takes forever), so be cautious about attempting it if you have to be somewhere at a specific time.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://1.bp.blogspot.com/-pA1R3EZSs6k/U8ImMAcunwI/AAAAAAAADsw/TZN_AnjSe3g/s1600/IMG_0226.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">At a park along the coast</td></tr></tbody></table>
+{{< figure src="http://1.bp.blogspot.com/-pA1R3EZSs6k/U8ImMAcunwI/AAAAAAAADsw/TZN_AnjSe3g/s1600/IMG_0226.jpg" caption="At a park along the coast" >}}
 
 There were many other places I wanted to visit, but didn't have time to see: the Getty Museum; Santa Monica Pier; LAX Theme Building; to the northeast, the Hollywood sign, Ennis House, and Lovell House; and further away, the Crystal Cathedral and Gamble House.  Lots to do on my next visit!  If you've lived in LA, what else would you recommend?  The Getty Villa?  Other cool downtown buildings?  In any event, I'm sure I'll be back, if only to make my way to Disneyland, which I hear has an Indiana Jones ride that they don't have at Disney World...  Clearly I have my priorities in line!
 

@@ -25,6 +25,4 @@ One of the finished upstairs company rooms.  The company rooms were  furnished b
 
 Original chandelier in one of the rooms currently being renovated (note  the temporary ceiling scaffolding holding the ceiling up)
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://2.bp.blogspot.com/-TjpHd8_kjcw/T2o1M9eBAdI/AAAAAAAAAe0/sX2Q5VGllhM/s1600/IMG_5356.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">
-
-</td></tr></tbody></table>
+{{< figure src="http://2.bp.blogspot.com/-TjpHd8_kjcw/T2o1M9eBAdI/AAAAAAAAAe0/sX2Q5VGllhM/s400/IMG_5356.jpg" caption="" >}}

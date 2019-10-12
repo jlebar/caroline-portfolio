@@ -11,4 +11,4 @@ But it does make one wonder - what if airships hadn't [gone out of favor so quic
 
 Then again, maybe it's all for the best.  These past years, our friends on Wall Street have needed some grounding even without getting to ride airships to work.
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="http://www.whiskeyandbeans.com/wp-content/uploads/2009/11/zep_mooring.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">From *Modern Mechanics*, 1930, [via](http://www.whiskeyandbeans.com/things-of-interest/the-empire-state-building-airship-mooring/)</td></tr></tbody></table>
+{{< figure src="http://www.whiskeyandbeans.com/wp-content/uploads/2009/11/zep_mooring.jpg" caption="From Modern Mechanics, 1930, via" >}}
