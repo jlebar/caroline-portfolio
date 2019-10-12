@@ -1,8 +1,19 @@
 #!/usr/bin/env python3
 
+# TODO:
+# Collapsible blog year headers
+# Two columns (except on mobile)
+# Google custom search box, https://support.google.com/customsearch/answer/4513897?hl=en&ref_topic=4513742
+# Blog posts should say "back to blog main page"
+# About page has weird footer.
+# Download images.
+
+import functools
+import html
 import os
 import re
-import html
+import subprocess
+import shlex
 import sys
 import xml
 from xml.etree import ElementTree as et
@@ -13,6 +24,23 @@ NS = {
   'atom': 'http://www.w3.org/2005/Atom',
   'app': 'http://purl.org/atom/app#',
 }
+
+FORCE_SKIP_FILES = {
+  r"""content/blog/from-blogger/Debt Slavery, the Virtual Economy, and "Ready Player One".md"""
+}
+
+@functools.lru_cache()
+def FilesToSkip():
+  git_out = subprocess.check_output([
+    'git',
+    'log',
+    '--name-only',
+    '--author', 'caroline',
+    '--pretty=format:',
+    'content/blog/from-blogger',
+  ]).decode('utf-8').split('\n')
+
+  return {shlex.split(f)[0] if f.startswith('"') else f for f in git_out if f} | FORCE_SKIP_FILES
 
 def XmlToMarkdown(x):
   x = html.unescape(x)
@@ -108,9 +136,11 @@ def XmlToMarkdown(x):
 tree = et.parse(sys.argv[1])
 root = tree.getroot()
 for entry in root.findall('atom:entry', NS):
-  title = entry.find('atom:title', NS)
+  title_node = entry.find('atom:title', NS)
   content = entry.find('atom:content', NS)
   published = entry.find('atom:published', NS)
+
+  title = title_node.text.strip()
 
   tags = []
   for cat in entry.findall('atom:category', NS):
@@ -142,10 +172,15 @@ for entry in root.findall('atom:entry', NS):
 
   if kind != 'post':
     continue
-  with open('content/blog/from-blogger/%s.md' % (html.unescape(title.text.replace('/', '-'))), 'w') as f:
+  filename = 'content/blog/from-blogger/%s.md' % (html.unescape(title.replace('/', '-')))
+  if filename in FilesToSkip():
+    print('Skipping because was modified by a human: %s' % filename)
+    continue
+
+  with open(filename, 'w') as f:
     print('+++', file=f)
     print('date = "%s"' % published.text, file=f)
-    print('title = "%s"' % title.text.replace('"', r'\"'), file=f)
+    print('title = "%s"' % title.replace('"', r'\"'), file=f)
     print('tags = %s' % tags, file=f)
     if isdraft:
       print('draft = true', file=f)
