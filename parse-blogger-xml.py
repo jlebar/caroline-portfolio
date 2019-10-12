@@ -118,6 +118,7 @@ def XmlToMarkdown(x):
   # Replace <i>foo</i> with *foo*, and same for <u>.
   fix_simple_format('i', '*')
   fix_simple_format('b', '**')
+  fix_simple_format('strike', '~~')
 
   # <h1..h7>
   for i in range(1,7):
@@ -137,11 +138,16 @@ def XmlToMarkdown(x):
     if len(a.contents) == 1 and type(a.contents[0]) == bs4.element.NavigableString:
       a.replace_with('[%s](%s)' % (a.contents[0], a['href']))
 
-  # Replace <ol>/<ul> with markdown.  By putting these in one find_all call,
-  # hopefully we get top-down order, which is what we need for this to work
-  # properly in the face of nested lists.
+  # Replace <ol>/<ul> with markdown.
+  #
+  # This doesn't work with nested lists, but thankfully we don't seem to have
+  # any.
   for l in soup.find_all(['ol', 'ul']):
-    pass # XXX
+    # Check that all of the <li>s are plain text.
+    if [li for li in l.contents if
+        [c for c in li.contents if not isinstance(c, bs4.element.NavigableString)]]:
+      print('ol/ul contains non-text contents:')
+      print(str(l))
 
   x = soup.decode(formatter=None)
 

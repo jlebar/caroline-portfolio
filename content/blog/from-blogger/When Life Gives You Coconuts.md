@@ -5,7 +5,7 @@ tags = ['nerdy', 'cooking', 'Monty Python']
 +++
 Here's another throwback post from something that happened last year, but was too good not to share since I have photos.
 
-Imagine our surprise when we open the mailbox and discover...  a one-pound coconut!  (Despite its mailing labels, I suspect it was delivered by a pair of sparrows.)  Well, you know what they say: when life gives you coconuts, make delicious coconut <strike>macaroons</strike> <strike>macaringues</strike>... chocolate-covered coconut balls!
+Imagine our surprise when we open the mailbox and discover...  a one-pound coconut!  (Despite its mailing labels, I suspect it was delivered by a pair of sparrows.)  Well, you know what they say: when life gives you coconuts, make delicious coconut ~~macaroons~~ ~~macaringues~~... chocolate-covered coconut balls!
 
 YOU WILL NEED:
 

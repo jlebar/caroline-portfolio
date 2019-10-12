@@ -3,7 +3,7 @@ date = "2018-03-18T22:44:00.001-07:00"
 title = "An Architect Looks at Thirty"
 tags = ['resolution', '#nerdythirty', 'birthday']
 +++
-My thirtieth birthday was <strike>last week</strike> <strike>a few weeks ago</strike>  last month, and I seem to have missed New Year's, so here is a recap / resolutions and look back over the last decade all rolled into one.
+My thirtieth birthday was ~~last week~~ ~~a few weeks ago~~  last month, and I seem to have missed New Year's, so here is a recap / resolutions and look back over the last decade all rolled into one.
 
 This blog is now coming up on ten years of posts -- my very first post was in December 2008.  Since then, I've graduated from college, then from graduate school, become an urbanist, done some  traveling, moved across country to California, gotten my architecture license, and worked my way up to managing my own projects.  Now I'm a project architect with nearly five years of experience, and I'm trying to figure out what's next.
 
