@@ -3,11 +3,39 @@
    <h1>{{ .Title }}</h1>
    {{ .Content }}
 </div>
-<ul class="blog-posts">
-{{ range .Pages }}
-    <li>
-        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-    </li>
+
+{{ range .Pages.GroupByDate "2006" }}
+<div class="blog-year">
+  <h3>{{ .Key }}</h3>
+  <ul class="blog-posts">
+      {{ range .Pages }}
+      <li>
+          <a href="{{.Permalink}}">{{.Title}}</a>
+      </li>
+      {{ end }}
+  </ul>
+</div>
+
 {{ end }}
-</ul>
+
+<h3><a href="javascript:undefined" id='show-previous-posts'>Show previous years' posts</a></h3>
+
+<script async>
+window.addEventListener('load', function() {
+  years = document.querySelectorAll('div.blog-year')
+  for (var i = 2; i < years.length; i++) {
+    years[i].classList.add('hidden');
+  }
+});
+
+document.getElementById('show-previous-posts').addEventListener('click', function() {
+  document.getElementById('show-previous-posts').classList.add('hidden');
+  years = document.querySelectorAll('div.blog-year')
+  for (var i = 0; i < years.length; i++) {
+    years[i].classList.remove('hidden');
+  }
+  return false;
+});
+</script>
+
 {{ end }}

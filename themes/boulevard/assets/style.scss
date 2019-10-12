@@ -197,6 +197,17 @@ article {
   }
 }
 
+ul.blog-posts {
+  list-style-type: none;
+  li {
+    margin-bottom: 0.4em;
+  }
+}
+
+.hidden {
+  display: none;
+}
+
 #footer {
   display: flex;
   flex-wrap: wrap;
