@@ -9,7 +9,7 @@
     _default but has "older/newer" instead of "next/prev" */ -}}
 <div id=footer>
   <div id=back>
-    <a href="{{.Parent.Permalink}}">Back to {{.Parent.Title | singularize}}</a>
+    <a href="{{.Parent.Permalink}}">Back to list of blog posts</a>
   </div>
   <div id=prevnext>
   {{- /* I'd like this to be a separate Partial but that's not working. */ -}}
@@ -29,4 +29,3 @@
   </div>
 </div>
 {{ end }}
-

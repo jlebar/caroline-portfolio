@@ -4,8 +4,6 @@
 # Collapsible blog year headers
 # Two columns (except on mobile)
 # Google custom search box, https://support.google.com/customsearch/answer/4513897?hl=en&ref_topic=4513742
-# Blog posts should say "back to blog main page"
-# About page has weird footer.
 # Download images.
 # If two vertical-orientation images are next to each other, flow them together.
 

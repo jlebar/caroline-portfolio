@@ -3,25 +3,28 @@
    <h1>{{ .Title }}</h1>
    {{ .Content }}
 </div>
-<div id=footer>
-  <div id=back>
-    <a href="{{.Parent.Permalink}}">Back to {{.Parent.Title | singularize}}</a>
+{{- /* Hide this footer on the 'about' page.  There really should be a better way... */ -}}
+{{ if not ( strings.HasSuffix .Permalink "/about/" ) }}
+  <div id=footer>
+    <div id=back>
+      <a href="{{.Parent.Permalink}}">Back to {{.Parent.Title | singularize}}</a>
+    </div>
+    <div id=prevnext>
+    {{- /* I'd like this to be a separate Partial but that's not working. */ -}}
+    {{- /* Hugo's sense of prev/next is oldest first, but we want youngest first,
+         so we invert it here. */ -}}
+    {{if .NextInSection}}
+      <a href="{{.NextInSection.Permalink}}">Previous</a>
+    {{else}}
+      Previous
+    {{end}}
+    /
+    {{if .PrevInSection}}
+      <a href="{{.PrevInSection.Permalink}}">Next</a>
+    {{else}}
+      Next
+    {{end}}
+    </div>
   </div>
-  <div id=prevnext>
-  {{- /* I'd like this to be a separate Partial but that's not working. */ -}}
-  {{- /* Hugo's sense of prev/next is oldest first, but we want youngest first,
-       so we invert it here. */ -}}
-  {{if .NextInSection}}
-    <a href="{{.NextInSection.Permalink}}">Previous</a>
-  {{else}}
-    Previous
-  {{end}}
-  /
-  {{if .PrevInSection}}
-    <a href="{{.PrevInSection.Permalink}}">Next</a>
-  {{else}}
-    Next
-  {{end}}
-  </div>
-</div>
+  {{ end }}
 {{ end }}
