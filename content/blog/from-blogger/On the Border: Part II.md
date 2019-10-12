@@ -49,4 +49,6 @@ We had dinner at Jack and Linda's home, then spent the night at the house of a s
 
 Want to learn more?  Read:
 
-<ul style="text-align: left;"><li>Death toll in Arizona from exposure in the desert: [this map](http://www.humaneborders.info/app/map.asp) from the [Humane Borders project](http://www.humaneborders.org/)</li><li>Recent [news report ](http://tucson.com/news/local/border/deaths-per-border-crossers-are-up-times-from-a-decade/article_c1279aaf-4ad8-51c9-82d8-3143b836f52e.html)(May 2016) on the number of deaths this year.  Despite overall lower numbers of people crossing now compared to the early 2000s, the death toll remains high relative to the number of people attempting to cross.</li><li>[Wikipedia article ](https://en.wikipedia.org/wiki/Migrant_deaths_along_the_Mexico%E2%80%93United_States_border)on the death toll</li></ul>
+  *  Death toll in Arizona from exposure in the desert: [this map](http://www.humaneborders.info/app/map.asp) from the [Humane Borders project](http://www.humaneborders.org/)
+  *  Recent [news report ](http://tucson.com/news/local/border/deaths-per-border-crossers-are-up-times-from-a-decade/article_c1279aaf-4ad8-51c9-82d8-3143b836f52e.html)(May 2016) on the number of deaths this year.  Despite overall lower numbers of people crossing now compared to the early 2000s, the death toll remains high relative to the number of people attempting to cross.
+  *  [Wikipedia article ](https://en.wikipedia.org/wiki/Migrant_deaths_along_the_Mexico%E2%80%93United_States_border)on the death toll

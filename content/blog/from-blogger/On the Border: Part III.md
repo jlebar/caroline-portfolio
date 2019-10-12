@@ -41,4 +41,6 @@ Back across the border we went, which took much longer than the trip over, as US
 
 Want to support the organizations we visited?
 
-<ul style="text-align: left;"><li>[Buy some coffee](http://www.justcoffee.org/shop/) from Cafe Justo.  They will ship anywhere, and I hear it's delicious.</li><li>Buy crafts from, or [donate to](http://douglaprietaworks.org/1070.html?*;session*;id*;key*;=*;session*;id*;val*;), DouglaPrieta Works.</li><li>[Donate to Frontera di Cristo](https://donatenow.networkforgood.org/1385907), one of the organizations which funds the [Migrant Resource Center](http://fronteradecristo.org/migrant-resource-center/).</li></ul>
+  *  [Buy some coffee](http://www.justcoffee.org/shop/) from Cafe Justo.  They will ship anywhere, and I hear it's delicious.
+  *  Buy crafts from, or [donate to](http://douglaprietaworks.org/1070.html?*;session*;id*;key*;=*;session*;id*;val*;), DouglaPrieta Works.
+  *  [Donate to Frontera di Cristo](https://donatenow.networkforgood.org/1385907), one of the organizations which funds the [Migrant Resource Center](http://fronteradecristo.org/migrant-resource-center/).

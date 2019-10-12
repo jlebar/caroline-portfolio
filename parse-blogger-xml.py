@@ -96,11 +96,6 @@ def XmlToMarkdown(x):
   # TODO: Handle inter-blog links, e.g.
   #  "Missed the first part?  Back to Part 1"
 
-  # TODO: Bad captions in e.g. book-review-selling-jerusalem
-  # TODO: Bad italics in e.g. book-review-selling-jerusalem
-
-  # TODO: Links inside of <ul> </ol>, e.g. on-the-border-part-v
-
   # TODO: Download and resize giant images.
 
   def fix_simple_format(tag, replacement):
@@ -148,6 +143,12 @@ def XmlToMarkdown(x):
         [c for c in li.contents if not isinstance(c, bs4.element.NavigableString)]]:
       print('ol/ul contains non-text contents:')
       print(str(l))
+    for li in l.contents:
+      text = ''.join(c for c in li.contents)
+      sigil = '1.' if l.name == 'ol' else '* '
+      li.replace_with(f'\n  {sigil} ' + text.replace('\n', '\n     '))
+    l.insert(0, bs4.element.NavigableString('\n'))
+    l.unwrap()
 
   x = soup.decode(formatter=None)
 
