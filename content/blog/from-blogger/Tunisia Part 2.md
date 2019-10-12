@@ -9,7 +9,7 @@ On Monday, March 2nd, we left Douz and drove across the country to Tozeur throug
 
 Chott el-Jerid
 
-<a href="http://2.bp.blogspot.com/_BPRHjFkCSTM/SbVEUXX5S0I/AAAAAAAAFXQ/IUhiEtunHnE/s1600-h/IMG_1701.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5311226452215679810" src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SbVEUXX5S0I/AAAAAAAAFXQ/IUhiEtunHnE/s200/IMG_1701.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SbVEU5m6WjI/AAAAAAAAFXY/HxxXztqYE_Y/s1600-h/IMG_1702.JPG"/>
+<img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SbVEUXX5S0I/AAAAAAAAFXQ/IUhiEtunHnE/s1600-h/IMG_1701.JPG"/><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SbVEU5m6WjI/AAAAAAAAFXY/HxxXztqYE_Y/s1600-h/IMG_1702.JPG"/>
 
 Tozeur: horse and carriage; date palm oasis
 

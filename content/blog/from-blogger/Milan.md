@@ -7,7 +7,7 @@ Currently here in Rome it's the weekend before finals week!  In the interest of 
 
 The weekend of March 28-29, Sara and I went to Milan!  Milan, in northern Italy, has many buildings influenced by the Gothic styles of northern Europe, including its Gothic cathedral:
 
-<a href="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej1nwlQw4I/AAAAAAAAFpI/ng0H-EmI3wU/s1600-h/IMG_2935.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5325776622770504578" src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej1nwlQw4I/AAAAAAAAFpI/ng0H-EmI3wU/s200/IMG_2935.JPG" style="cursor: pointer; width: 150px; height: 200px;"/> </a><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej1n3oEvNI/AAAAAAAAFpQ/yeFwpEqFbVo/s1600-h/IMG_2953.JPG"/>
+<img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej1nwlQw4I/AAAAAAAAFpI/ng0H-EmI3wU/s1600-h/IMG_2935.JPG"/><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej1n3oEvNI/AAAAAAAAFpQ/yeFwpEqFbVo/s1600-h/IMG_2953.JPG"/>
 
 But Milan also has a history that goes back to the Romans, when the city was called Mediolanum and was the capital of the western Roman empire.  The building below at left dates to that period, in the 4th and 5th centuries AD.  Of course, much of it has been rebuilt, but the church of San Lorenzo is very old and might have belonged to the imperial family.  At right below is the Renaissance church of Santa Maria delle Grazie, the church whose convent is home to Leonardo's Last Supper fresco (which we did not go see).
 

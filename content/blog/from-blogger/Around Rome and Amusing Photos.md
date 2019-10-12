@@ -27,7 +27,7 @@ Baroque sculpture by Bernini, most popular artist of the Baroque (Cornaro Chapel
 
 Illusionistic ceiling frescoes were popular Late Baroque decorations; this one is by Andrea Pozzo, church of S. Ignazio
 
-<a href="http://3.bp.blogspot.com/_BPRHjFkCSTM/SepZgYKBtGI/AAAAAAAAFy0/q4MNlF57W7w/s1600-h/IMG_3999.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5326167922094224482" src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SepZgYKBtGI/AAAAAAAAFy0/q4MNlF57W7w/s200/IMG_3999.JPG" style="cursor: pointer; width: 150px; height: 200px;"/> </a><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SepZgiqeLqI/AAAAAAAAFy8/bHCzTH8nOBU/s1600-h/IMG_4002.JPG"/>
+<img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SepZgYKBtGI/AAAAAAAAFy0/q4MNlF57W7w/s1600-h/IMG_3999.JPG"/><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SepZgiqeLqI/AAAAAAAAFy8/bHCzTH8nOBU/s1600-h/IMG_4002.JPG"/>
 
 Ceiling frescoes are meant to deceive you into thinking that the angels and people depicted are really falling into your space.  This one uses 3D stucco figures, as well as architecture and fresco, to create an illusion that's very convincing when you're there!  Church of Il Gesu, ceiling by Baciccio.
 

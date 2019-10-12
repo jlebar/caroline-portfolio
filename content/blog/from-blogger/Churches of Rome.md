@@ -5,7 +5,7 @@ tags = ['St Andrea', 'Sta Pudenziana', "St Peter's", 'Sta Costanza', 'Sta Maria 
 +++
 I spend almost half of my class time here in Rome visiting churches, so I thought I would share some of them with you! These photos are an accumulation of images from a variety of class trips for my Baroque and Late Antique/Early Byzantine art history classes.
 
-<img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sdx51UHDZrI/AAAAAAAAFoY/qZGztQCBsSY/s1600-h/IMG_2871.JPG"/> <a href="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sdx51ioIxbI/AAAAAAAAFoo/wdq7jE5TTg4/s1600-h/IMG_2879.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5322262820380263858" src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sdx51ioIxbI/AAAAAAAAFoo/wdq7jE5TTg4/s200/IMG_2879.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sdx6IOiA5RI/AAAAAAAAFow/2YhE7ExGxwc/s1600-h/IMG_2881.JPG"/>
+<img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sdx51UHDZrI/AAAAAAAAFoY/qZGztQCBsSY/s1600-h/IMG_2871.JPG"/> <img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sdx51ioIxbI/AAAAAAAAFoo/wdq7jE5TTg4/s1600-h/IMG_2879.JPG"/><img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sdx6IOiA5RI/AAAAAAAAFow/2YhE7ExGxwc/s1600-h/IMG_2881.JPG"/>
 
 Santa Maria Maggiore, baroque facade and medieval mosaics
 
@@ -13,7 +13,7 @@ Santa Maria Maggiore, baroque facade and medieval mosaics
 
 Santa Pudenziana and some fifth-century mosaics
 
-<img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sdx3HR3uvyI/AAAAAAAAFnw/bd4L8GhL77Y/s1600-h/IMG_2833.JPG"/><a href="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sdx3HbgHM-I/AAAAAAAAFn4/SfpPDyReVvo/s1600-h/IMG_2834.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"> <img alt="" border="0" id="BLOGGER_PHOTO_ID_5322259829170320354" src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sdx3HbgHM-I/AAAAAAAAFn4/SfpPDyReVvo/s200/IMG_2834.JPG" style="cursor: pointer; width: 200px; height: 150px;"/></a>
+<img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sdx3HR3uvyI/AAAAAAAAFnw/bd4L8GhL77Y/s1600-h/IMG_2833.JPG"/><img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sdx3HbgHM-I/AAAAAAAAFn4/SfpPDyReVvo/s1600-h/IMG_2834.JPG"/>
 
 Sant'Agnese, church with 7th century mosaics in the apse
 
@@ -29,7 +29,7 @@ Interior of the mausoleum: it's circular in plan, and the vault of the ambulator
 
 Sant'Andrea alle Fratte, a church I wrote about for a paper (front at left and back with belltower by Borromini at right)
 
-<a href="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sdx6IQ4dSiI/AAAAAAAAFpA/LXfi1DeXfeY/s1600-h/IMG_2916.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5322263142034393634" src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sdx6IQ4dSiI/AAAAAAAAFpA/LXfi1DeXfeY/s200/IMG_2916.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdxtlTQRENI/AAAAAAAAFmg/vzKcCfh-_Lw/s1600-h/IMG_2759.JPG"/>
+<img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sdx6IQ4dSiI/AAAAAAAAFpA/LXfi1DeXfeY/s1600-h/IMG_2916.JPG"/><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdxtlTQRENI/AAAAAAAAFmg/vzKcCfh-_Lw/s1600-h/IMG_2759.JPG"/>
 
 Left, interior of Sant'Andrea with marble angels carved by Bernini; at right, Church of Sta Maria Sopra Minerva
 
@@ -41,14 +41,14 @@ Interior of Sta Maria sopra Minerva; at right, statue of Christ by Michelangelo
 
 The Chair of St. Peter by Bernini, inside St. Peter's Basilica, and the baldacchino by Bernini and Borromini
 
-<a href="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdxsRQO1zWI/AAAAAAAAFl4/MmFUMlV3Bks/s1600-h/IMG_2708.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5322247903315873122" src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdxsRQO1zWI/AAAAAAAAFl4/MmFUMlV3Bks/s200/IMG_2708.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SdxsR9q18hI/AAAAAAAAFmI/_XF8RUX0ssA/s1600-h/IMG_2733.JPG"/>
+<img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdxsRQO1zWI/AAAAAAAAFl4/MmFUMlV3Bks/s1600-h/IMG_2708.JPG"/><img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SdxsR9q18hI/AAAAAAAAFmI/_XF8RUX0ssA/s1600-h/IMG_2733.JPG"/>
 
 The interior of St. Peter's at left, and at right, Michelangelo's Pieta, which is located inside the church
 
-<a href="http://3.bp.blogspot.com/_BPRHjFkCSTM/SdxrwYizQjI/AAAAAAAAFlQ/korF0G6Oh6E/s1600-h/IMG_2397.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5322247338611393074" src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SdxrwYizQjI/AAAAAAAAFlQ/korF0G6Oh6E/s200/IMG_2397.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SdxrwUdihsI/AAAAAAAAFlY/bUZzoYbB01E/s1600-h/IMG_2402.JPG"/>
+<img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SdxrwYizQjI/AAAAAAAAFlQ/korF0G6Oh6E/s1600-h/IMG_2397.JPG"/><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SdxrwUdihsI/AAAAAAAAFlY/bUZzoYbB01E/s1600-h/IMG_2402.JPG"/>
 
 Santo Stefano Rotondo: one of the rare Early Christian centrally-planned churches (it's a circle on the inside).
 
-<a href="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdxrwYegC1I/AAAAAAAAFlA/cORiprOsviI/s1600-h/IMG_2391.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5322247338593356626" src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdxrwYegC1I/AAAAAAAAFlA/cORiprOsviI/s200/IMG_2391.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdxrwZ1d1OI/AAAAAAAAFlI/__BqTBxkmoE/s1600-h/IMG_2393.JPG"/>
+<img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdxrwYegC1I/AAAAAAAAFlA/cORiprOsviI/s1600-h/IMG_2391.JPG"/><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdxrwZ1d1OI/AAAAAAAAFlI/__BqTBxkmoE/s1600-h/IMG_2393.JPG"/>
 
 St. Paul's Outside-the-Walls, an Early Christian basilica that burned down in the 1800s and was rebuilt as a copy of the original.  It gives you a good sense of how big and monumental churches were in the mid-fourth-century (350s).

@@ -13,7 +13,7 @@ What I do have photos of is my walk around the Aventine Hill today!  Both of my 
 
 <span style="text-decoration: underline;">
 
-</span><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SZXTNk-QtkI/AAAAAAAAFNA/-NrJ3nl4XLU/s1600-h/IMG_0958.JPG"/><a href="http://3.bp.blogspot.com/_BPRHjFkCSTM/SZXTNpiFshI/AAAAAAAAFM4/BUhVb8aqww0/s1600-h/IMG_0919.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"> <img alt="" border="0" id="BLOGGER_PHOTO_ID_5302376367739220498" src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SZXTNpiFshI/AAAAAAAAFM4/BUhVb8aqww0/s200/IMG_0919.JPG" style="cursor: pointer; width: 150px; height: 200px;"/></a>
+</span><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SZXTNk-QtkI/AAAAAAAAFNA/-NrJ3nl4XLU/s1600-h/IMG_0958.JPG"/><img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/SZXTNpiFshI/AAAAAAAAFM4/BUhVb8aqww0/s1600-h/IMG_0919.JPG"/>
 
 I also saw two Roman Republican temples (in the background of the photo below) and the Protestant Cemetary where Keats and Shelley are buried.    Here's a picture of Keat's grave.  I really wanted to find the tomb of Richard Krautheimer, a medievalist who wrote the book on medieval architecture that I studied freshman year, but I didn't see it.
 

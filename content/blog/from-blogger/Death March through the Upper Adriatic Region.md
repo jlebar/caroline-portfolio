@@ -33,7 +33,7 @@ Arian Baptistery and dome mosaic of the baptism of Christ
 
 Other churches we saw included Sant'Apollinare Nuovo, below, and San Vitale, the church that I researched for my presentation in Ravenna.
 
-<img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sej5sZhVUKI/AAAAAAAAFr4/DToBispFkrY/s1600-h/IMG_3421.JPG"/><a href="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej5QQky-VI/AAAAAAAAFrA/U2V9r9zlPUY/s1600-h/IMG_3384.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"> <img alt="" border="0" id="BLOGGER_PHOTO_ID_5325780617088137554" src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej5QQky-VI/AAAAAAAAFrA/U2V9r9zlPUY/s200/IMG_3384.JPG" style="cursor: pointer; height: 150px; width: 200px;"/></a>
+<img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sej5sZhVUKI/AAAAAAAAFr4/DToBispFkrY/s1600-h/IMG_3421.JPG"/><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/Sej5QQky-VI/AAAAAAAAFrA/U2V9r9zlPUY/s1600-h/IMG_3384.JPG"/>
 
 Sarcophagus and Sant'Apollinare Nuovo
 

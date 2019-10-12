@@ -49,7 +49,7 @@ After spending most of the day in Agrigento we took an evening bus to Catania on
 
 Duomo of Catania and Piazza degli Elefanti, notice the elephant statue that's supporting the obelisk. The elephant is the symbol of the city. Most of the city's buildings are made of the grey volcanic stone seen in the buildings above.
 
-<a href="http://3.bp.blogspot.com/_BPRHjFkCSTM/ScjMessaJVI/AAAAAAAAFgI/0rKYdKk6RiA/s1600-h/IMG_2314.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5316724187876435282" src="http://3.bp.blogspot.com/_BPRHjFkCSTM/ScjMessaJVI/AAAAAAAAFgI/0rKYdKk6RiA/s200/IMG_2314.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/ScjMe69o5pI/AAAAAAAAFgQ/v1lcIx02bTs/s1600-h/IMG_2321.JPG"/>
+<img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/ScjMessaJVI/AAAAAAAAFgI/0rKYdKk6RiA/s1600-h/IMG_2314.JPG"/><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/ScjMe69o5pI/AAAAAAAAFgQ/v1lcIx02bTs/s1600-h/IMG_2321.JPG"/>
 
 A Baroque fountain (most of Catania is Baroque architecture today since its last destruction was in the 1600s, right before the Baroque period) and Mt. Etna in the background from the bus window.
 
@@ -59,7 +59,7 @@ In Siracusa we weren't able to figure out how to leave our luggage at the statio
 
 Bay of Siracusa, and locks attached to the bridge onto the island of Ortygia
 
-<a href="http://4.bp.blogspot.com/_BPRHjFkCSTM/Sclhr1FxP4I/AAAAAAAAFgw/smJZODD0rvY/s1600-h/IMG_2348.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5316888240701128578" src="http://4.bp.blogspot.com/_BPRHjFkCSTM/Sclhr1FxP4I/AAAAAAAAFgw/smJZODD0rvY/s200/IMG_2348.JPG" style="cursor: pointer; width: 150px; height: 200px;"/> </a><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SclhsY5k0hI/AAAAAAAAFg4/Cw63bKfYJIU/s1600-h/IMG_2363.JPG"/>
+<img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/Sclhr1FxP4I/AAAAAAAAFgw/smJZODD0rvY/s1600-h/IMG_2348.JPG"/><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SclhsY5k0hI/AAAAAAAAFg4/Cw63bKfYJIU/s1600-h/IMG_2363.JPG"/>
 
 Duomo of Siracusa and the Piazza Duomo
 

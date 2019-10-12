@@ -68,7 +68,8 @@ def XmlToMarkdown(x):
       tbody = table.find('tbody')
       rows = tbody.find_all('tr')
       if len(rows) != 2:
-        continue  # XXX
+        # TODO: What am I supposed to do about tables with more rows?
+        continue
       img_row, cap_row = rows
       img = img_row.td.img
       cap = cap_row.td.text.replace('"', '\\"')
@@ -78,18 +79,21 @@ def XmlToMarkdown(x):
   # itself, which we get from the link URL.
   #
   # <a href="http://.../IMG_5337.JPG"><img src="http://.../IMG_5337.JPG"></a>
+  #
+  # Sometimes the <a> contains whitespace and an image, which is ugh, but okay.
   for a in soup.find_all('a'):
-    if len(a.contents) == 1 and a.contents[0].name == 'img':
-      img = a.contents[0]
+    non_whitespace_contents = [
+      c for c in a.contents
+      if not (isinstance(c, bs4.element.NavigableString) and not c.strip())
+    ]
+    if len(non_whitespace_contents) == 1 and non_whitespace_contents[0].name == 'img':
+      img = non_whitespace_contents[0]
       if img['src'] and a['href'] and \
          os.path.basename(img['src']) == os.path.basename(a['href']):
         a.replace_with(BeautifulSoup('<img src="%s">' % a['href'], 'html.parser'))
 
   # TODO: Handle inter-blog links, e.g.
   #  "Missed the first part?  Back to Part 1"
-
-  # TODO: Handle something like
-  # <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img src="https://4.bp.blogspot.com/-vQjL5Y76rr8/XCxK2pfPtqI/AAAAAAAAYrA/ZQrKZFbbOUg9gLCiuS00NoyZY-uemRu4gCKgBGAs/s1600/IMG_20180913_193214.jpg"/></td></tr><tr><td class="tr-caption" style="text-align: center;">*Boots on the ground, if you will.*</td></tr></tbody></table>
 
   # TODO: Bad captions in e.g. book-review-selling-jerusalem
   # TODO: Bad italics in e.g. book-review-selling-jerusalem

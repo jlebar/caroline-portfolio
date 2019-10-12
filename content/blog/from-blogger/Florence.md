@@ -31,7 +31,7 @@ We decided to in the Palazzo Pitti's gardens, the Boboli Gardens, and had a grea
 
 Pitti Palace and Boboli Gardens
 
-<a href="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sej_D1kDUgI/AAAAAAAAFtQ/C5Cnq14_gkc/s1600-h/IMG_3758.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5325787000748593666" src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sej_D1kDUgI/AAAAAAAAFtQ/C5Cnq14_gkc/s200/IMG_3758.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/Sej_EDpRguI/AAAAAAAAFtg/ctEYqIVr19I/s1600-h/IMG_3773.JPG"/>
+<img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sej_D1kDUgI/AAAAAAAAFtQ/C5Cnq14_gkc/s1600-h/IMG_3758.JPG"/><img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/Sej_EDpRguI/AAAAAAAAFtg/ctEYqIVr19I/s1600-h/IMG_3773.JPG"/>
 
 Left: view from the Boboli Gardens; right: view from the Bardini Gardens, another palace down the road from the Pitti Palace (our ticket got us in there, too!  What a deal!)
 

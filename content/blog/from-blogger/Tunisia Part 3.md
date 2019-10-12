@@ -21,7 +21,7 @@ Left: my favorite sign: a car with an explosion.  I still don't know what it's a
 
 Right: a stop sign.  Yes, the signs say "Stop," not "Arret"
 
-<img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SbeezSIZYHI/AAAAAAAAFcw/aHCnkroWn3A/s1600-h/IMG_1850.JPG"/><a href="http://2.bp.blogspot.com/_BPRHjFkCSTM/SbeeigpOSYI/AAAAAAAAFb4/YMOWos9c2xI/s1600-h/IMG_1683.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"> <img alt="" border="0" id="BLOGGER_PHOTO_ID_5311888601222367618" src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SbeeigpOSYI/AAAAAAAAFb4/YMOWos9c2xI/s200/IMG_1683.JPG" style="cursor: pointer; width: 150px; height: 200px;"/></a>
+<img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SbeezSIZYHI/AAAAAAAAFcw/aHCnkroWn3A/s1600-h/IMG_1850.JPG"/><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SbeeigpOSYI/AAAAAAAAFb4/YMOWos9c2xI/s1600-h/IMG_1683.JPG"/>
 
 Left: "Danger: Do not walk on the ruins" with a falling man
 

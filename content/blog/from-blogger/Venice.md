@@ -11,7 +11,7 @@ March 20-22 was our trip to Venice (Venezia)!  This was a much more laid-back we
 
 Cathedral of Venice (San Marco) and the porphyry statue of the tetrarchy attached to the church; this is a statue I've studied in class this semester
 
-<img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SdpnTN9tWXI/AAAAAAAAFig/Dy-3sgPzNSc/s1600-h/IMG_2457.JPG"/><a href="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdpqLqB9nwI/AAAAAAAAFkw/121f9SbSMHE/s1600-h/IMG_2682.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"> <img alt="" border="0" id="BLOGGER_PHOTO_ID_5321682658185289474" src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdpqLqB9nwI/AAAAAAAAFkw/121f9SbSMHE/s200/IMG_2682.JPG" style="cursor: pointer; width: 200px; height: 150px;"/></a>
+<img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SdpnTN9tWXI/AAAAAAAAFig/Dy-3sgPzNSc/s1600-h/IMG_2457.JPG"/><img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdpqLqB9nwI/AAAAAAAAFkw/121f9SbSMHE/s1600-h/IMG_2682.JPG"/>
 
 Palazzo Ducale, the Doge's Palace; at right, the flag of Venice with the winged lion representing St. Mark
 
@@ -47,7 +47,7 @@ San Zeccaria, a Baroque church
 
 On Sunday morning we walked down to the Piazza San Marco for the last time and walked by the Armory and the park of the Venice Biennale.  We couldn't figure out what was going on in the park: it was messy and deserted, almost as if a big festival had taken place recently and never been cleaned up, but the pavilions were all locked and looked as if they'd been that way for a long time.  At any rate, I had fun taking pictures of all the different pavilions.  Here are a few:
 
-<a href="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdpqFNovbeI/AAAAAAAAFkQ/uBFGqRG9l7U/s1600-h/IMG_2638.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5321682547484093922" src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdpqFNovbeI/AAAAAAAAFkQ/uBFGqRG9l7U/s200/IMG_2638.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdpqFgDKYXI/AAAAAAAAFkg/M0eQXqETlbA/s1600-h/IMG_2650.JPG"/>
+<img src="http://4.bp.blogspot.com/_BPRHjFkCSTM/SdpqFNovbeI/AAAAAAAAFkQ/uBFGqRG9l7U/s1600-h/IMG_2638.JPG"/><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SdpqFgDKYXI/AAAAAAAAFkg/M0eQXqETlbA/s1600-h/IMG_2650.JPG"/>
 
 United States and Japan
 

@@ -39,7 +39,7 @@ The furniture class exhibition looked great, as should be expected from a displa
 
 {{< figure src="http://1.bp.blogspot.com/-kFLdHJvoHRY/UcPrOiQQ3TI/AAAAAAAACcM/82BG5b2q2GQ/s320/IMG_9353.jpg" caption="Craft in the Digital Age - my \"seating unit\" at center" >}}
 
-<a href="http://1.bp.blogspot.com/-7QZ3ubl9lfA/UcPrOMKm7BI/AAAAAAAACcE/13vusSrEz-Q/s1600/IMG_9348.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="213" src="http://1.bp.blogspot.com/-7QZ3ubl9lfA/UcPrOMKm7BI/AAAAAAAACcE/13vusSrEz-Q/s320/IMG_9348.jpg" width="320"/> </a>
+<img src="http://1.bp.blogspot.com/-7QZ3ubl9lfA/UcPrOMKm7BI/AAAAAAAACcE/13vusSrEz-Q/s1600/IMG_9348.jpg"/>
 
 {{< figure src="http://3.bp.blogspot.com/-CnaKlOCaT_c/UcPrNp24XCI/AAAAAAAACb8/TUOeilkmxkU/s320/IMG_9346.jpg" caption="\"Structural Storage,\" with Amir Afifi, Sepideh Khazaei, and Miguel Lantigua" >}}
 

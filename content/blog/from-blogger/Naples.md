@@ -33,7 +33,7 @@ On Saturday we spent the entire day walking around the city, mostly in the downt
 
 <span><span>Above: San Gregorio; Santa Chiara cloister with majolica pillars
 
-</span></span><a href="http://2.bp.blogspot.com/_BPRHjFkCSTM/SaFdID9y_eI/AAAAAAAAFTQ/pjSTvPgUNjI/s1600-h/IMG_1361.JPG" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5305624229103992290" src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SaFdID9y_eI/AAAAAAAAFTQ/pjSTvPgUNjI/s200/IMG_1361.JPG" style="cursor: pointer; width: 200px; height: 150px;"/> </a><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SaFdIQtQ2NI/AAAAAAAAFTY/oT5v24pvCyI/s1600-h/IMG_1362.JPG"/>
+</span></span><img src="http://2.bp.blogspot.com/_BPRHjFkCSTM/SaFdID9y_eI/AAAAAAAAFTQ/pjSTvPgUNjI/s1600-h/IMG_1361.JPG"/><img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/SaFdIQtQ2NI/AAAAAAAAFTY/oT5v24pvCyI/s1600-h/IMG_1362.JPG"/>
 
 <span><span>Above: Royal Palace; view from the square of Vesuvius across the bay
 
