@@ -64,3 +64,6 @@ CanonifyURLs=true
 
 [blackfriday]
   fractions = false
+
+[permalinks]
+  blog = "/:year/:month/:title/"
