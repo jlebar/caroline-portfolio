@@ -7,19 +7,24 @@ I'm still not sure how it happened, but last weekend I took my seventh (but not 
 
 Here's the original schedule I set myself, which would have had me complete everything last year:
 
-<span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">March - PPP</span><span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">April - SPD</span>
+ * March - PPP
+ * April - SPD
+ * June - Structural Systems (SS)
+ * July - Schematic Design (SD)
+ * September - Building Systems (BS)
+ * October - Building Design & Construction Systems (BDCS)
+ * November - Construction Documents & Services (CDS)
 
-<span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">June - Structural Systems (SS)</span>
+And here's the schedule I actually followed:
 
-<span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">July - Schematic Design (SD)</span>
-
-<span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">September - Building Systems (BS)</span>
-
-<span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">October - Building Design & Construction Systems (BDCS)</span>
-
-<span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">November - Construction Documents & Services (CDS)</span>
-
-<span style="background-color: white; font-family: 'Droid Sans'; font-size: 13.1999998092651px; line-height: 14.7839994430542px;">And here's the schedule I actually followed:</span>March (2014) - PPPApril - SPDJune - SSJuly - SDSeptember - BSNovember - BDCSFebruary (2015) - CDSMarch - SPD re-take scheduled
+ * March (2014) - PPP
+ * April - SPD
+ * June - SS
+ * July - SD
+ * September - BS
+ * November - BDCS
+ * February (2015) - CDS
+ * March - SPD re-take scheduled
 
 The delay was partly due to a lack of available test dates on weekends (after taking SPD and SS on weekdays, I vowed to take all the other ones on Saturdays to lower my stress levels), and mostly due to my decision to take a break over the holidays.  I didn't study at all in November or December, and then started back up in January this year for the final two.  This gave me a much needed mental break, and I'm glad I spaced it out.  I also needed more time to study for BDCS than I initially thought - it was a pretty difficult one.
 

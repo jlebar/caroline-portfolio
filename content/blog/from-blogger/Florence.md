@@ -5,8 +5,6 @@ tags = []
 +++
 <img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sej-27XJ3rI/AAAAAAAAFsw/ajJ3lF98qtE/s1600-h/IMG_3688.JPG"/>
 
-<span style="text-decoration: underline;"></span>
-
 Last weekend, April 11-13, we had a long weekend because of Easter (Pasqua).  Easter Monday (Pasquetta) is a national holiday, so there were no classes and we got an extra day to travel!  On the 11th we went to Florence for the day.  Since both Sara and I had been there before, we avoided going to the most touristy places (the Uffizi, etc) and instead took time to walk around and see some of the less-crowded places.
 
 <img src="http://1.bp.blogspot.com/_BPRHjFkCSTM/Sej-1-3_5aI/AAAAAAAAFsg/8NGaVEVGSYA/s1600-h/IMG_3667.JPG"/> <img src="http://3.bp.blogspot.com/_BPRHjFkCSTM/Sej-285F4fI/AAAAAAAAFso/JE0oqmSeuf8/s1600-h/IMG_3680.JPG"/>
