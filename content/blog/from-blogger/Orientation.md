@@ -13,8 +13,7 @@ Fortunately, all the Italians I’ve interacted with have been very helpful and 
 
 On Thursday morning was a walking orientation: we walked with a graduate student down Via del Corso toward the center of town, passing the Piazza del Popolo, the Piazza Navona, and the Pantheon. After lunch we wandered around town, saw the Ara Pacis Museum designed by Richard Meier, the Mausoleum of Augustus, and the Spanish Steps (Piazza di Spagna). In the evening we went to a cooking demonstration at the school with the professor of printmaking, who’s going to be my professor! His pasta sauce was really delicious. Afterwards we made spaghetti with pesto.
 
-<!-- TODO(jlebar): Missing one picture, can't find the big version,
-http://notbuiltinaday.blogspot.com/2009/01/orientation.html -->
+![](http://1.bp.blogspot.com/_BPRHjFkCSTM/SXOQ-2X8A8I/AAAAAAAAFGQ/A5Q7gHuy5Ts/s1600/IMG_0073.JPG)
 
 ![](http://2.bp.blogspot.com/_BPRHjFkCSTM/SXOTBaUL_II/AAAAAAAAFG4/iazjb8UM2vQ/s1600/IMG_0070.JPG)
 
