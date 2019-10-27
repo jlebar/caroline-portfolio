@@ -61,3 +61,6 @@ CanonifyURLs=true
   #github        = "full profile url in github"
   #youtube       = "full profile url in youtube"
   #whatsapp      = "wa.me service link"
+
+[blackfriday]
+  fractions = false
