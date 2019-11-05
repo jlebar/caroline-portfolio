@@ -1,5 +1,5 @@
 +++
-date = "2019-08-25"
+date = "2019-11-05"
 title = "Frost Amphitheater"
 draft = false
 image = "img/portfolio/frost-cover.jpg"
@@ -10,7 +10,7 @@ weight = 1
 {{% article img="/img/portfolio/frost-1.jpg" %}}
 Stanford University
 
-Role: Project Architect  
+Role: Project Architect, CAW Architects  
 Site: Stanford, CA  
 Completed: 2019  
 Project Size: 10,000 SF, new construction  
