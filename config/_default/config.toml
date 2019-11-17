@@ -5,7 +5,7 @@ languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-152746562-1"
 
 RelativeURLs=true
 CanonifyURLs=true
