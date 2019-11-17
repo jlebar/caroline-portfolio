@@ -1,4 +1,4 @@
-baseURL = "http://jlebar.com/caroline-staging"
+baseURL = "http://www.cslebar.com"
 title = "Caroline S. Lebar, AIA"
 theme = "boulevard"
 languageCode = "en-us"
@@ -11,7 +11,7 @@ RelativeURLs=true
 CanonifyURLs=true
 
 [params]
-  description = "Describe your website"
+  description = "Caroline Lebar's Portfolio and Blog"
   copyright = "&copy;2019 Caroline S. Lebar"
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
