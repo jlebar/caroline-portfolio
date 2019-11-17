@@ -7,7 +7,7 @@ In May, I had the opportunity to spend a couple of days in Chicago after judging
 
 Chicago overall was a really fun city: not too big as to feel overwhelming, but with great transit around the downtown Loop area, perfect weather at the end of May, and lots to see and do.  I'm already looking forward to going back.  I made myself a Google map of the city with an ambitious number of places to visit, but thanks to my patient friends, I was able to check off most of the places.  The others will have to wait 'til next time.  Here's the run-down of what I was able to see.
 
-**Day 0**
+### **Day 0**
 
 Before I even got to Chicago, I did get to see one pretty cool building at Michigan State: the Broad Art Museum (not to be confused with the one in Los Angeles) by Zaha Hadid Architects.  Opened in 2012, the museum is a lovely, compact piece that invites viewing from all sides, to the point of wondering how the art (and staff) even gets in - the loading areas are so well-integrated that the building does not feel like it has a front or a back.  The art inside was not quite as impressive, although there were a few interesting pieces, including a room that appears to have a hole in it leading outside.  (The hole is real, the "outside" is fake.)  You might say this building has all the angles.  Definitely worth a visit if you're in the area.  I think this was the first Zaha Hadid building I've visited.
 
@@ -23,7 +23,7 @@ Before I even got to Chicago, I did get to see one pretty cool building at Michi
 
 {{< figure src="https://3.bp.blogspot.com/-qOpqThktkWs/WWF-Ag1GDgI/AAAAAAAANs4/Lt9VP_KFaMIKRopRnnmbLNBEZiT6mjKlwCKgBGAs/s1600/IMG_20170527_174325.jpg" caption="Still really pretty cool." >}}
 
-**Day 1**
+### **Day 1**
 
 I arrived around noon and met my friends for lunch at True Food Kitchen, which was pretty good.  I didn't realize at the time that it's a chain with a location here in Palo Alto - so maybe I'll have to try that location too.  We spent some time walking around, checking out the outside of the John Hancock tower, the Chicago Tribune tower, and Studio Gang's Aqua tower, before getting on the boat for the Chicago Architectural Foundation's river cruise.  The sun was blasting in our eyes for much of the boat ride, but it was still great to see all the buildings from the river perspective, and the guide was entertaining.
 
@@ -49,7 +49,7 @@ After the river cruise we wandered through Millennium Park, which is fantastic; 
 
 {{< figure src="https://2.bp.blogspot.com/-0uW-jKigfcs/WWF_GdrbSUI/AAAAAAAANtA/LJFkmqaHzVIusBeCan_BQJoCEEt-bZicgCKgBGAs/s1600/IMG_20170528_184824.jpg" caption="Buckingham Fountain" >}}
 
-**Day 2**
+### **Day 2**
 
 This was the most ambitious day, where I started south of the city and worked my way north, with my very patient friend driving me to see random architectural sights.  We started at the Robie House at the University of Chicago, after she rescued me from a highway overpass as previously mentioned.  I think I've had just about enough Frank Lloyd Wright for one lifetime now, having visited Fallingwater, the Hanna House, Florida Southern College, and now the Robie House; the Unity Temple would have been nice, but it was closed at the time, and maybe I'd visit Taliesin West in Arizona, but other than that, I think I'm good now.  The low ceilings do wear on you after a while.
 
@@ -111,7 +111,7 @@ That evening I hit up a few more buildings, including the Monadnock Building (Bu
 
 <img src="https://1.bp.blogspot.com/-TD2ktw9JCgU/WWGArNvX-vI/AAAAAAAANtc/DAYABNcSm1owlEXUK9i12FQ_XcONmsVmQCKgBGAs/s1600/IMG_20170529_172339.jpg"/>
 
-**Day 3**
+### **Day 3**
 
 Grabbed some pastries and took the train to the airport - easy, convenient, and no issues other than being slightly confused about which entrance to use to get to the correct side of the station for the L.  But I didn't miss my flight, so it was fine.
 

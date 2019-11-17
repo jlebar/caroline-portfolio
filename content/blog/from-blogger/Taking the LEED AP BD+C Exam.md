@@ -5,7 +5,7 @@ tags = ['exams', 'sustainability', 'LEED', 'green', 'architecture']
 +++
 Last weekend I took the LEED AP Building Design + Construction (BD+C) exam, and, mercifully, passed.  (Something to be thankful for this Thanksgiving!)  I have two purposes in this post: first, to describe my study process for anyone else who's interested, and second, to reflect on the exam at a higher level, to consider whether it's a worthwhile use of one's time.
 
-#### Exam Prep
+### Exam Prep
 
 I passed the LEED Green Associate exam back in 2013, at the end of graduate school, and have been maintaining my credential since then through continuing ed and actual project experience.  I recently completed the LEED certification process for two projects at my office and am working on a third.  Overall, I felt that I had a solid foundation of understanding coming in to the exam prep.  I gave myself two months to prepare and used two different study guides: Gang Chen's "LEED v4 BD+C Exam Guide," plus his sample test book, and Fulya Kocak Gin's "LEED AP BD+C Exam Preparation Guide."  I also read all of the reference materials listed in the Candidate Handbook from GBCI, but skimmed the actual LEED BD+C Reference Guide rather than reading it thoroughly.
 
@@ -15,7 +15,7 @@ I thought both books had terrible sample exams.  They both have significant numb
 
 The actual exam did involve a lot of rote memorization questions based on the LEED application process, as expected, and the rest were analytical or problem-solving questions related to the same.  I thought about 10% of questions were very unclear or difficult.  I received a score of 193 out of 200 (170 is the minimum to pass, 125 is the exam minimum), with scores of 75% or higher in each category - so I think my study strategy was effective.  Basically I read through both books, took all the sample exams, and then the week before the exam, I created my study guide and read all the reference materials.
 
-#### Reflections on the Exam
+### Reflections on the Exam
 
 I had a difficult time motivating myself to study for this exam.  The exam tests only your memorization and understanding of the LEED certification process -- nothing more.  This process is, of course, described in excruciating detail in the LEED Reference Guides, so there is absolutely no reason to memorize it.  At all.  Ever.  So why is there this whole exam and credential system around it?  As far as I can tell, it's purely about money, about a system that supports the continued existence of USGBC / GBCI and that, occasionally, results in better pay for the individuals who have gone through the system and earned the credential.  You will gain nothing more concrete from the exam preparation process than that.
 

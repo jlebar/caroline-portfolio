@@ -3,27 +3,19 @@ date = "2014-07-06T02:46:00.003-07:00"
 title = "Movie Review: \"Snowpiercer\""
 tags = ['movie review', 'post-apocalyptic', 'ice', 'train', 'fire']
 +++
-*Some say the world will end in fire,
+**Some say the world will end in fire,  
+Some say in ice.  
+From what I’ve tasted of desire  
+I hold with those who favor fire.  
+But if it had to perish twice,  
+I think I know enough of hate  
+To say that for destruction ice  
+Is also great  
+And would suffice.**  
 
-Some say in ice.
+[Robert Frost](http://www.poetryfoundation.org/poem/173527)
 
-From what I’ve tasted of desire
-
-I hold with those who favor fire.
-
-But if it had to perish twice,
-
-I think I know enough of hate
-
-To say that for destruction ice
-
-Is also great
-
-And would suffice.*
-
-- [Robert Frost](http://www.poetryfoundation.org/poem/173527)
-
-In *Snowpiercer*, director Bong Joon-ho gets to have his ice and his fire, too. I'm a big fan of the apocalyptic action thriller, especially when it involves a focus on questionable science (see also: *The Core*, *The Day After Tomorrow*, *Armageddon*), but I did not enjoy this film. I don't enjoy gory or overly violent movies, and had to close my eyes during violent episodes throughout the movie. So with that caveat, I have a few comments.  For a more general review of the movie, check out the [NYTimes' review](http://www.nytimes.com/2014/06/27/movies/in-snowpiercer-the-train-trip-to-end-all-train-trips.html).
+In **Snowpiercer**, director Bong Joon-ho gets to have his ice and his fire, too. I'm a big fan of the apocalyptic action thriller, especially when it involves a focus on questionable science (see also: *The Core*, *The Day After Tomorrow*, *Armageddon*), but I did not enjoy this film. I don't enjoy gory or overly violent movies, and had to close my eyes during violent episodes throughout the movie. So with that caveat, I have a few comments.  For a more general review of the movie, check out the [NYTimes' review](http://www.nytimes.com/2014/06/27/movies/in-snowpiercer-the-train-trip-to-end-all-train-trips.html).
 
 The film has some scenes of beauty, both of the train's interior and of the frozen tundra outside.  What's left of the world is snowy, but not with deep enough snow to hide the frozen forms of the destroyed cities and ships that the train passes on its annual journey.  I liked that time was marked on board by the passing of landmarks outside.  I wish more film time had been spent on developing the relationship between the train and the frozen earth over which it passes - how does this train work, exactly?  But the film's focus was almost exclusively on life inside the train.  (Perhaps the [graphic novel](http://en.wikipedia.org/wiki/Le_Transperceneige) goes into more detail.)  But evidently this film does not fall neatly into my category of "apocalyptic action thriller with a focus on questionable science," although it does flirt with the genre.  It's also part-horror and part-drama, with a tiny bit of sci fi.
 

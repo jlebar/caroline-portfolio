@@ -37,4 +37,4 @@ So far, we've visited the Virginia Air & Space Center / NASA Langley Visitor Cen
 
 <img src="https://1.bp.blogspot.com/-Bhw2mHCDyp0/XV1myvYvh9I/AAAAAAAAevg/lKoc4zl_n3ctmFPnNjDtOYis1pddBJWngCKgBGAs/s1600/IMG_20190812_195127.jpg"/>
 
-East Coast friends, now is the time to come visit us here at the beach!  Let me know if you're interested, and we hope to see some of you during our time here.  Also, if you have any recommendations for what we &ast;have to&ast; see and do while in Virginia, let me know in the comments!  I'm already planning on trips to NYC, Durham, Richmond, and Williamsburg, but would welcome more suggestions.
+East Coast friends, now is the time to come visit us here at the beach!  Let me know if you're interested, and we hope to see some of you during our time here.  Also, if you have any recommendations for what we &ast;have to&ast; see and do while in Virginia, let me know!  I'm already planning on trips to NYC, Durham, Richmond, and Williamsburg, but would welcome more suggestions.

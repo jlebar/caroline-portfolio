@@ -16,7 +16,9 @@ Pros to living in SF while working in Palo Alto / Mountain View:
   *  We're close to everything interesting on the weekends, including our friends.
   *  It's technically reverse commute so maybe it's not as horrible as the other direction?
   *  I was happy to stop biking and driving; taking the train is easier.  And I actually got more exercise than usual by walking to and from the train.
-  *  We both enjoyed living in Potrero Hill.Cons:
+  *  We both enjoyed living in Potrero Hill.
+
+  Cons:
 
   *  Pretty much everything else, including but not limited to:
   *  The train is loud and annoying, the timetable is confining, and it's exhausting.

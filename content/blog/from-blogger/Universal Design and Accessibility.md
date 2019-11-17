@@ -1,21 +1,19 @@
 +++
-date = "2019-08-15T13:24:00.000-07:00"
-title = "Universal Design and Accessibility"
+date = "2019-09-15T13:24:00.000-07:00"
+title = "Thoughts on Universal Design and Accessibility"
 tags = []
 draft = true
 +++
-One of the primary responsibilities of architects is to ensure accessibility to public spaces.
+One of the primary responsibilities of architects is to ensure accessibility to public spaces.  Equal access to public spaces is a civil right, stemming from the 1989 Americans with Disabilities Act (ADA).  And yet, I have seen or read about cases where access was not sufficiently considered, resulting in angry building users, headaches for owners, and even lawsuits.  Even worse, I have heard from clients, building owners, and, yes, even other architects, that providing accessibility is a chore, onerous, disrupts our designs, and/or is too expensive.  This is embarrassing and unacceptable.  If architects want to maintain their position as "public intellectuals" on the forefront of positive social change, then we need to get with the times, and the times require universal design.
 
-Civil right - American with Disabilities act
+Universal design does not mean tacking on expensive add-ons to give a few people access to areas that able-bodied people can use (like stair lifts), at the expense of their dignity and self-determination.  And it does not involve a one-size-fits-all approach, where we take a single solution and apply it to all cases, since there is almost never one solution that does fit truly all people.  This means that ingenuity and creativity are required, and the right balance, to provide the best solutions for a range of users, is a moving target.  In California, the only requirement for continuing education in architecture is five hours of ADA training every two years; this is to make sure that we continue to serve the public with the best and most up-to-date knowledge as solutions change and are refined.  While architects in California are held to the California Building Code (CBC), which sometimes goes above and beyond what is required in the ADA, ultimately building owners are responsible for respecting the civil rights of their employees and the public.  And they expect us to ensure that what we design meets those requirements.
 
-In California, the only requirement for continuing education in architecture is five hours of ADA training every two years
+So if universal design isn't about one solution, what is it?  To achieve universal design, we try to design our buildings and spaces in a way that can be used by as many people as possible, but also is flexible enough to accommodate a-typical uses.  The ideal solution is one that works for everyone, but of course, the range of diversity in human experience means that there are rarely solutions that can do that.  Still, we try to account for a wide range of experience, without designing in any impediments to those whose experience falls outside the norm.
 
-Chris Downey: <a data-saferedirecturl="https://www.google.com/url?q=https://www.cbsnews.com/news/architect-chris-downey-goes-blind-says-hes-actually-gotten-better-at-his-job-60-minutes-2019-08-11/&source=gmail&ust=1565962719931000&usg=AFQjCNEkikm7YCBu_8e1RiAA7TFWJctsbg" href="https://www.cbsnews.com/news/architect-chris-downey-goes-blind-says-hes-actually-gotten-better-at-his-job-60-minutes-2019-08-11/" style="background-color: white; color: #1155cc; font-family: Arial, Helvetica, sans-serif; font-size: small;" target="_blank">https://www.cbsnews.com/news/<wbr/>architect-chris-downey-goes-<wbr/>blind-says-hes-actually-<wbr/>gotten-better-at-his-job-60-<wbr/>minutes-2019-08-11/</a>
+As part of my work on the Stanford Graduate School of Education, my team and I visited the Ed Roberts Campus in Berkeley to understand how they approach universal design.  Ed Roberts was a pioneer in disability rights advocacy, and the campus (essentially a large building) houses a range of organizations that work with people of all abilities.  99% Invisible did [a great piece on universal design and Ed Roberts, focused on curb cuts.](https://99percentinvisible.org/episode/curb-cuts/](https://99percentinvisible.org/episode/curb-cuts/)  During our tour, we observed a number of simple and straightforward changes to the design that made the project easier for a whole range of users: low-level elevator buttons, which accommodate both wheelchair users and anyone carrying something in both hands; larger RFID sensors, so you don't have to get as close to the sensor to activate it;
 
-Karen Braitmayer, FAIA: [https://www.architectmagazine.com/practice/karen-braitmayer-yes-people-with-disabilities-as-architects_o](https://www.architectmagazine.com/practice/karen-braitmayer-yes-people-with-disabilities-as-architects_o)
+[Chris Downey](https://www.cbsnews.com/news/architect-chris-downey-goes-blind-says-hes-actually-gotten-better-at-his-job-60-minutes-2019-08-11/)
 
-Universal Design and Ed Roberts: [https://99percentinvisible.org/episode/curb-cuts/](https://99percentinvisible.org/episode/curb-cuts/)
+[Karen Braitmayer, FAIA](https://www.architectmagazine.com/practice/karen-braitmayer-yes-people-with-disabilities-as-architects_o)
 
-Photos from the Ed Roberts Campus
-
-As part of my work on the Stanford University Graduate School of Education, we visited the Ed Roberts Campus in Berkeley
+Photos from Ed Roberts visit

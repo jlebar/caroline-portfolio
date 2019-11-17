@@ -25,8 +25,10 @@ My 2D design work allows me to explore methods of representation, form and abstr
 
 ![Etching, untitled, 2009](/img/portfolio/art-7.jpg)
 
-![Graphic designs for Silicon Valley Odyssey of the Mind, 2014-2019](/img/portfolio/art-8.jpg)
+![Mixed media, Collected Works #1, 2018](/img/portfolio/art-8.jpg)
 
-![Mixed media, Collected Works #1, 2019](/img/portfolio/art-9.jpg)
+![Mixed media, Collected Works #2, 2019](/img/portfolio/art-9.jpg)
 
-![Mixed media, Collected Works #2, 2019](/img/portfolio/art-10.jpg)
+![Mixed media, Collected Works #3, 2019](/img/portfolio/art-10.jpg)
+
+![Graphic designs for Silicon Valley Odyssey of the Mind, 2015-2019](/img/portfolio/art-11.jpg)

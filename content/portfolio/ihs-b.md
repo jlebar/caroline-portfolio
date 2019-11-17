@@ -2,7 +2,7 @@
 image = "img/portfolio/ihs-b-cover.jpg"
 showonlyimage = true
 draft = false
-date = "2019-10-31"
+date = "2019-11-03"
 title = "Independence High School Art Building"
 weight = 1
 +++

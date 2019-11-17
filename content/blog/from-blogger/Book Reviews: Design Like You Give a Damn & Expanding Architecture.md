@@ -1,14 +1,14 @@
 +++
 date = "2019-09-18T21:13:00.001-07:00"
-title = "Book Reviews: Design Like You Give a Damn & Expanding Architecture"
+title = "Book Review: Design Like You Give a Damn & Expanding Architecture"
 tags = ['book review', 'public interest design', 'case studies']
-draft = true
+draft = false
 +++
 This year, I am making a concerted effort to re-direct my practice as an architect towards projects that are community-focused, socially just, and environmentally sound.  In pursuit of those ends, I have gone back to some of the books that originally inspired me to improve my work.
 
 ![Design Like You Give a Damn and Expanding Architecture](/img/blog/20190918-1.jpg)
 
-**Design Like You Give a Damn: Architectural Responses to Humanitarian Crises (2006), edited by Architecture for Humanity (Katie Stohr and Cameron Sinclair)**
+### **Design Like You Give a Damn: Architectural Responses to Humanitarian Crises (2006), edited by Architecture for Humanity (Katie Stohr and Cameron Sinclair)**
 
 Architecture for Humanity (AFH) has had a checkered history, from an amazing rise to renown in its early years, to its seemingly abrupt closure in 2015, bankruptcy, and subsequent lawsuits over use of funds, which appear to be unresolved today.  But this book, edited and produced by the organization's founders, was highly influential among my peers in the early 2010s, and I have continued to return to it for inspiration and support.  I think I first read it around 2012, when it seemed like AFH still had a bright future ahead.  The title alone is a call to arms, fighting back against the formalism of the 1990s, and anointing a wide range of projects in a wide range of contexts with the title of "architecture".
 
@@ -21,7 +21,7 @@ An [article from 2015](https://www.metropolismag.com/architecture/the-rise-and-f
 So where does that leave this book from 2006?  The examples it showcases are still relevant, I think, and the need for these types of projects is no less than when the book was published, thirteen years ago.  As a source of encouragement, showing that these types of projects are out there, have been successful, have been built, it's still invaluable.  So, architects, I suggest you pick it up again and remind yourself why you're in this business in the first place.
 
 
-**Expanding Architecture: Design as Activism (2008), edited by Bryan Bell and Katie Wakeford**
+### **Expanding Architecture: Design as Activism (2008), edited by Bryan Bell and Katie Wakeford**
 
 Where "Design Like You Give a Damn" goes for volume of projects, "Expanding Architecture" goes for depth, with longer essays on each project or topic, some theoretical approaches, and more focus on the how and the why.  I have recommended this book to colleagues who were familiar with "Design Like You Give a Damn" but who had not heard of Bryan Bell, which indicates to me the lesser reach of his book.  I think that's a shame, because I have found it much more useful, due to its relatively more detailed and curated projects.  There is some overlap with the designers featured in the other book, but all the projects are different.  In short, if you are looking for more examples of public interest design / humanitarian architecture / socially conscious design, start here.  One of the best aspects of the book is that the essay authors describe the organizations they work with, both as design non-profits and their clients, which helps reveal the ecosystem of public interest design in the US and beyond.
 

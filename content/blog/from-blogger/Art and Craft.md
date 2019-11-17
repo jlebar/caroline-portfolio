@@ -9,11 +9,11 @@ As for me - I make, well, random stuff.  The impulse is there, but the disciplin
 
 ### "Collected Works"
 
-As a kid, I collected all kinds of things: figurative erasers, toy cars, stickers, enamel pins, etc.  Lately I've been interested in trying to turn those collections into artwork, as a way of ending the collection and transforming it into a piece I could display.  I'm calling the series "Collected Works."  I decided to start with a display of all my enamel pins, which have been primarily collected from Odyssey of the Mind, but also from various places I've traveled over the years. 
+As a kid, I collected all kinds of things: figurative erasers, toy cars, stickers, enamel pins, etc.  Lately I've been interested in trying to turn those collections into artwork, as a way of ending the collection and transforming it into a piece I could display.  I'm calling the series "Collected Works."  I decided to start with a display of all my enamel pins, which have been primarily collected from Odyssey of the Mind, but also from various places I've traveled over the years.
 
 {{< figure src="https://2.bp.blogspot.com/-sCRu9RUZFSI/W7LxA1T02OI/AAAAAAAAW8k/EKUh4hdd6wMnJKRnk9mSQ_TigH_A0zgUQCKgBGAs/s1600/IMG_20180728_141116.jpg" caption="Collected Works #1" >}}
 
-To make this piece, first, I designed the background canvas using a pattern of circles that I drew digitally, based on the number of pins I needed to display.  Then I printed the pattern, cut it out by hand (using a circle cutter tool) to make a template, and then painted the pattern onto the canvas.  This gave me the grid for laying out the pins, with different sizes of circles for different sizes of pins; the intent was to have an abstract pattern of contrasting sizes.  Last, I laid out all my pins on the canvas, and fastened them.  It didn't turn out exactly like I hoped, because more of the pins were large-sized than I initially thought, but the pattern is still visible in the top half of the piece. 
+To make this piece, first, I designed the background canvas using a pattern of circles that I drew digitally, based on the number of pins I needed to display.  Then I printed the pattern, cut it out by hand (using a circle cutter tool) to make a template, and then painted the pattern onto the canvas.  This gave me the grid for laying out the pins, with different sizes of circles for different sizes of pins; the intent was to have an abstract pattern of contrasting sizes.  Last, I laid out all my pins on the canvas, and fastened them.  It didn't turn out exactly like I hoped, because more of the pins were large-sized than I initially thought, but the pattern is still visible in the top half of the piece.
 
 <img src="https://4.bp.blogspot.com/-X7R7O__2zcI/XE1SODjHpMI/AAAAAAAAZhA/DYm9S64sYXIzZyP_kcFPj9T5DfuhyviWACLcBGAs/s1600/IMG_20180721_144621.jpg"/>
 
@@ -47,4 +47,4 @@ An earlier craft that I posted last year was a pair of Harry Potter-style wands.
 
 <img src="https://3.bp.blogspot.com/-R-wtKZF5fDM/XFppdeQe9mI/AAAAAAAAZww/SiwiSEIQTfkId3RUNFK771isPXc5WOQIACKgBGAs/s1600/IMG_20190126_122744.jpg"/>
 
-Have any craft ideas you've been trying to finish for a while?  I'd love to hear about them in the comments!
+Have any craft ideas you've been trying to finish for a while?  There's no time like the present!
