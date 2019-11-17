@@ -1,7 +1,9 @@
 {{ define "main" }}
 <div class="blog-front-matter">
    <h1>{{ .Title }}</h1>
-   {{ .Content }}
+   <div id="content">
+     {{ .Content }}
+   </div>
 </div>
 
 {{ range .Pages.GroupByDate "2006" }}
