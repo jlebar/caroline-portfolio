@@ -73,9 +73,18 @@ body {
   }
 }
 
-ul.nocontains-img, p.nocontains-img {
+ul.nocontains-img, p.nocontains-img, ol.nocontains-img {
   @include for-tablet-landscape-up {
     width: 80%;
+  }
+}
+
+// Top blurb in portfolio shouldn't be shrunk.
+article {
+  ul.nocontains-img, p.nocontains-img, ol.nocontains-img {
+    @include for-tablet-landscape-up {
+      width: 100%;
+    }
   }
 }
 
