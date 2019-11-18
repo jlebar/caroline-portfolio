@@ -73,6 +73,12 @@ body {
   }
 }
 
+ul.nocontains-img, p.nocontains-img {
+  @include for-tablet-landscape-up {
+    width: 80%;
+  }
+}
+
 #header {
   @include for-phone-only {
     margin-bottom: 1.5em;

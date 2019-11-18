@@ -1,7 +1,24 @@
 {{- /* TODO enable CSS compression? https://gohugo.io/hugo-pipes/scss-sass/ */ -}}
 {{ $styles := resources.Get "style.scss" | resources.ToCSS | resources.Fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh" crossorigin="anonymous"></script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta charset="utf-8">
 {{ template "_internal/google_analytics_async.html" . }}
+
+<script>
+$(function() {
+  // Add a class to p/ul/ol's that do/don't contain images.  Wish there were 
+  // a better way to do this, but I don't see how.
+  // https://discourse.gohugo.io/t/make-images-wider-than-text/21857
+  $('p,ul,ol').each(function() {
+    if ($(this).find('img').length > 0) {
+      $(this).addClass('contains-img');
+    } else {
+      $(this).addClass('nocontains-img');
+    }
+  });
+});
+</script>
+
 {{- /* TODO, RSS */ -}}
