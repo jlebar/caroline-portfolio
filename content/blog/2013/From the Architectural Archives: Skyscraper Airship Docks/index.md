@@ -11,4 +11,4 @@ But it does make one wonder - what if airships hadn't [gone out of favor so quic
 
 Then again, maybe it's all for the best.  These past years, our friends on Wall Street have needed some grounding even without getting to ride airships to work.
 
-![Image of old magazine article (Modern Mechanics, 1930?) with illustration of giant airship docked to the Empire State Building](/img/blog/zep_mooring.jpg)
+![Image of old magazine article (Modern Mechanics, 1930?) with illustration of giant airship docked to the Empire State Building](zep_mooring.jpg)

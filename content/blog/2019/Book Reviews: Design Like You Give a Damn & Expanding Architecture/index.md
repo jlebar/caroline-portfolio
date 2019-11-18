@@ -6,7 +6,7 @@ draft = false
 +++
 This year, I am making a concerted effort to re-direct my practice as an architect towards projects that are community-focused, socially just, and environmentally sound.  In pursuit of those ends, I have gone back to some of the books that originally inspired me to improve my work.
 
-![Design Like You Give a Damn and Expanding Architecture](/img/blog/20190918-1.jpg)
+![Design Like You Give a Damn and Expanding Architecture](20190918-1.jpg)
 
 ### **Design Like You Give a Damn: Architectural Responses to Humanitarian Crises (2006), edited by Architecture for Humanity (Katie Stohr and Cameron Sinclair)**
 
