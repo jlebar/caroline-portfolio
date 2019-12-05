@@ -13,6 +13,6 @@ Ever since I was introduced to the dense, multi-layered urbanism of Rome, I have
 
 All photographs are my own, unless indicated otherwise.
 
-[1]: /img/blog-1.jpg
-[2]: /img/blog-2.jpg
-[3]: /img/blog-3.jpg
+[1]: blog-1.jpg
+[2]: blog-2.jpg
+[3]: blog-3.jpg
