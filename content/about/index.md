@@ -16,5 +16,5 @@ Since 2009, Caroline has written "Not Built in a Day," a personal blog about arc
 
 Follow her on [Facebook](https://www.facebook.com/cslebar) or [Instagram](https://www.instagram.com/cslebar/) for more urbanism news and photography.
 
-[1]: /img/about-2.jpg
-[2]: /img/about-300.jpg
+[1]: about-2.jpg
+[2]: about-300.jpg
