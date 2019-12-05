@@ -22,12 +22,14 @@ def compress_image(image, target_size):
     out_mtime = os.path.getmtime(outfile_name)
     if out_mtime > img_mtime and out_mtime > THIS_MTIME:
       print(f'Skipping {outfile_name}')
+      return
 
   convert_proc = subprocess.run(['convert', image, '-resize', f'{target_size}>x{target_size}>', 'ppm:-'],
                                 check=True, capture_output=True)
   with open(outfile_name, 'w') as outfile:
       subprocess.run(['jpeg-recompress', '-Q', '--quality', 'low', '--method', 'smallfry', '--ppm', '-', '-'],
                      input=convert_proc.stdout, stdout=outfile, check=True)
+
   orig_size = os.path.getsize(image)
   new_size = os.path.getsize(outfile_name)
   print(f'{image} @{target_size} {naturalsize(orig_size)} -> {naturalsize(new_size)} '
@@ -38,13 +40,14 @@ def compress_image(image, target_size):
 def main():
   with ThreadPoolExecutor(max_workers=2 * multiprocessing.cpu_count()) as executor:
     for image in glob.glob('**/*.jpg', recursive=True):
-      if image.startswith('resources'):
+      imgdir = os.path.dirname(image)
+      if imgdir.startswith('resources/') or imgdir.startswith('public/'):
         continue
 
       # Don't try to upsize an image.
       img_obj = Image.open(image)
       max_dim = max(img_obj.width, img_obj.height)
-      sizes = [x for x in [2048, 1536, 1024, 768, 512] if x <= max_dim]
+      sizes = [x for x in [2048, 1536, 1024, 768, 512] if x < max_dim] + [max_dim]
 
       for target_size in sizes:
         executor.submit(compress_image, image, target_size)
