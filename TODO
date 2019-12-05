@@ -1,8 +1,3 @@
-Minify images
- * https://github.com/rflynn/imgmin
- * https://github.com/mozilla/mozjpeg
-or smth?
-
 Nontrivial blogger duplicates:
 
   http://3.bp.blogspot.com/_BPRHjFkCSTM/ScjMd5BNO4I/AAAAAAAAFgA/DS5f2Qc97u4/s1600/IMG_2292.JPG
@@ -10,3 +5,7 @@ Nontrivial blogger duplicates:
 
   http://4.bp.blogspot.com/_BPRHjFkCSTM/ScjMQfXYjXI/AAAAAAAAFfw/jsuOqdXJdO0/s1600/IMG_2259.JPG
   https://4.bp.blogspot.com/-Pd_VZ-8AWrY/Vjg7iCNIu6I/AAAAAAAAHws/KKvwLlf7TZkHAjL1oPy8_8te4LPiepaXQCPcB/s1600/IMG_2259.JPG
+
+Fix image compression script to leave some marker when it chooses not to
+compress an image because the compressed version is bigger than the original.
+Otherwise every time we `make` we just to through this again.
