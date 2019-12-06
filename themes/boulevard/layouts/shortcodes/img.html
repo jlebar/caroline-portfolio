@@ -1,0 +1,13 @@
+{{- /* From https://laurakalbag.com/processing-responsive-images-with-hugo/ */}}
+{{ $src := resources.Get "src" }}
+
+{{/* RelPermalink on src?? */}}
+<img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}"
+  srcset="
+  {{- with $.Page.Resources -}}
+    {{ range . }}
+      {{ printf "%s, " .RelPermalink }}
+    {{ end }}
+  {{- end -}}
+  "
+>
