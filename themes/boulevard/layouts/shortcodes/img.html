@@ -1,12 +1,10 @@
-{{- /* From https://laurakalbag.com/processing-responsive-images-with-hugo/ */}}
-{{ $src := resources.Get "src" }}
-
-{{/* RelPermalink on src?? */}}
+{{ $img_noext := strings.TrimSuffix ".jpg" (.Get "src") }}
+{{/* TODO: Sizes attribute for these? */}}
 <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}"
   srcset="
-  {{- with $.Page.Resources -}}
+  {{- with ($.Page.Resources.Match (printf "_gen/%s*" $img_noext )) -}}
     {{ range . }}
-      {{ printf "%s, " .RelPermalink }}
+      {{ printf "%s %dw %dh, " .Name .Width .Height}}
     {{ end }}
   {{- end -}}
   "
