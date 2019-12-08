@@ -1,5 +1,8 @@
 {{ $img_noext := strings.TrimSuffix ".jpg" (.Get "src") }}
+{{ $has_cap :=  ne (.Get "caption") "" }}
 {{/* TODO: Sizes attribute for these? */}}
+
+{{ if $has_cap }}<figure>{{end}}
 <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}"
   srcset="
   {{- with ($.Page.Resources.Match (printf "_gen/%s*" $img_noext )) -}}
@@ -9,3 +12,9 @@
   {{- end -}}
   "
 >
+{{ if $has_cap -}}
+  <figcaption>
+  <p>{{ .Get "caption" }}</p>
+  </figcaption>
+</figure>
+{{- end}}
