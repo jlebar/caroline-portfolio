@@ -2,5 +2,20 @@
 <div class=text>
 {{ .Inner | markdownify }}
 </div>
-<img src="{{ .Get "img" }}">
+
+{{/* Sigh, we have to do the srcset thing in here too bc shortcodes don't work in html? :( */}}
+{{/* Put the image in a p so that it gets a margin below. */}}
+{{ $img_noext := strings.TrimSuffix ".jpg" (.Get "img") }}
+<p>
+<img class="artcle-img" src="{{ .Get "img" }}" alt="{{ .Get "title" }}"
+  sizes="(min-width: 899px) 50vw, 100vw"
+  srcset="
+  {{- with ($.Page.Resources.Match (printf "_gen/%s*" $img_noext )) -}}
+    {{ range . }}
+      {{ printf "%s %dw %dh, " .Name .Width .Height}}
+    {{ end }}
+  {{- end -}}
+  "
+>
+</p>
 </article>

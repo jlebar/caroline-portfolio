@@ -18,10 +18,10 @@ Project Size: 12,000 SF, new construction and major renovation
 The Building 900 -- Student Center renovation for James Lick High School included demolition of existing structures, the careful adaptation of the existing cafeteria and kitchen, and addition of a new library.  The resulting center creates a new heart for student activities on campus, including dining, studying, counseling, and administration.  A new outdoor courtyard with custom shade trellis marks the center of campus and invites students to gather, learn, and socialize in an environment that fosters community pride.
 {{% /article %}}
 
-![Rendering of main campus courtyard](jl-2.jpg)
+{{< img alt="Rendering of main campus courtyard" src="jl-2.jpg" >}}
 
-![Photo of courtyard, with finished trellis](jl-3.jpg)
+{{< img alt="Photo of courtyard, with finished trellis" src="jl-3.jpg" >}}
 
-![Rendering of interior Hub dining space](jl-4.jpg)
+{{< img alt="Rendering of interior Hub dining space" src="jl-4.jpg" >}}
 
-![Photo of interior Hub dining space](jl-5.jpg)
+{{< img alt="Photo of interior Hub dining space" src="jl-5.jpg" >}}

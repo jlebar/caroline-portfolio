@@ -16,7 +16,7 @@ Site: Mid-Manhattan Library, New York City, New York
 Can we adapt an aging library for contemporary usage patterns, including an adaptation of the existing structure to support a needed addition?  My hypothesis was that the creation of a unique structural adaptation system could provide both solutions.
 {{% /article %}}
 
-![Library floor plans](library-2.jpg)
+{{< img alt="Library floor plans" src="library-2.jpg" >}}
 
 Using the idea of a hypostyle hall as the organizational principle for the building, the new library addition forms an organic part of the existing building, carried on reinforcing “fins” that surround the existing column grid.  Above the existing grid, the “fins” become box columns that support the weight of the bookshelves.
 
@@ -28,8 +28,8 @@ The second (mezzanine) floor is dedicated exclusively to workspace, an “inform
 
 In the upper levels, cuts and setbacks reveal circulation areas and areas of shelving density, while also bringing more light into the reading areas.
 
-![Library column rendering](library-3.jpg)
+{{< img alt="Library column rendering" src="library-3.jpg" >}}
 
-![Library voids rendering](library-5.jpg)
+{{< img alt="Library voids rendering" src="library-5.jpg" >}}
 
-![Library physical model](library-4.jpg)
+{{< img alt="Library physical model" src="library-4.jpg" >}}
