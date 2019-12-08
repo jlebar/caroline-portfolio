@@ -16,3 +16,6 @@ publish: hugo-prereqs
 stage: hugo-prereqs
 	hugo --environment staging
 	rsync --chmod=+rx --omit-dir-times --progress -a public/ ${USER}_cslebar@ssh.phx.nearlyfreespeech.net:staging
+
+delete-stage:
+	rsync --chmod=+rx --omit-dir-times --progress -a /dev/null ${USER}_cslebar@ssh.phx.nearlyfreespeech.net:staging
