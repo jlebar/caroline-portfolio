@@ -7,11 +7,11 @@
         <img src="{{.Params.image | absURL}}" alt="{{ .Title }}" class="portfolio-item-image"
              sizes="(max-width: 599px) 100vw, (min-width: 600px) and (max-width: 899px) 50vw, 33vw"
              srcset="
-               {{- range (readDir "/static/img/portfolio") -}}
-                 {{- if (strings.HasSuffix (path.Base .Name) (path.Base $img)) }}
-                   {{ (printf "img/portfolio/%s" .Name) | absURL }} {{ with (imageConfig (printf "/static/img/portfolio/%s" .Name)) -}}
-                     {{.Height}}h {{.Width}}w
-                   {{- end -}},
+               {{- range (readDir "/static/img/portfolio/_gen") -}}
+                 {{- $img_noext := (strings.TrimSuffix ".jpg" (path.Base $img)) -}}
+                 {{- if (strings.HasPrefix (path.Base .Name) $img_noext) }}
+                   {{ (printf "img/portfolio/_gen/%s" .Name) | absURL -}}
+                   {{ with (imageConfig (printf "/static/img/portfolio/_gen/%s" .Name)) }} {{.Height}}h {{.Width}}w {{- end -}},
                  {{- end -}}
                {{- end -}}
              ">
