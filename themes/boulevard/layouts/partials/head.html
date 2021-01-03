@@ -1,10 +1,16 @@
 {{- /* TODO enable CSS compression? https://gohugo.io/hugo-pipes/scss-sass/ */ -}}
 {{ $styles := resources.Get "style.scss" | resources.ToCSS | resources.Fingerprint "sha512" }}
-<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+{{/* Integrity check disabled bc it's breaking with https! integrity="{{ $styles.Data.Integrity }} */}}
+<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh" crossorigin="anonymous"></script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta charset="utf-8">
+
 {{ template "_internal/google_analytics_async.html" . }}
+
+<!--Ideally I'd only include this in pages which include the custom search box.-->
+<script async src="https://cse.google.com/cse.js?cx=002719195090770544390:tdm2crlq6w0"></script>
 
 <script>
 $(function() {

@@ -1,0 +1,11 @@
+Nontrivial blogger duplicates:
+
+  http://3.bp.blogspot.com/_BPRHjFkCSTM/ScjMd5BNO4I/AAAAAAAAFgA/DS5f2Qc97u4/s1600/IMG_2292.JPG
+  https://1.bp.blogspot.com/-FVfgxE9QeYw/Vjg7rzjwJ1I/AAAAAAAAHzE/AWW7pZDfW10hs9giqbr6M1HJfWgPrD8tQCPcB/s1600/IMG_2292.JPG
+
+  http://4.bp.blogspot.com/_BPRHjFkCSTM/ScjMQfXYjXI/AAAAAAAAFfw/jsuOqdXJdO0/s1600/IMG_2259.JPG
+  https://4.bp.blogspot.com/-Pd_VZ-8AWrY/Vjg7iCNIu6I/AAAAAAAAHws/KKvwLlf7TZkHAjL1oPy8_8te4LPiepaXQCPcB/s1600/IMG_2259.JPG
+
+Fix image compression script to leave some marker when it chooses not to
+compress an image because the compressed version is bigger than the original.
+Otherwise every time we `make` we just to through this again.

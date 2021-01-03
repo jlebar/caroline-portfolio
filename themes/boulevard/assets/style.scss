@@ -18,6 +18,9 @@ $two-col-max-width: 11in;
 @mixin for-tablet-portrait-only {
   @media (min-width: 600px) and (max-width: 899px) { @content; }
 }
+@mixin for-tablet-portrait-down {
+  @media (max-width: 899px) { @content; }
+}
 @mixin for-tablet-landscape-up {
   @media (min-width: 900px) { @content; }
 }
@@ -189,10 +192,7 @@ body {
 article {
   display: grid;
 
-  @include for-phone-only {
-    grid-template-columns: repeat(1, 1fr);
-  }
-  @include for-tablet-portrait-only {
+  @include for-tablet-portrait-down {
     grid-template-columns: repeat(1, 1fr);
   }
   @include for-tablet-landscape-up {
@@ -207,10 +207,22 @@ article {
     }
   }
 
+  p.contains-img {
+    margin-top: 0;
+    @include for-tablet-portrait-down {
+      margin-bottom: 0;
+    }
+  }
+
   .text {
-    hyphens: auto;
-    text-justify: inner-character;
-    text-align: justify;
+    @include for-tablet-portrait-down {
+      grid-row: 2;
+    }
+    @include for-tablet-landscape-up {
+      hyphens: auto;
+      text-justify: inner-character;
+      text-align: justify;
+    }
   }
 }
 
@@ -223,6 +235,16 @@ ul.blog-posts {
 
 .hidden {
   display: none;
+}
+
+#searchbox-container {
+  h3 {
+    margin-top: 0.3em;
+    margin-bottom: 0em;
+  }
+  border: solid 1px gray;
+  padding-left: 1em;
+  max-width: 50em;
 }
 
 #footer {

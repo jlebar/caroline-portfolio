@@ -7,9 +7,9 @@ draft = false
 
 Welcome to the new and improved "Not Built in a Day!"  For the first time, I now have all my work in one place, including my design portfolio and my blog on architecture and design.  After ten years on Blogger, it was time for an update; while the new platform has fewer features (no more comments, no more search bar, etc) it's given me more control, and ensures that if Blogger gets killed off, as Google often does to their products without warning, my site will remain functional.  The comment feature was rarely used anyway.  All of the nearly 200 previous posts are still here, and hopefully there will be many more to come!  Copious thanks to Justin for making this happen.
 
-![Downtown Norfolk Arts District](20191115-1.jpg)
-![Virginia Beach](20191115-4.jpg)
-![Bemis Laboratories, Department of Architecture, Hampton University](20191115-3.jpg)
+{{< img alt="Downtown Norfolk Arts District" src="20191115-1.jpg" >}}
+{{< img alt="Virginia Beach" src="20191115-4.jpg" >}}
+{{< img alt="Bemis Laboratories, Department of Architecture, Hampton University" src="20191115-3.jpg" >}}
 
 So what else have I been up to since coming to Virginia this fall?
 
@@ -19,8 +19,8 @@ So what else have I been up to since coming to Virginia this fall?
 * **Researching:** As the semester comes to a close, my next focus will be on finding firms in San Francisco that I will want to work with.  My main criteria will be area of specialty (housing, public projects), sustainable design (2030 Challenge signatories), and quality of the firm culture.  If you love your firm in SF and think I should consider them, please reach out!  
 * **New projects:** Aside from this website, my recent personal projects have included updating my portfolio (now six years out of date) and working on a couple of art pieces using stickers from my childhood.  I'm still in the process of laying to rest old projects that I started years ago, so I can begin 2020 with a clean slate and the ability to take on new things!  
 
-![New Plaza, Duke University](20191115-6.jpg)
-![Sky Reflector-Net, Fulton Center, NYC](20191115-5.jpg)
-![National Museum of African American History and Culture](20191115-2.jpg)
+{{< img alt="New Plaza, Duke University" src="20191115-6.jpg" >}}
+{{< img alt="Sky Reflector-Net, Fulton Center, NYC" src="20191115-5.jpg" >}}
+{{< img alt="National Museum of African American History and Culture" src="20191115-2.jpg" >}}
 
 I'm excited about 2020 and looking forward to a new adventure in San Francisco.

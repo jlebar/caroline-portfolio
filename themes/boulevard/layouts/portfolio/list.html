@@ -1,9 +1,20 @@
 {{ define "main" }}
 <div id="portfolio">
   {{ range .Data.Pages }}
+    {{ $img := .Params.image }}
     <div class="item">
       <a href="{{ .Permalink }}" alt="{{ .Title }}">
-        <img src="{{.Params.image | absURL}}" alt="{{ .Title }}" class="portfolio-item-image">
+        <img src="{{.Params.image | absURL}}" alt="{{ .Title }}" class="portfolio-item-image"
+             sizes="(max-width: 599px) 100vw, (min-width: 600px) and (max-width: 899px) 50vw, 33vw"
+             srcset="
+               {{- range (readDir "/static/img/portfolio/_gen") -}}
+                 {{- $img_noext := (strings.TrimSuffix ".jpg" (path.Base $img)) -}}
+                 {{- if (strings.HasPrefix (path.Base .Name) $img_noext) }}
+                   {{ (printf "img/portfolio/_gen/%s" .Name) | absURL -}}
+                   {{ with (imageConfig (printf "/static/img/portfolio/_gen/%s" .Name)) }} {{.Height}}h {{.Width}}w {{- end -}},
+                 {{- end -}}
+               {{- end -}}
+             ">
       </a>
       <div class=title>{{ .Title }}</div>
     </div>
