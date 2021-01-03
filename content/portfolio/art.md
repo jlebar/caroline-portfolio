@@ -30,5 +30,3 @@ My 2D design work allows me to explore methods of representation, form and abstr
 ![Mixed media, Collected Works #2, 2019](/img/portfolio/art-9.jpg)
 
 ![Mixed media, Collected Works #3, 2019](/img/portfolio/art-10.jpg)
-
-![Graphic designs for Silicon Valley Odyssey of the Mind, 2015-2019](/img/portfolio/art-11.jpg)
