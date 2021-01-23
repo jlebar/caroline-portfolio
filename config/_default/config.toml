@@ -67,3 +67,6 @@ CanonifyURLs=true
 
 [permalinks]
   blog = "/:year/:month/:title/"
+
+[markup.goldmark.renderer]
+  unsafe = true
