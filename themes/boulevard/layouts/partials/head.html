@@ -3,6 +3,7 @@
 <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 {{/* Integrity check disabled bc it's breaking with https! integrity="{{ $styles.Data.Integrity }} */}}
 <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+<link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}/blog/index.xml" title="Not Built in a Day">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh" crossorigin="anonymous"></script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta charset="utf-8">
