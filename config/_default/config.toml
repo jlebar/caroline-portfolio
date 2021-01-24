@@ -10,6 +10,8 @@ googleAnalytics = "UA-152746562-1"
 RelativeURLs=true
 CanonifyURLs=true
 
+disableKinds = ["taxonomy", "taxonomyTerm", "tags", "categories"]
+
 [params]
   description = "Caroline Lebar's Portfolio and Blog"
   copyright = "&copy;2019 Caroline S. Lebar"
