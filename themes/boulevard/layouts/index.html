@@ -1,5 +1,6 @@
 {{- /* Redirect to the "home" page from the config. */ -}}
 <head>
+  <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}/blog/index.xml" title="Not Built in a Day">
   {{ range .Site.Params.navlinks }}
     {{ if .home }}
     <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
