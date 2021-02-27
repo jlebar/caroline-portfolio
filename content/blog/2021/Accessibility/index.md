@@ -1,0 +1,34 @@
++++
+date = "2021-02-27"
+title = "Thoughts on Universal Design and Accessibility"
+tags = ['accessibility', 'universal design', 'writing']
+draft = true
++++
+*This post was developed in 2019, and is brought to you now because accessibility is always a timely topic.*
+
+One of the primary responsibilities of architects is to ensure accessibility to public spaces.  Equal access to public spaces is a civil right, stemming from the 1989 Americans with Disabilities Act (ADA).  And yet, I have seen and read about cases where access was not sufficiently considered, resulting in angry building users, headaches for owners, and even lawsuits.  Even worse, I have heard comments from clients, building owners, and, yes, other architects, that providing accessibility is a chore, onerous, disrupts our designs, and/or is too expensive.  This is embarrassing and unacceptable.  If architects want to maintain their position as "public intellectuals" on the forefront of positive social change, then we need to get with the times, and the times require universal design.
+
+Universal design generally does not mean tacking on expensive add-ons to give a few people access to areas that able-bodied people can use (like stair lifts), at the expense of their dignity and self-determination.  And it cannot involve a one-size-fits-all approach, where we take a single solution and apply it to all cases, since there is almost never one solution that does fit truly all people.  This means that ingenuity and creativity are required, and the right balance, to provide the best solutions for a range of users, is a moving target.  In California, the only requirement for continuing education in architecture is five hours of ADA training every two years (although my firm is working to add net zero energy training to this requirement); this rule is to ensure that we continue to serve the public with the best and most up-to-date accessibility knowledge as solutions change and are refined.  While architects in California are held to the California Building Code (CBC), which sometimes goes above and beyond what is required in the ADA, ultimately building owners are responsible for respecting the civil rights of their employees and the public.  And owners expect us to ensure that what we design meets those requirements.
+
+So if universal design isn't about one solution, what is it?  To achieve universal design, we try to design our buildings and spaces in a way that can be used by as many people as possible, but also is flexible enough to accommodate atypical uses.  The ideal solution is one that works for everyone, but of course, the range of diversity in human experience means that there are rarely single solutions that can do that.  Still, we try to account for a wide range of experience, without designing in any impediments to those whose experience falls outside the "average".
+
+{{< img alt="Ed Roberts Campus main entry" src="190227-1.jpg" >}}
+
+As part of my work on the Stanford Graduate School of Education project, my team and I visited the Ed Roberts Campus in Berkeley, designed by Leddy Maytum Stacy Architects, to understand how the design team, owners, and users approached universal design for their building.  [Ed Roberts](https://en.wikipedia.org/wiki/Ed_Roberts_(activist)) was a pioneer in disability rights advocacy, and the campus named for him (really a single large building) houses a range of organizations that work with people of all abilities.  The design-focused podcast 99% Invisible did [a great piece on universal design and Ed Roberts, focused on curb cuts.](https://99percentinvisible.org/episode/curb-cuts/)  During our tour, we observed a number of simple and straightforward changes to the design that made the project easier for a whole range of users: tactile changes in floor materials that make it clear what different areas of the space are for (general open space versus walkways); low-level elevator buttons, which accommodate both wheelchair users and anyone carrying something in both hands; and larger RFID sensors at entry doors, so you don't have to get as close to the sensor to activate it.
+
+Still, accommodating different users of varying abilities is not easy, and reaching the final design took significant effort by all members of the team to find the best ways to meet different needs.  Our guide from [LightHouse for the Blind](https://lighthouse-sf.org/) described some examples of how different user groups have needs that sometimes conflict with each other, so it takes careful listening, thoughtfulness, and sometimes compromise to find solutions that are acceptable to all users.  Needs also change over time - accommodating more powered wheelchairs, with charging needs and different space requirements from manual wheelchairs, has become more common.  In short, it's critical to have input from the people who will actually be using the spaces we design, and not just to follow minimum ADA and code standards, if we want to provide spaces that will be comfortable for people of all abilities.
+
+{{< img alt="Ed Roberts Campus central space" src="190227-2.jpg" >}}
+{{< img alt="Ed Roberts Campus elevator" src="190227-3.jpg" >}}
+
+One of the most well-known accessibility features of the campus is a large spiral ramp near the main entrance, which is wide enough for wheelchair users and non-wheelchair users to proceed together to the second floor.  The ramp also passes by a mural of historical photographs of the disability rights movement, and gives the simple act of traveling together an elevated place within the building.  The ramp serves multiple functions as a symbol of how people of all abilities can move forward together, and a practical piece of architecture, and an eye-catching centerpiece of the main hall.
+
+{{< img alt="Ed Roberts Campus ramp" src="190227-4.jpg" >}}
+
+Since the time of this tour, I have joined Leddy Maytum Stacy Architects and I am proud to be part of a team that takes this kind of work so seriously.
+
+If you're interested in learning more, I suggest checking out some interviews and resources with disability rights advocates and architects, Chris Downey and Karen Braitmeyer.
+
+[Chris Downey](https://www.cbsnews.com/news/architect-chris-downey-goes-blind-says-hes-actually-gotten-better-at-his-job-60-minutes-2019-08-11/)
+
+[Karen Braitmayer, FAIA](https://www.architectmagazine.com/practice/karen-braitmayer-yes-people-with-disabilities-as-architects_o)
