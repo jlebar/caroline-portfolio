@@ -56,6 +56,8 @@ def compress_image(image, target_size):
   with open(outfile_name, 'wb') as outfile:
     outfile.write(compressed)
 
+  subprocess.check_call(['exiftool', '-overwrite_original', '-tagsFromFile', image, outfile_name], stdout=subprocess.DEVNULL)
+
   orig_size = os.path.getsize(image)
   new_size = os.path.getsize(outfile_name)
   print(f'{image} @{target_size} {naturalsize(orig_size)} -> {naturalsize(new_size)} '
