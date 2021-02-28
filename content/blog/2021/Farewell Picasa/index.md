@@ -12,4 +12,7 @@ Speaking of remembrance of software past - I have been using [Feedly](https://fe
 I'm going to try using [digiKam](https://www.digikam.org/) as my new photo organization software - we'll see how that goes!  It lacks the approachable and user-friendly interface of Picasa; but it can export directly to the web and integrate with online services, and it does have direct integration with Google Photos, so if I make an album there, I can directly download it to my external hard drive with digiKam.  For editing, I will have to use Photoshop or Camera Raw, which always feels like overkill, but is of course the gold standard.  I don't do much photo editing so it's probably not a big deal.  Hopefully this will not feel like a downgrade.  So thanks, Picasa, for your service; I will always appreciate the many years of photo organization that I enjoyed with you.
 
 {{< img alt="Picasa screenshot - library view" src="20200315-1.jpg" >}}
+Screenshot of the Picasa library view
+
 {{< img alt="Picasa screenshot - image view" src="20200315-2.jpg" >}}
+Screenshot of the Picasa image view
